@@ -20,7 +20,7 @@
 | successor   = 
 | party       = [[Tory]]
 | boards      = 
-| religion    = [[Anglican|Anglican]]
+| religion    = [[Anglican]]
 | spouse      = 
 | partner     = 
 | children    = 
@@ -32,7 +32,7 @@
 | weight      = 
 }}
 
-[[Image:Edward_Colston_1895_statue.jpg|thumb|A controversial presence: the 1895 statue of Edward Colston]]
+[[Image:Edward Colston 1895 statue.jpg|thumb|A controversial presence: the 1895 statue of Edward Colston]]
 
 '''Edward Colston''' ([[2 November]] [[1636]] &ndash; [[11 October]] [[1721]]) was a [[Bristol]]-born [[England|English]] [[merchant]] and [[philanthropist]]. Much of his wealth, although used often for generous purposes, was acquired through the trade and exploitation of [[slavery|slaves]].
 
@@ -56,11 +56,12 @@ Colston is a controversial figure these days in Bristol. In the [[1990]]s, publi
 
 <div class="references-small"><references /></div>
 
-[[Category:1637 births|Colston, Edward]]
-[[Category:1721 deaths|Colston, Edward]]
-[[Category:Old Blues|Colston, Edward]]
-[[Category:British businesspeople|Colston, Edward]]
-[[Category:People from Bristol|Colston, Edward]]
+{{DEFAULTSORT:Colston, Edward}}
+[[Category:1637 births]]
+[[Category:1721 deaths]]
+[[Category:Christ's Hospital Old Blues]]
+[[Category:British businesspeople]]
+[[Category:People from Bristol]]
 
 [[es:Edward Colston]]
 [[ru:Кольстон, Эдвард]]
