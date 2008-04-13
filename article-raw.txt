@@ -3,8 +3,8 @@
 | name        = Edward Colston
 | residence   = Mortlake
 | other_names = 
-| image       = 
-| imagesize   = 
+| image       = Edward Colston.jpg
+| imagesize   = 200px
 | caption     = 
 | birth_name  = 
 | birth_date  = [[2 November]] [[1636]]
