@@ -1,4 +1,3 @@
 # 
 # See also
-# References
 # External links
