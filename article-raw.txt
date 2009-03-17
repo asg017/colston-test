@@ -7,9 +7,9 @@
 | imagesize   = 200px
 | caption     = 
 | birth_name  = 
-| birth_date  = [[2 November]] [[1636]]
+| birth_date  = {{birth-date|2 November 1636|[[2 November]] [[1636]]}} 
 | birth_place = [[Bristol]]
-| death_date  = [[11 October]] [[1721]]
+| death_date = {{death-date|11 October 1721|[[11 October]] [[1721]]}} 
 | death_place = [[Mortlake]]
 | death_cause = 
 | known       = 
