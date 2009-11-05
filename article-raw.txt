@@ -1,20 +1,20 @@
 {{otherpeople|Edward Colston}}
 {{Infobox_Person 
-| name        = Edward Colston
+| name        = Edward Markus Colston
 | residence   = Mortlake
 | other_names = The Colstonator
 | image       = Edward Colston.jpg
 | imagesize   = 200px
 | caption     = 
-| birth_name  = 
+| birth_name  =  Edward 
 | birth_date  = {{birth-date|2 November 1636|[[2 November]] [[1636]]}} 
 | birth_place = [[Bristol]]
 | death_date = {{death-date|11 October 1721|[[11 October]] [[1721]]}} 
 | death_place = [[Mortlake]]
-| death_cause = 
+| death_cause =  Suicide
 | known       = 
 | occupation  = [[Merchant]]
-| title       = 
+| title       =  Mr
 | salary      = 
 | term        = 
 | predecessor = 
@@ -26,7 +26,7 @@
 | partner     = 
 | children    = 
 | relations   = 
-| website     = 
+| website     =   www.thecolstonator.co.uk
 | footnotes   = 
 | employer    = 
 | height      =  6 foot
