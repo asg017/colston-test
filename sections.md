@@ -5,8 +5,8 @@
 ## Death penalty
 ## Violent crimes and felons
 ## Civil rights
-## Labor rights
 ## Education
+## Labor rights
 ## Environment
 ## Financial crimes
 # References
