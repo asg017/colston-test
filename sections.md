@@ -4,11 +4,12 @@
 ### Death penalty
 ### Violent crimes and felons
 ### Jeopardized Convictions
-### Drug-Lab Scandal
+### San Francisco Police Department Drug Lab
 ### Civil rights
 ### Education
 ### Labor rights
 ### Environment
-### Financial Crimes and Prosecutorial Misconduct
+### Financial Crimes
+### Brady Process
 # References
 # External links
