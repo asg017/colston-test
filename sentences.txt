@@ -38,15 +38,6 @@ In 2009, Harris wrote Smart on Crime: A Career Prosecutor's Plan to Make Us Safe
 While some challenge her programs as "soft on crime," the programs are designed to reduce the recidivism rate in San Francisco.
 One such program, "Back on Track" was signed into law by Governor Arnold Schwarzenegger as a model program for the state.
 While there have been some issues with removing undocumented immigrants from the program, it has since been revised to address this concern.
-On May 4, 2010, the San Francisco Chronicle reported that “hundreds of felony convictions” were in jeopardy when it was revealed that the Harris' district attorney’s office did not disclose criminal backgrounds for over 80 San Francisco police officers before testifying.
-“Under the law, prosecutors [with the District Attorney’s office] are responsible for alerting defense attorneys when any witness, including a police officer, has been arrested or convicted for a broad range of crimes, or accused of misconduct for such disciplinary offenses as lying during internal affairs interviews.”
-According to San Francisco Public Defender Jeff Adachi, it is the district attorney's job to check the criminal history of every witness.
-The potential fallout could be far more severe than that caused by the cocaine-skimming scandal at the San Francisco police drug lab, which prompted prosecutors to dismiss more than 600 narcotics cases, experts say.”
-San Francisco Police Department drug lab technician Deborah Madden admitted to taking amounts of cocaine from evidence samples in the police department's crime lab.
-The testing unit of the lab was shut down on March 9, 2010.
-Since then, hundreds of drug cases have either been dismissed or discharged due to evidentiary requirements.
-While Harris' district attorney’s office was aware of troubling issues at the police department's drug lab before the issue became public, the entire scope of the issues did not become clear until Madden was exposed for removing drug samples.
-The police department later widened the investigation into their crime lab to include cases that were already prosecuted.
 Harris has long been concerned with civil rights issues, creating a special Hate Crimes Unit as San Francisco District Attorney.
 She is especially concerned with hate crimes against LGBT children and teens in schools.
 She convened a national conference to confront the "gay-transgender panic defense," which has been used to justify violent hate crimes.
@@ -61,7 +52,13 @@ In her campaign for California Attorney General, Harris has received the endorse
 During her time as San Francisco District Attorney, Harris created the Environmental Justice Unit in the San Francisco District Attorney’s Office and has prosecuted several industries and individuals for pollution, most notably U-Haul, Alameda Publishing Corporation, and the Cosco Busan oil spill.
 She has also advocated for strong enforcement of environmental protection laws.
 Harris has prosecuted numerous financial crimes throughout her career, particularly those affecting elders, high-tech crime, and identity theft.
-On May 20, 2010, San Francisco Superior Court Judge Anne-Christine Massullo ruled that San Francisco District Attorney Kamala Harris' office violated the Brady process rules for disclosure of exculpatory evidence.
+San Francisco Police Department drug lab technician Deborah Madden admitted to taking amounts of cocaine from evidence samples in the police department's crime lab.
+The testing unit of the lab was shut down on March 9, 2010.
+Since then, hundreds of drug cases have either been dismissed or discharged due to evidentiary requirements.
+While Harris' district attorney’s office was aware of troubling issues at the police department's drug lab before the issue became public, the entire scope of the issues did not become clear until Madden was exposed for removing drug samples.
+The police department later widened the investigation into their crime lab to include cases that were already prosecuted.
+The San Francisco Chronicle reported that a number of felony convictions were in jeopardy when it was revealed that the Harris' district attorney’s office did not disclose criminal backgrounds for over 80 San Francisco police officers before testifying.
+San Francisco Superior Court Judge Anne-Christine Massullo ruled that San Francisco District Attorney Kamala Harris' office violated the Brady process rules for disclosure of exculpatory evidence.
 The process, named after the 1963 Supreme Court case, Brady v. Maryland in which the prosecution had withheld from the criminal defendant certain evidence.
 witness defendants' rights by hiding damaging information about a police drug lab technician and failing to account for its problems.
 Judge Massullo did not grant a request by more than 40 drug defendants that their cases be dismissed because of the issue, saying that decision must be left up to the judges hearing their cases.
