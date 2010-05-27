@@ -8,6 +8,6 @@
 ### Labor rights
 ### Environment
 ### Financial Crimes
-### Police Department Lab & Disclosure Failure
+### Police Department Lab & Disclosure Failures
 # References
 # External links
