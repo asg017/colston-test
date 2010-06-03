@@ -5,7 +5,7 @@
 ### Violent crimes, felons and conviction rate
 ### Civil rights
 ### Education
-### Labor rights
+### Labor Endorsements
 ### Environment
 ### Financial Crimes
 ### Police Department Lab & Disclosure Failures
