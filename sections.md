@@ -5,9 +5,9 @@
 ### Violent crimes, felons and conviction rate
 ### Civil rights
 ### Education
-### Labor Endorsements
+### Labor endorsements
 ### Environment
-### Financial Crimes
-### Police Department Lab & Disclosure Failures
+### Financial crimes
+### Police department laboratory and disclosure failures
 # References
 # External links
