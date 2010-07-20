@@ -1,7 +1,7 @@
 {{POV|date=May 2010}}
 {{Infobox_Politician
 |name= Kamala Devi Harris
-|image1=[[File:Kamala_Harris_photo_May_20.jpg|125px]]
+|image=Kamala_Harris_photo_May_20.jpg
 |caption=
 |office= [[San Francisco]] [[District Attorney]]
 |term_start= 2004
