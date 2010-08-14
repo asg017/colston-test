@@ -1,4 +1,5 @@
 {{otherpeople|Edward Colston}}
+{{inuse|date=August 2010}}
 {{Refimprove|date=March 2010}}
 {{Infobox_Person 
 | name        = Edward Colston
