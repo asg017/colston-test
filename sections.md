@@ -2,7 +2,7 @@
 # Early life and education
 # Career
 ### Death penalty
-### Violent crimes, felons and conviction rate
+### Violent crimes, felons, incarceration rate, and conviction rate
 ### Civil rights
 ### Education
 ### Endorsements
