@@ -3,7 +3,7 @@
 # Career
 ### Death penalty
 ### Violent crimes, felons, incarceration rate, and conviction rate
-### Civil rights
+### Special Hate Crimes Unit
 ### Education
 ### Endorsements
 ### Environment
