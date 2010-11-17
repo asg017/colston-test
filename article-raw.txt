@@ -85,22 +85,22 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 
 {{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
 |NAME=Harris, Kamala
-|ALTERNATIVE NAMES=
+|ALTERNATIVE NAMES=American lawyer
 |SHORT DESCRIPTION=
 |DATE OF BIRTH=October 20, 1964
-|PLACE OF BIRTH=[[Oakland, California|Oakland]], [[California]], [[United States|U.S.]]
+|PLACE OF BIRTH=Oakland, California, United States
 |DATE OF DEATH=
 |PLACE OF DEATH=
 }}
 {{DEFAULTSORT:Harris, Kamala}}
 [[Category:1964 births]]
-[[Category:Living people]]
-[[Category:African American politicians]]
+[[Category:African American lawyers]]
 [[Category:American Hindus]]
 [[Category:American politicians of Indian descent]]
 [[Category:American politicians of Jamaican descent]]
 [[Category:Baptists from the United States]]
 [[Category:District attorneys]]
 [[Category:Howard University alumni]]
+[[Category:Living people]]
 [[Category:University of California, Hastings alumni]]
 [[Category:Women in California politics]]
