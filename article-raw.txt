@@ -9,6 +9,13 @@
 |term_end=
 |predecessor=[[Terence Hallinan]]
 |successor=
+|order2=[[California Attorney General|Attorney General-elect of California]]
+|office2=
+|term_start2=January 3, 2011
+|governor=[[Jerry Brown]] 
+|term_end2=
+|succeeding2=[[Jerry Brown]]
+|successor2=
 |birth_date={{birth date and age|1964|10|20}}
 |birth_place=[[Oakland, California|Oakland]], [[California]], [[United States|U.S.]]
 |party=[[Democratic Party (United States)|Democratic]]
