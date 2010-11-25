@@ -1,6 +1,7 @@
 # 
 # Early life and education
 # Career
+# 2010 California Attorney General Race
 ### Death penalty
 ### Violent crimes, felons, incarceration rate, and conviction rate
 ### Hate Crimes and Civil Rights
