@@ -8,11 +8,11 @@
 |term_end=
 |succeeding=[[Jerry Brown]]
 |successor=
-|office2=[[San Francisco]] [[District Attorney]]
-|term_start2=2004
-|term_end2=2011
+|office2=District Attorney of [[San Francisco]]
+|term_start2=January 1, 2004
+|term_end2=
 |predecessor2=[[Terence Hallinan]]
-|successor2=TBD
+|successor2=
 |birth_date={{birth date and age|1964|10|20}}
 |birth_place=[[Oakland, California|Oakland]], [[California]], [[United States|U.S.]]
 |party=[[Democratic Party (United States)|Democratic]]
@@ -97,6 +97,17 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 * [http://www.kamalaharris.org/ Official website]
 * [http://www.sfdistrictattorney.org/ San Francisco District Attorney]
 * [http://www.votesmart.org/bio.php?can_id=120012 Kamala Harris] at [[Project Vote Smart]]
+
+{{s-start}}
+{{s-legal}}
+{{s-bef|before=[[Terence Hallinan]]}}
+{{s-ttl|title=District Attorney of [[San Francisco]]|years=2004-present}}
+{{s-inc}}
+|-
+{{s-bef|before=[[Jerry Brown]]}}
+{{s-ttl|title=[[California Attorney General]]<br><small>Elect</small>|years=2011-present}}
+{{s-inc}}
+{{s-end}}
 
 {{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
 |NAME=Harris, Kamala
