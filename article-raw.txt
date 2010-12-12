@@ -8,7 +8,7 @@
 |term_end=
 |succeeding=[[Jerry Brown]]
 |successor=
-|office2=District Attorney of [[San Francisco]]
+|office2=[[San Francisco|San Francisco District Attorney]]
 |term_start2=January 1, 2004
 |term_end2=
 |predecessor2=[[Terence Hallinan]]
@@ -101,9 +101,8 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 {{s-start}}
 {{s-legal}}
 {{s-bef|before=[[Terence Hallinan]]}}
-{{s-ttl|title=District Attorney of [[San Francisco]]|years=2004-present}}
+{{s-ttl|title=[[San Francisco|San Francisco District Attorney]]|years=2004-present}}
 {{s-inc}}
-|-
 {{s-bef|before=[[Jerry Brown]]}}
 {{s-ttl|title=[[California Attorney General]]<br><small>Elect</small>|years=2011-present}}
 {{s-inc}}
@@ -122,9 +121,9 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 [[Category:1964 births]]
 [[Category:African American lawyers]]
 [[Category:American Hindus]]
+[[Category:American people of Tamil descent]]
 [[Category:American politicians of Indian descent]]
 [[Category:American politicians of Jamaican descent]]
-[[Category:American people of Tamil descent]]
 [[Category:Baptists from the United States]]
 [[Category:District attorneys]]
 [[Category:Howard University alumni]]
