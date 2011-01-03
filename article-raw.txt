@@ -103,10 +103,10 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 {{s-start}}
 {{s-legal}}
 {{s-bef|before=[[Terence Hallinan]]}}
-{{s-ttl|title=[[San Francisco|San Francisco District Attorney]]|years=2004-present}}
-{{s-inc}}
+{{s-ttl|title=[[San Francisco|San Francisco District Attorney]]|years=2004–2011}}
+{{s-aft|after=}}
 {{s-bef|before=[[Jerry Brown]]}}
-{{s-ttl|title=[[California Attorney General]]<br><small>Elect</small>|years=2011-present}}
+{{s-ttl|title=[[California Attorney General]]|years=2011–present}}
 {{s-inc}}
 {{s-end}}
 
@@ -115,7 +115,7 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 |ALTERNATIVE NAMES=American lawyer
 |SHORT DESCRIPTION=
 |DATE OF BIRTH=October 20, 1964
-|PLACE OF BIRTH=Oakland, California, United States
+|PLACE OF BIRTH=[[Oakland]], [[California]], [[United States|U.S.]]
 |DATE OF DEATH=
 |PLACE OF DEATH=
 }}
