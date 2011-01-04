@@ -96,7 +96,8 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 
 ==External links==
 {{Commons category|Kamala Harris}}
-* [http://www.kamalaharris.org/ Official website]
+* [http://ag.ca.gov/ Office of the Attorney General]
+* [http://kamalaharris.org/ Campaign website]
 * [http://www.sfdistrictattorney.org/ San Francisco District Attorney]
 * [http://www.votesmart.org/bio.php?can_id=120012 Kamala Harris] at [[Project Vote Smart]]
 
@@ -114,11 +115,11 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 {{Current California statewide political officials}}
 
 {{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
-|NAME=Harris, Kamala
-|ALTERNATIVE NAMES=American lawyer
-|SHORT DESCRIPTION=
+|NAME=Harris, Kamala Devi
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=American lawyer
 |DATE OF BIRTH=October 20, 1964
-|PLACE OF BIRTH=[[Oakland]], [[California]], [[United States|U.S.]]
+|PLACE OF BIRTH=Oakland, California, United States
 |DATE OF DEATH=
 |PLACE OF DEATH=
 }}
