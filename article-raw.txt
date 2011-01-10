@@ -105,7 +105,7 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 {{s-legal}}
 {{s-bef|before=[[Terence Hallinan]]}}
 {{s-ttl|title=[[San Francisco|San Francisco District Attorney]]|years=2004–2011}}
-{{s-aft|after=}}
+{{s-aft|after=[[George Gascón]]}}
 {{s-bef|before=[[Jerry Brown]]}}
 {{s-ttl|title=[[California Attorney General]]|years=2011–present}}
 {{s-inc}}
