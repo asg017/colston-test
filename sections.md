@@ -5,7 +5,7 @@
 ## Endorsements
 # Issues
 ### Death penalty
-### Violent crimes, Felons, Incarceration rate, and Conviction rate
+### Violent crimes, felons, incarceration rate, and conviction rate
 ### Hate Crimes and Civil Rights
 ### Education
 ### Environment
