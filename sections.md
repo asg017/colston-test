@@ -6,7 +6,7 @@
 # Issues
 ## Death penalty
 ## Violent crimes, felons, incarceration rate, and conviction rate
-## Hate crimes and civil cights
+## Hate crimes and civil rights
 ## Education
 ## Environment
 ## Financial crimes
