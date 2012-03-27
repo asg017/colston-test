@@ -1,5 +1,5 @@
-{{Other persons|Edward Colston}}
-{{Infobox Person 
+{{Other people|Edward Colston}}
+{{Infobox person 
 | name        = Edward Colston
 | residence   = Mortlake
 | other_names = 
