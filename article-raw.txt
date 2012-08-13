@@ -110,6 +110,7 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 * [http://kamalaharris.org/ Campaign website]
 * [http://www.sfdistrictattorney.org/ San Francisco District Attorney]
 * [http://www.votesmart.org/bio.php?can_id=120012 Kamala Harris] at [[Project Vote Smart]]
+* {{worldcat id|lccn-n2009-45056|Kamala D. Harris}}
 
 {{s-start}}
 {{s-legal}}
@@ -125,23 +126,34 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 {{Current California statewide political officials}}
 
 {{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
-|NAME=Harris, Kamala Devi
-|ALTERNATIVE NAMES=
-|SHORT DESCRIPTION=American lawyer
-|DATE OF BIRTH=October 20, 1964
-|PLACE OF BIRTH=Oakland, California, United States
-|DATE OF DEATH=
-|PLACE OF DEATH=
+|NAME               =Harris, Kamala Devi
+|ALTERNATIVE NAMES  =
+|SHORT DESCRIPTION  =American lawyer and writer
+|DATE OF BIRTH      =October 20, 1964
+|PLACE OF BIRTH     =Oakland, California, United States
+|DATE OF DEATH      =
+|PLACE OF DEATH     =
 }}
 {{DEFAULTSORT:Harris, Kamala}}
 [[Category:1964 births]]
-[[Category:African-American lawyers]]
+[[Category:20th-century politicians]]
+[[Category:20th-century women writers]]
+<!--[[Category:21st-century politicians]] - added at august 2012, but hidden because category not yet created -->
+[[Category:21st-century women writers]]
+[[Category:African-American female lawyers]]
+[[Category:African-American non-fiction writers]]
+[[Category:African-American women writers]]
+[[Category:American legal writers]]
+[[Category:American non-fiction crime writers]]
 [[Category:American people of Tamil descent]]
 [[Category:American politicians of Indian descent]]
 [[Category:American politicians of Jamaican descent]]
+[[Category:American writers of Indian descent]]
+[[Category:American writers of Jamaican descent]]
+[[Category:Asian-American women in politics]]
 [[Category:Baptists from the United States]]
+[[Category:California Attorneys General]]
 [[Category:California Democrats]]
-[[Category:California lawyers]]
 [[Category:District attorneys]]
 [[Category:Howard University alumni]]
 [[Category:Living people]]
@@ -149,5 +161,4 @@ On May 26, 2010, the ''San Francisco Chronicle'' reported that a San Francisco c
 [[Category:People from San Francisco, California]]
 [[Category:University of California, Hastings College of the Law alumni]]
 [[Category:Women in California politics]]
-[[Category:African-American female lawyers]]
-[[Category:Asian-American women in politics]]
+[[Category:Writers from California]]
