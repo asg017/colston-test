@@ -12,6 +12,6 @@
 ## Environment
 ## Financial crimes
 ## Police department laboratory and disclosure failures
-## Daniel Larsen Case
+## Daniel Larsen case
 # References
 # External links
