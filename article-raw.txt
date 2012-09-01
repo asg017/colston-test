@@ -1,5 +1,6 @@
 {{About|the California Attorney General|the wrestler known as James "Kamala" Harris|Kamala (wrestler)}}
 {{Infobox officeholder
+|birth_name=Kamala Devi Harris
 |name=Kamala Harris
 |image=Kamala Harris Official Attorney General Photo.jpg
 |caption=Official Photo as California Attorney General
