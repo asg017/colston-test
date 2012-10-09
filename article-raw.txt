@@ -19,9 +19,9 @@
 | term        = 
 | predecessor = 
 | successor   = 
-| party       = [[Tory]]
+| party       = [[Labour]]
 | boards      = 
-| religion    = [[Anglican]]
+| religion    = [[Buddhist]]
 | spouse      = 
 | partner     = 
 | children    = 
