@@ -18,6 +18,7 @@
 |death_date   = 
 |death_place  = 
 |party        = [[Democratic Party (United States)|Democratic]]
+|residence    = [[South of Market, San Francisco]]
 |alma_mater   = [[Howard University]]<br>[[University of California, Hastings College of the Law|University of California, Hastings]]
 |website      = [http://ag.ca.gov/ Government website]
 }}
