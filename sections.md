@@ -5,7 +5,7 @@
 ## Endorsements
 # Issues
 ## Housing
-## Death Penalty
+## Death penalty
 ## Violent crimes, felons, incarceration rate, and conviction rate
 ## Hate crimes and civil rights
 ## Education
