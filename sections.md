@@ -13,6 +13,6 @@
 ## Financial crimes
 ## Police department laboratory and disclosure failures
 ## Daniel Larsen case
-# Obama praise
+## Obama praise
 # References
 # External links
