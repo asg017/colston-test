@@ -17,8 +17,6 @@
 |death_date   = 
 |death_place  = 
 |party        = [[Democratic Party (United States)|Democratic]]
-|relations = [[Maya Harris]] (sister) <br /> [[Tony West (attorney)|Tony West]] (brother-in-law)
-|residence    = [[South of Market, San Francisco]]
 |alma_mater   = [[Howard University]]<br>[[University of California, Hastings College of the Law|University of California, Hastings]]
 |website      = [http://ag.ca.gov/ Government website]
 }}
