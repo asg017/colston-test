@@ -4,7 +4,7 @@
 # 2010 race for California Attorney General
 ## Endorsements
 # Issues
-## Gun Control
+## Gun control
 ## Housing
 ## Death penalty
 ## Violent crimes, felons, incarceration rate, and conviction rate
