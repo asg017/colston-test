@@ -1,6 +1,6 @@
+{{Other people|Edward Colston}}
 {{EngvarB|date=September 2013}}
 {{Use dmy dates|date=September 2013}}
-{{Other people|Edward Colston}}
 {{Infobox person
 | name        = Edward Colston
 | residence   = Mortlake
@@ -73,6 +73,7 @@ A statue, designed by [[John Cassidy (artist)|John Cassidy]], was erected in the
 {{reflist}}
 
 {{Authority control|VIAF=9709888}}
+
 {{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
 | NAME              = Colston, Edward
 | ALTERNATIVE NAMES =
