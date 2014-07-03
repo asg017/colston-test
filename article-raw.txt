@@ -143,8 +143,6 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 {{Current California statewide political officials}}
 {{Authority control|VIAF=91053810}}
 
-{{Category unsourced|American gun control advocates|date=February 2014}}
-
 {{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
 |NAME               =Harris, Kamala Devi
 |ALTERNATIVE NAMES  =
@@ -161,6 +159,7 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 [[Category:21st-century women writers]]
 [[Category:African-American non-fiction writers]]
 [[Category:African-American women writers]]
+{{Category:American gun control advocates}}
 [[Category:American legal writers]]
 [[Category:American non-fiction crime writers]]
 [[Category:American politicians of Indian descent]]
