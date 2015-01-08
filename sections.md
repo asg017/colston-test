@@ -8,7 +8,7 @@
 ## Gun control
 ## Housing
 ## Death penalty
-## Violent crimes, felons, incarceration rate, and conviction rate
+## Violent crimes, felons, incarceration and conviction rate
 ## Hate crimes and civil rights
 ## Education
 ## Environment
