@@ -1,8 +1,9 @@
 # 
 # Early life and education
-# Career
-# 2010 race for California Attorney General
-## Endorsements
+# Early career
+# Attorney General of California
+## 2010 election
+## 2014 election
 # Issues
 ## Gun control
 ## Housing
@@ -14,8 +15,8 @@
 ## Financial crimes
 ## Police department laboratory and disclosure failures
 ## Daniel Larsen case
-# Reelection campaign and United States Attorney General speculation
-# Personal
+# U.S. Attorney General speculation
+# Personal life
 # See also
 # References
 # External links
