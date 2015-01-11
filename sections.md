@@ -1,7 +1,7 @@
 # 
 # Early life and education
 # Early career
-# Attorney General of California
+# State Attorney General of California
 ## 2010 election
 ## 2014 election
 # Issues
