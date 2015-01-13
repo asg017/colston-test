@@ -15,7 +15,6 @@
 ## Financial crimes
 ## Police department laboratory and disclosure failures
 ## Daniel Larsen case
-# U.S. Attorney General speculation
 # Personal life
 # See also
 # References
