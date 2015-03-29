@@ -20,7 +20,7 @@
 |death_place  = 
 |party        = [[Democratic Party (United States)|Democratic]]
 |spouse       = {{marriage|Douglas Emhoff|August 22, 2014}}
-|alma_mater   = [[Howard University]]<br>{{nowrap|[[UC Hastings College of the Law]]}}
+|alma_mater   = [[Howard University]]<br>{{nowrap|[[UC Hastings College of the Law|University of California, Hastings]]}}
 |religion     = Baptist
 |website      = [http://ag.ca.gov Government website]
 }}
