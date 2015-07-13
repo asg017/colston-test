@@ -1,7 +1,6 @@
 # 
 # Early life and education
 # Early career
-## Shielding of Ramos & The Murder of The Bologna Family
 # Attorney General of California
 ## 2010 election
 ## 2014 election
