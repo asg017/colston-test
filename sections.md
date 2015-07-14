@@ -1,7 +1,7 @@
 # 
 # Early life and education
 # Early career
-## Shielding of Illegal Immigrants and The Death of Edwin Ramos
+## Shielding of Illegal Immigrants and The Death of The Bologna Family
 # Attorney General of California
 ## 2010 election
 ## 2014 election
