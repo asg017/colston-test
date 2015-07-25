@@ -6,7 +6,6 @@
 ## 2014 election
 # U.S. Senate candidate
 # Issues
-## Abortion
 ## Gun control
 ## Housing
 ## Death penalty
