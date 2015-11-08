@@ -5,6 +5,7 @@
 ## 2010 election
 ## 2014 election
 # U.S. Senate candidate
+## Fundraising
 # Issues
 ## Gun control
 ## Housing
