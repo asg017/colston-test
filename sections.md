@@ -21,6 +21,5 @@
 ## Robert Murray Prosecutorial Misconduct case
 ## Bureau of Children's Justice
 # Personal life
-# See also
 # References
 # External links
