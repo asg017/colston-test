@@ -4,7 +4,7 @@
 # Attorney General of California
 ## 2010 election
 ## 2014 election
-# U.S. Senate candidate
+# US Senate candidate
 ## Fundraising
 ## Polling
 # Issues
