@@ -1,7 +1,8 @@
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
 |name         = Kamala Harris
-|office       = [[United States Senator]]-elect from [[California]]
+|office       = [[United States Senator]] 
+from [[California]]
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
 | alongside = [[Dianne Feinstein]]
 |predecessor  = [[Barbara Boxer]]
@@ -20,7 +21,7 @@
 |alma_mater   = [[Howard University]]<br>[[University of California, Hastings College of the Law|University of California, Hastings]]
 |religion     = [[Baptists|Baptist]]
 |website      = {{url|ag.ca.gov|Government website}}
-|term_start   = January 3, 2011
+|term_start   = January 4, 2017
 |term_end     = 
 |term_start1  = January 1, 2004
 |term_end1    = January 3, 2011
