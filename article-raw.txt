@@ -147,6 +147,209 @@ While she was an Alameda County Deputy District Attorney in the 1990s, she dated
 
 On April 7, 2014, Harris announced that she was engaged to be married to California attorney Douglas Emhoff,<ref>{{cite news|title=California Attorney General Kamala Harris engaged|publisher=''SF Gate''|date=April 7, 2010|url=http://www.sfgate.com/entertainment/garchik/article/California-Attorney-General-Kamala-Harris-engaged-5380881.php|accessdate=April 17, 2014|first=Leah|last=Garchik}}</ref> the partner-in-charge at [[Venable LLP]]'s [[Los Angeles]] office.<ref>{{cite web|url=http://www.venable.com/douglas-c-emhoff/|title=Douglas C. Emhoff|publisher=[[Venable LLP]]}}</ref> They married on August 22, 2014 in [[Santa Barbara, California]].<ref>{{cite news|author=David Siders |url=http://www.sacbee.com/news/politics-government/capitol-alert/article2607685.html|title=Kamala Harris grew up idolizing lawyers |publisher=[[The Sacramento Bee]]  |date=August 25, 2014 }}</ref>
 
+== Electoral history ==
+{| class="wikitable"
+! colspan="4" |San Francisco District Attorney Election, 2003
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Nonpartisan
+|'''Terence Hallinan (inc.)'''
+|70,580
+|35.8
+|-
+|Nonpartisan
+|'''Kamala Harris'''
+|66,248
+|33.6
+|-
+|Nonpartisan
+|Bill Fazio
+|59,834
+|30.4
+|}
+{| class="wikitable"
+! colspan="4" |San Francisco District Attorney Runoff Election, 2003
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Nonpartisan
+|'''Kamala Harris'''
+|137,111
+|56.5
+|-
+|Nonpartisan
+|Terence Hallinan (inc.)
+|105,617
+|43.5
+|}
+{| class="wikitable"
+! colspan="4" |San Francisco District Attorney Election, 2007
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Nonpartisan
+|'''Kamala Harris (inc.)'''
+|114,561
+|98.5
+|-
+|Nonpartisan
+|Write-ins
+|1,744
+|1.5
+|}
+{| class="wikitable"
+! colspan="4" |California Attorney General Democratic Primary Election, 2010
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Kamala Harris'''
+|762,995
+|33.6
+|-
+|Democratic
+|Alberto Torrico
+|354,792
+|15.6
+|-
+|Democratic
+|Chris Kelly
+|350,757
+|15.5
+|-
+|Democratic
+|Ted Lieu
+|237,618
+|10.5
+|-
+|Democratic
+|Pedro Nava
+|222,941
+|9.7
+|-
+|Democratic
+|Rocky Delgadillo
+|219,494
+|9.6
+|-
+|Democratic
+|Mike Schmier
+|127,291
+|5.5
+|}
+{| class="wikitable"
+! colspan="4" |California Attorney General Election, 2010
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Kamala Harris'''
+|4,442,781
+|46.1
+|-
+|Republican
+|Steve Cooley
+|4,368,624
+|45.3
+|-
+|Green
+|Peter Allen
+|258,879
+|2.7
+|-
+|Libertarian
+|Timothy Hannan
+|246,583
+|2.6
+|-
+|American Independent
+|Diane Beall Templin
+|169,993
+|1.7
+|-
+|Peace and Freedom
+|Robert Evans
+|160,416
+|1.6
+|}
+{| class="wikitable"
+! colspan="4" |California Attorney General Primary Election, 2014
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Kamala Harris (inc.)'''
+|2,177,480
+|53.2
+|-
+|Republican
+|Ronald Gold
+|504,091
+|12.3
+|-
+|Republican
+|Phil Wyman
+|479,468
+|11.7
+|-
+|Republican
+|David King
+|368,190
+|9.0
+|-
+|Republican
+|John Haggerty
+|336,433
+|8.2
+|-
+|Independent
+|Orly Taitz
+|130,451
+|3.2
+|-
+|Libertarian
+|Jonathan Jaech
+|99,056
+|2.4
+|}
+{| class="wikitable"
+! colspan="4" |California Attorney General Election, 2014
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Kamala Harris (inc.)'''
+|4,102,649
+|57.5
+|-
+|Republican
+|Ronald Gold
+|3,033,476
+|42.5
+|}
+
 ==References==
 {{Reflist|3}}
 

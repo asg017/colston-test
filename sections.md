@@ -19,5 +19,6 @@
 ## Robert Murray prosecutorial misconduct case
 ## Bureau of Children's Justice
 # Personal life
+# Electoral history
 # References
 # External links
