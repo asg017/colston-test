@@ -20,13 +20,5 @@
 ## Bureau of Children's Justice
 # Personal life
 # Electoral history
-## San Francisco District Attorney races (2003–2007)
-### 2003
-### 2007
-## California Attorney General races (2010–2014)
-### 2010
-### 2014
-## United States Senate races (2016–present)
-### 2016
 # References
 # External links
