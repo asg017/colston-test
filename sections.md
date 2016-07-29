@@ -16,7 +16,8 @@
 ## Financial crimes
 ## Police department laboratory and disclosure failures
 ## Daniel Larsen case
-## Robert Murray prosecutorial misconduct case
+## Prosecutorial misconduct
+## Prison conditions and sentencing reform
 ## Bureau of Children's Justice
 # Personal life
 # Electoral history
