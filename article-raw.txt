@@ -5,7 +5,7 @@
 |party        = [[Democratic Party (United States)|Democratic]]
 |office       = [[List of Attorneys General of California|32nd]] [[California Attorney General|Attorney General of California]]
 |governor     = [[Jerry Brown]]
-|term_start   = January 3, 2011
+|term_start   = January 4, 2011
 |predecessor  = [[Jerry Brown]]
 |successor    = 
 |office1      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
