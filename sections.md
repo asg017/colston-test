@@ -1,10 +1,11 @@
 # 
 # Early life and education
-# Early career
-# Attorney General of California
-## 2010 election
-## 2014 election
-# United States Senate candidate
+# Political career
+## Early career
+## Attorney General of California
+### 2010 election
+### 2014 election
+## United States Senate candidate
 # Issues
 ## Gun control
 ## Housing
@@ -20,6 +21,5 @@
 ## Prison conditions and sentencing reform
 ## Bureau of Children's Justice
 # Personal life
-# Electoral history
 # References
 # External links
