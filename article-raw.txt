@@ -2,13 +2,15 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
-|party        = [[Democratic Party (United States)|Democratic]]
 |office       = [[List of Attorneys General of California|32nd]] [[California Attorney General|Attorney General of California]]
 |governor     = [[Jerry Brown]]
 |term_start   = January 3, 2011
+|term_end     = 
 |predecessor  = [[Jerry Brown]]
 |successor    = 
 |office1      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
+|term_start1  = January 8, 2004
+|term_end1    = January 3, 2011
 |predecessor1 = [[Terence Hallinan]]
 |successor1   = [[George Gascón]]
 |birth_name   = Kamala Devi Harris
@@ -16,13 +18,11 @@
 |birth_place  = [[Oakland, California|Oakland]], [[California]], [[United States]]
 |death_date   = 
 |death_place  = 
+|party        = [[Democratic Party (United States)|Democratic]]
 |spouse       = {{marriage|Douglas Emhoff|August 22, 2014}}
-|alma_mater   = [[Howard University]]<br>[[University of California, Hastings College of the Law|University of California, Hastings]]
+|alma_mater   = [[Howard University]]<br>[[University of California, Hastings]]
 |religion     = [[Baptists|Baptist]]
 |website      = {{url|ag.ca.gov|Government website}}
-|term_end     = 
-|term_start1  = January 8, 2004
-|term_end1    = January 3, 2011
 }}
 '''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}};<ref>{{cite news|author=Sam Whiting |url=http://www.sfgate.com/entertainment/article/Kamala-Harris-grew-up-idolizing-lawyers-3232851.php |title=Kamala Harris grew up idolizing lawyers |publisher=SFGate |date=May 14, 2009 |accessdate=January 11, 2014}}</ref> born October 20, 1964) is an American lawyer, politician, and member of the [[Democratic Party (United States)|Democratic Party]], who has been the [[List of Attorneys General of California|32nd]] and current [[California Attorney General|Attorney General]] of [[California]] since 2011.
 
@@ -195,9 +195,8 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 {{Attorneys General of California}}
 {{U.S. State Attorneys General}}
 {{Current California statewide political officials}}
-{{Authority control}}
-
 {{portal bar|Politics|United States}}
+{{Authority control}}
 
 {{DEFAULTSORT:Harris, Kamala}}
 [[Category:1964 births]]
