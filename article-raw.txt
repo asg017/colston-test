@@ -2,8 +2,7 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
-|jr/sr        = United States Senator
-|state        = [[California]]
+|office       = [[United States Senate|United States Senator<br>from [California]]<br>{{small|Elect}}
 |alongside    = [[Dianne Feinstein]]
 |term_start   = January 3, 2017
 |term_end     = 
