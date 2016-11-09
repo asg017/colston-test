@@ -5,7 +5,7 @@
 ## Attorney General of California
 ### 2010 election
 ### 2014 election
-## United States Senate candidate
+## United States Senate
 # Issues
 ## Gun control
 ## Housing
