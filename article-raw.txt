@@ -25,7 +25,7 @@
 |death_date   = 
 |death_place  = 
 |party        = [[Democratic Party (United States)|Democratic]]
-|religion     = [[Baptist]]
+|religion     = [[Hindu]]
 |spouse       = {{marriage|Douglas Emhoff|August 22, 2014}}
 |alma_mater   = [[Howard University]]<br>[[University of California, Hastings]]
 |website      = {{url|ag.ca.gov|Government website}}
