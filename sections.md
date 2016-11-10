@@ -12,6 +12,7 @@
 ## Death penalty
 ## Violent crimes, felons, incarceration and conviction rate
 ## Hate crimes and civil rights
+## Abortion
 ## Education
 ## Environment
 ## Financial crimes
