@@ -4,16 +4,20 @@
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
 |office       = [[United States Senate|United States Senator]]<br>from [[California]]<br>{{small|Elect}}
+<!-- |jr/sr        = United States Senator
+|state        = [[California]] -->
 |alongside    = [[Dianne Feinstein]]
 |term_start   = January 3, 2017
 |term_end     = 
 |succeeding   = [[Barbara Boxer]]
+|predecessor  = [[Barbara Boxer]]
+|successor    = 
 |office1      = [[List of Attorneys General of California|32nd]] [[California Attorney General|Attorney General of California]]
 |governor1    = [[Jerry Brown]]
 |term_start1  = January 3, 2011
-|term_end1    = 
-|predecessor1 = Jerry Brown
-|successor1   = 
+|term_end1    = <!-- January 3, 2017 -->
+|predecessor1 = [[Jerry Brown]]
+|successor1   = <!-- TBD -->
 |office2      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
 |term_start2  = January 8, 2004
 |term_end2    = January 3, 2011
@@ -27,7 +31,7 @@
 |party        = [[Democratic Party (United States)|Democratic]]
 |religion     = [[Baptist]]
 |spouse       = {{marriage|Douglas Emhoff|August 22, 2014}}
-|alma_mater   = [[Howard University]]<br>[[University of California, Hastings]]
+|alma_mater   = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>{{nowrap|[[University of California, Hastings]]}} {{small|([[Juris Doctor|JD]])}}
 |website      = {{url|ag.ca.gov|Government website}}
 }}
 '''Kamala Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}};<ref>{{cite news|author=Sam Whiting |url=http://www.sfgate.com/entertainment/article/Kamala-Harris-grew-up-idolizing-lawyers-3232851.php |title=Kamala Harris grew up idolizing lawyers |work=SFGate |date=May 14, 2009 |accessdate=January 11, 2014}}</ref> born October 20, 1964) is an American lawyer, politician, and member of the [[Democratic Party (United States)|Democratic Party]], who became the [[List of Attorneys General of California|32nd Attorney General of California]] in 2011. In November 2016 she was elected to the [[United States Senate]].
@@ -204,7 +208,17 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 {{s-aft|after=[[George Gascón]]}}
 |-
 {{s-bef|before=[[Jerry Brown]]}}
-{{s-ttl|title=[[California Attorney General|Attorney General of California]]|years=2011–2011}}
+{{s-ttl|title=[[California Attorney General|Attorney General of California]]|years=2011–present}}
+{{s-inc}}
+|-
+{{s-ppo}}
+{{s-bef|before=[[Barbara Boxer]]}}
+{{s-ttl|title=[[Democratic Party (United States)|Democratic]] nominee for [[List of United States Senators from California|U.S. Senator]] from [[California]]<br>([[Classes of United States Senators|Class 3]])|years=[[United States Senate election in California, 2016|2016]]}}
+{{s-inc|recent}}
+|-
+{{s-par|us-sen}}
+{{s-bef|before=[[Barbara Boxer]]}}
+{{s-ttl|title=[[List of United States Senators from California|U.S. Senator (Class 3) from California]]<br>{{small|Elect}}|years=Taking office|alongside=[[Dianne Feinstein]]}}
 {{s-inc}}
 {{s-end}}
 
@@ -233,13 +247,15 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 [[Category:Baptists from the United States]]
 [[Category:California Attorneys General]]
 [[Category:California Democrats]]
+[[Category:Democratic Party United States Senators]]
 [[Category:District attorneys in California]]
+[[Category:Female United States Senators]]
 [[Category:Howard University alumni]]
 [[Category:Lawyers from Oakland, California]]
 [[Category:Liberalism in the United States]]
 [[Category:Living people]]
 [[Category:Politicians from Oakland, California]]
-[[Category:University of California, Hastings College of the Law alumni]]
+[[Category:United States Senators from California]][[Category:University of California, Hastings College of the Law alumni]]
 [[Category:Women in California politics]]
 [[Category:Writers from Oakland, California]]
 [[Category:Writers from San Francisco]]
