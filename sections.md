@@ -21,6 +21,7 @@
 ## Prosecutorial misconduct
 ## Prison conditions and sentencing reform
 ## Bureau of Children's Justice
+## Mitrice Richardson Case
 # Personal life
 # References
 # External links
