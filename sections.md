@@ -18,6 +18,7 @@
 ### Mitrice Richardson Case
 # United States Senate
 ## 2016 election
+## Committees
 # Political positions
 ## Gun control
 ## Death penalty
