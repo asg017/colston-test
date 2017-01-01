@@ -16,7 +16,7 @@
 ### County prosecutors' misconduct
 ### Bureau of Children's Justice
 ### Mitrice Richardson Case
-# United States Senate
+# U.S. Senate
 ## 2016 election
 ## Committees
 # Political positions
