@@ -3,20 +3,21 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
-|office       = [[United States Senate|United States Senator]]<br>from [[California]]
+|office       = [[United States Senate|United States Senator]]<br>from [[California]]<br>{{small|Elect}}
 <!-- |jr/sr        = United States Senator
 |state        = [[California]] -->
 |alongside    = [[Dianne Feinstein]]
 |term_start   = January 3, 2017
 |term_end     = 
+|succeeding   = [[Barbara Boxer]]
 |predecessor  = [[Barbara Boxer]]
 |successor    = 
 |office1      = [[Attorney General of California]]
 |governor1    = [[Jerry Brown]]
 |term_start1  = January 3, 2011
-|term_end1    = January 3, 2017
+|term_end1    = <!-- January 3, 2017 -->
 |predecessor1 = Jerry Brown
-|successor1   = [[Kathleen Kenealy]]
+|successor1   = [[Kathleen Kenealy]] {{small|(Acting; Designate)}}
 |office2      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
 |term_start2  = January 8, 2004
 |term_end2    = January 3, 2011
