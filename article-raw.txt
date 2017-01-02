@@ -17,7 +17,7 @@
 |term_start1  = January 3, 2011
 |term_end1    = <!-- January 3, 2017 -->
 |predecessor1 = Jerry Brown
-|successor1   = [[Xavier Becerra]] {{small|(Designate)}}
+|successor1   = [[Kathleen Kenealy]] {{small|(Acting; Designate)}}
 |office2      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
 |term_start2  = January 8, 2004
 |term_end2    = January 3, 2011
@@ -30,7 +30,7 @@
 |death_place  = 
 |party        = [[Democratic Party (United States)|Democratic]]
 |spouse       = {{marriage|Douglas Emhoff|August 22, 2014}}
-|alma_mater   = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
+|education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
 |website      = {{url|ag.ca.gov|Government website}}
 }}
 '''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}};<ref>{{cite news|author=Sam Whiting |url=http://www.sfgate.com/entertainment/article/Kamala-Harris-grew-up-idolizing-lawyers-3232851.php |title=Kamala Harris grew up idolizing lawyers |work=SFGate |date=May 14, 2009 |accessdate=January 11, 2014}}</ref> born October 20, 1964) is an American lawyer, politician, and member of the [[Democratic Party (United States)|Democratic Party]]. {{As of |2017}} she is the [[List of Attorneys General of California|32nd Attorney General of California]].
@@ -224,7 +224,7 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 |-
 {{s-bef|before=[[Jerry Brown]]}}
 {{s-ttl|title=[[California Attorney General|Attorney General of California]]|years=2011–present}}
-{{s-aft|after=[[Xavier Becerra]]<br>{{small|Designate}}}}
+{{s-aft|after=[[Kathleen Kenealy]]<br>{{small|Acting; Designate}}}}
 |-
 {{s-ppo}}
 {{s-bef|before=[[Barbara Boxer]]}}
@@ -258,6 +258,7 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 [[Category:21st-century American writers]]
 [[Category:21st-century women politicians]]
 [[Category:21st-century women writers]]
+[[Category:Activists from California]]
 [[Category:African-American lawyers]]
 [[Category:African-American non-fiction writers]]
 [[Category:African-American people in California politics]]
@@ -286,4 +287,3 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 [[Category:Writers from Oakland, California]]
 [[Category:Writers from San Francisco]]
 [[Category:Women crime writers]]
-[[Category:Activists from California]]
