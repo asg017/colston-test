@@ -232,12 +232,12 @@ Harris's mother died in 2009.<ref>{{cite news|url=http://www.legacy.com/obituari
 |-
 {{s-par|us-sen}}
 {{s-bef|before=[[Barbara Boxer]]}}
-{{s-ttl|title=[[List of United States Senators from California|U.S. Senator (Class 3) from California]]<br>{{small|Elect}}|years=Taking office 2017|alongside=[[Dianne Feinstein]]}}
+{{s-ttl|title=[[List of United States Senators from California|U.S. Senator (Class 3) from California]]|years=2017&ndash;present|alongside=[[Dianne Feinstein]]}}
 {{s-inc}}
 {{s-end}}
 
-<!-- {{CA-FedRep}}
-{{Current U.S. Senators}} -->
+{{CA-FedRep}}
+{{Current U.S. Senators}} 
 {{USSenCA}}
 {{Attorneys General of California}}
 {{U.S. State Attorneys General}}
