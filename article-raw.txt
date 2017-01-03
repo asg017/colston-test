@@ -14,8 +14,8 @@
 |governor1    = [[Jerry Brown]]
 |term_start1  = January 3, 2011
 |term_end1    = January 3, 2017
-|predecessor1 = Jerry Brown
-|successor1   = [[Kathleen Kenealy]] {{small|(Acting; Designate)}}
+|predecessor1 = [[Jerry Brown]]
+|successor1   = [[Kathleen Kenealy]] {{small|(Acting)}}
 |office2      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
 |term_start2  = January 8, 2004
 |term_end2    = January 3, 2011
@@ -23,7 +23,7 @@
 |successor2   = [[George Gascón]]
 |birth_name   = Kamala Devi Harris
 |birth_date   = {{birth date and age|1964|10|20}}
-|birth_place  = [[Oakland, California]], U.S.
+|birth_place  = [[Oakland, California|Oakland]], [[California]], U.S.
 |death_date   = 
 |death_place  = 
 |party        = [[Democratic Party (United States)|Democratic]]
@@ -232,15 +232,13 @@ Harris's mother died in 2009.<ref>{{cite news|url=http://www.legacy.com/obituari
 |-
 {{s-par|us-sen}}
 {{s-bef|before=[[Barbara Boxer]]}}
-{{s-ttl|title=[[List of United States Senators from California|U.S. Senator (Class 3) from California]]|years=2017&ndash;present|alongside=[[Dianne Feinstein]]}}
+{{s-ttl|title=[[List of United States Senators from California|U.S. Senator (Class 3) from California]]|years=2017–present|alongside=[[Dianne Feinstein]]}}
 {{s-inc}}
 {{s-end}}
 
 {{CA-FedRep}}
 {{Current U.S. Senators}} 
 {{USSenCA}}
-{{Attorneys General of California}}
-{{U.S. State Attorneys General}}
 {{Current California statewide political officials}}
 {{portal bar|Politics|United States}}
 {{Authority control}}
