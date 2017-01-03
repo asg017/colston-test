@@ -1,6 +1,5 @@
 # 
 # Early life and education
-# Political career
 # Early career
 ## District Attorney of the City and County of San Francisco
 ### Violent crimes, felons, incarceration and conviction rate
