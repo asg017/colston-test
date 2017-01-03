@@ -3,19 +3,17 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
-|office       = [[United States Senate|United States Senator]]<br>from [[California]]<br>{{small|Elect}}
-<!-- |jr/sr        = United States Senator
-|state        = [[California]] -->
+ |jr/sr        = United States Senator
+|state        = [[California]] 
 |alongside    = [[Dianne Feinstein]]
 |term_start   = January 3, 2017
 |term_end     = 
-|succeeding   = [[Barbara Boxer]]
 |predecessor  = [[Barbara Boxer]]
 |successor    = 
 |office1      = [[Attorney General of California]]
 |governor1    = [[Jerry Brown]]
 |term_start1  = January 3, 2011
-|term_end1    = <!-- January 3, 2017 -->
+|term_end1    = January 3, 2017
 |predecessor1 = Jerry Brown
 |successor1   = [[Kathleen Kenealy]] {{small|(Acting; Designate)}}
 |office2      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
@@ -33,7 +31,7 @@
 |education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
 |website      = {{url|ag.ca.gov|Government website}}
 }}
-'''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}};<ref>{{cite news|author=Sam Whiting |url=http://www.sfgate.com/entertainment/article/Kamala-Harris-grew-up-idolizing-lawyers-3232851.php |title=Kamala Harris grew up idolizing lawyers |work=SFGate |date=May 14, 2009 |accessdate=January 11, 2014}}</ref> born October 20, 1964) is an American lawyer, politician, and member of the [[Democratic Party (United States)|Democratic Party]]. {{As of |2017}} she is the [[List of Attorneys General of California|32nd Attorney General of California]].
+'''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}};<ref>{{cite news|author=Sam Whiting |url=http://www.sfgate.com/entertainment/article/Kamala-Harris-grew-up-idolizing-lawyers-3232851.php |title=Kamala Harris grew up idolizing lawyers |work=SFGate |date=May 14, 2009 |accessdate=January 11, 2014}}</ref> born October 20, 1964) is an American lawyer, politician, and member of the [[Democratic Party (United States)|Democratic Party]]. Harris is the junior United States Senator from California and was the [[List of Attorneys General of California|32nd Attorney General of California]].
 
 Harris graduated from [[Howard University]] and [[University of California, Hastings College of the Law]]. She worked as a Deputy District Attorney in [[Alameda County, California]] (1990–98). She served as Managing Attorney of the Career Criminal Unit in the [[San Francisco District Attorney's Office]] (1998-2000) and as Chief of the Community and Neighborhood Division in the office of [[City Attorney of San Francisco|San Francisco City Attorney]] (2000–03). In 2003, she was elected [[District Attorney]] of [[San Francisco]], defeating incumbent [[Terence Hallinan]]. She was re-elected in 2007 and served from 2004 to 2011.
 
