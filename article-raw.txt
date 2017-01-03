@@ -222,8 +222,8 @@ Harris's mother died in 2009.<ref>{{cite news|url=http://www.legacy.com/obituari
 {{s-aft|after=[[George Gascón]]}}
 |-
 {{s-bef|before=[[Jerry Brown]]}}
-{{s-ttl|title=[[California Attorney General|Attorney General of California]]|years=2011–present}}
-{{s-aft|after=[[Kathleen Kenealy]]<br>{{small|Acting; Designate}}}}
+{{s-ttl|title=[[California Attorney General|Attorney General of California]]|years=2011–2017}}
+{{s-aft|after=[[Kathleen Kenealy]]<br>{{small|Acting}}}}
 |-
 {{s-ppo}}
 {{s-bef|before=[[Barbara Boxer]]}}
