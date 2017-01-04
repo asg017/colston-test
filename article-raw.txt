@@ -237,6 +237,11 @@ Harris's mother died in 2009.<ref>{{cite news|url=http://www.legacy.com/obituari
 {{s-bef|before=[[Barbara Boxer]]}}
 {{s-ttl|title=[[List of United States Senators from California|U.S. Senator (Class 3) from California]]|years=2017–present|alongside=[[Dianne Feinstein]]}}
 {{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Maggie Hassan]]}}
+{{s-ttl|title=[[Seniority in the United States Senate|United States Senators by seniority]]|years=98th}}
+{{s-aft|after=[[John Neely Kennedy|John N. Kennedy]]}}
 {{s-end}}
 
 {{CA-FedRep}}
