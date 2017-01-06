@@ -209,6 +209,7 @@ Harris's mother died in 2009.<ref>{{cite news|url=http://www.legacy.com/obituari
 
 ==External links==
 {{Commons category|Kamala Harris}}
+* {{CongLinks | congbio = H001075 | fec = S6CA00584 | votesmart = 120012 }}
 * [http://ag.ca.gov/ Office of the Attorney General]
 * [http://kamalaharris.org/ Campaign website]
 * [http://www.sfdistrictattorney.org/ San Francisco District Attorney]
