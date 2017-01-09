@@ -3,6 +3,8 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
+President of the United States 
+Janaury 20 2021 to 
 |jr/sr        = United States Senator
 |state        = [[California]] 
 |alongside    = [[Dianne Feinstein]]
