@@ -11,7 +11,7 @@
 |term_end     = 
 |predecessor  = [[Barbara Boxer]]
 |successor    = 
-|office1      = 32nd [[Attorney General of California]]
+|office1      = [[List of Attorneys General of California|32nd]] [[Attorney General of California]]
 |governor1    = [[Jerry Brown]]
 |term_start1  = January 3, 2011
 |term_end1    = January 3, 2017
