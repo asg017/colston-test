@@ -210,7 +210,7 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 
 ==External links==
 {{Commons category|Kamala Harris}}
-* {{CongLinks | congbio = H001075 | fec = S6CA00584 | votesmart = 120012 }}
+* {{CongLinks | congbio = H001075 | fec = S6CA00584 | votesmart = 120012 | congress = kamala-harris/H001075 }}
 * [http://kamalaharris.org/ Campaign website]
 * [http://www.votesmart.org/bio.php?can_id=120012 Kamala Harris] at [[Project Vote Smart]]
 * {{worldcat id|lccn-n2009-45056|Kamala D. Harris}}
