@@ -17,6 +17,7 @@
 ### Mitrice Richardson Case
 # U.S. Senate
 ## 2016 election
+## Tenure
 ## Committees
 # Political positions
 ## Gun control
