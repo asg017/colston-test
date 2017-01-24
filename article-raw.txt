@@ -2,7 +2,7 @@
 {{About|the American politician Kamala Harris|the professional wrestler Jim "Kamala" Harris|Kamala (wrestler)}}
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
-|name         = Kamala Harris
+|name         = Funky Brown
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
 |jr/sr        = United States Senator
 |state        = [[California]] 
