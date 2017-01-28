@@ -27,6 +27,7 @@
 |birth_place  = [[Oakland, California|Oakland]], [[California]], U.S.
 |death_date   = 
 |death_place  = 
+|religion  = [[Hinduism]]
 |party        = [[Democratic Party (United States)|Democratic]]
 |spouse       = {{marriage|Douglas Emhoff|August 22, 2014}}
 |education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
