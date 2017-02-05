@@ -28,7 +28,7 @@
 |death_date   = 
 |death_place  = 
 |party        = [[Democratic Party (United States)|Democratic]]
-|spouse       = {{marriage|Douglas Emhoff|August 22, 2014}}
+|spouse       = {{marriage|Douglas Emhoff|()=small|August 22, 2014}}
 |education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
 |website      = {{url|www.harris.senate.gov|Government website}}
 }}
@@ -284,6 +284,7 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 [[Category:American politicians of Jamaican descent]]
 [[Category:American writers of Jamaican descent]]
 [[Category:American women lawyers]]
+[[Category:Animal rights advocates]]
 [[Category:Baptists from the United States]]
 [[Category:California Attorneys General]]
 [[Category:California Democrats]]
@@ -296,8 +297,7 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 [[Category:Politicians from Oakland, California]]
 [[Category:United States Senators from California]]
 [[Category:University of California, Hastings College of the Law alumni]]
+[[Category:Women crime writers]]
 [[Category:Women in California politics]]
 [[Category:Writers from Oakland, California]]
 [[Category:Writers from San Francisco]]
-[[Category:Women crime writers]]
-[[Category:Animal rights advocates]]
