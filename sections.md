@@ -18,7 +18,8 @@
 # U.S. Senate
 ## 2016 election
 ## Tenure
-## Committees
+## Committee assignments
+## Caucus memberships
 # Political positions
 ## Gun control
 ## Death penalty
