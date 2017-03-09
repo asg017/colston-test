@@ -1,9 +1,9 @@
-{{About|the American politician Karan Kumar|the professional wrestler Jim "Karan" Kumar|Karan (wrestler)}}
+{{About|the American politician Kamala Harris|the professional wrestler Jim "Kamala" Harris|Kamala (wrestler)}}
 {{pp-pc1|small=yes}}
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
-|name         = Karan Kumar
-|image        = Karan Kumar Official Attorney General Photo.jpg{{!}}border
+|name         = Kamala Harris
+|image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
 |jr/sr        = United States Senator
 |state        = [[California]] 
 |alongside    = [[Dianne Feinstein]]
