@@ -4,33 +4,35 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
-|jr/sr        = United States Senator
-|state        = [[California]] 
 |alongside    = [[Dianne Feinstein]]
-|term_start   = January 3, 2017
-|term_end     = 
+|jr/sr        = United States Senator
 |predecessor  = [[Barbara Boxer]]
 |successor    = 
-|office1      = [[List of Attorneys General of California|32nd]] [[Attorney General of California]]
+|office2      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
+|predecessor2 = [[Terence Hallinan]]
+|state        = [[California]] 
+|party        = [[Democratic Party (United States)|Democratic]]
 |governor1    = [[Jerry Brown]]
-|term_start1  = January 3, 2011
-|term_end1    = January 3, 2017
+|office1      = [[List of Attorneys General of California|32nd]] [[Attorney General of California]]
 |predecessor1 = [[Jerry Brown]]
 |successor1   = [[Xavier Becerra]]
-|office2      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
-|term_start2  = January 8, 2004
-|term_end2    = January 3, 2011
-|predecessor2 = [[Terence Hallinan]]
 |successor2   = [[George Gascón]]
 |birth_name   = Kamala Devi Harris
 |birth_date   = {{birth date and age|1964|10|20}}
 |birth_place  = [[Oakland, California|Oakland]], [[California]], U.S.
 |death_date   = 
 |death_place  = 
-|party        = [[Democratic Party (United States)|Democratic]]
 |spouse       = {{marriage|Douglas Emhoff|()=small|August 22, 2014}}
-|education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
+| children = 2 stepchildren
 |website      = {{url|www.harris.senate.gov|Government website}}
+|term_start   = January 3, 2017
+|term_end     = 
+|term_start1  = January 3, 2011
+|term_end1    = January 3, 2017
+|term_start2  = January 8, 2004
+|term_end2    = January 3, 2011
+|education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
+| relatives = [[Maya Harris]] (sister)
 }}
 '''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}};<ref>{{cite news|author=Sam Whiting |url=http://www.sfgate.com/entertainment/article/Kamala-Harris-grew-up-idolizing-lawyers-3232851.php |title=Kamala Harris grew up idolizing lawyers |work=SFGate |date=May 14, 2009 |accessdate=January 11, 2014}}</ref> born October 20, 1964) is an American attorney and politician who is the [[Seniority in the United States Senate|junior]] [[United States Senator]] from [[California]]. She is a member of the [[Democratic Party (United States)|Democratic Party]] and served as the [[List of Attorneys General of California|32nd Attorney General of California]].
 
@@ -154,7 +156,7 @@ Harris was a frontrunner from the beginning of her campaign. In January 2015, on
 
 In late February 2016, the California Democratic Party voted to endorse Harris, who received 78% of the vote, 18% more than the 60% needed to secure the endorsement.<ref>{{cite news|url=http://www.sacbee.com/news/politics-government/capitol-alert/article62985987.html|title=Kamala Harris receives California Democratic Party endorsement|date=February 27, 2016|work=The Sacramento Bee}}</ref><ref>{{cite news|url=http://www.mercurynews.com/politics-government/ci_29572143/kamala-harris-wins-state-democratic-partys-endorsement|title=Kamala Harris wins state Democratic Party's endorsement|first=Matthew|last=Artz|publisher=mercurynews.com|date=February 27, 2016}}</ref> Harris also participated in debates with the other major candidates for the seat, her front-runner status causing her to be at the center of discussion.<ref>{{cite news|url=http://www.sfgate.com/politics/article/In-senate-debate-Kamala-Harris-on-the-hot-seat-7459059.php|title=In Senate debate, Kamala Harris on the hot seat|date=May 11, 2016|first=John|last=Wildermuth|work=SF Gate}}</ref><ref>{{cite news|url=http://www.latimes.com/politics/la-pol-ca-san-diego-senate-debate-20160510-snap-story.html|title=Kamala Harris is focus of California's final U.S. Senate debate before primary|date=May 10, 2016|work=Los Angeles Times}}</ref> Governor Jerry Brown endorsed Harris on May 23.<ref>{{cite news|url=http://www.latimes.com/local/politics/la-pol-sac-essential-politics-jerry-brown-kamala-harris-endorsement-htmlstory.html|title=California Gov. Jerry Brown backs Kamala Harris for U.S. Senate|date=May 23, 2016|first=Phil|last=Willon}}</ref> Harris came in first place on primary election day, June 7, with 40% of the votes, entering runoff with fellow Democratic candidate Loretta Sanchez.<ref>{{cite news|url=http://www.latimes.com/politics/la-pol-ca-senate-primary-election-20160607-snap-story.html|title=Kamala Harris wins U.S. Senate primary|date=June 7, 2016|work=Los Angeles Times}}</ref> On July 19, President Barack Obama and Vice President [[Joe Biden]] endorsed Harris.<ref>{{cite web|last1=Willon|first1=Phil|title=Obama, Biden endorse Kamala Harris for U.S. Senate|url=http://www.latimes.com/politics/essential/la-pol-sac-essential-politics-updates-obama-biden-endorse-kamala-harris-for-1468889660-htmlstory.html|website=Los Angeles Times|accessdate=July 19, 2016|date=July 19, 2016}}</ref>
 
-In the June 2016 primary election, with results detailed at the county level, Kamala Harris won 48 of 58 counties. Harris won seven counties with more than 50% of the vote: Alameda, Contra Costa, Marin, San Francisco, San Mateo, Santa Cruz, and Sonoma. The highest percentage was San Francisco, with 70.4% of the vote.<ref>{{cite web|url=http://elections.cdn.sos.ca.gov/sov/2016-primary/75-us-senate-formatted.pdf|title=United States Senator (primary results)|publisher=California Secretary of State|date=July 2016}}</ref><ref>{{cite web|url=http://www.sos.ca.gov/elections/prior-elections/statewide-election-results/presidential-primary-election-june-7-2016/statement-vote/|author=Alex Padilla|publisher=California Secretary of State|title=Presidential Primary Election - Statement of Vote, June 7, 2016|date=July 2016}}</ref> She faced Congresswoman [[Loretta Sanchez]], also a Democrat, in the general election. Under California's "top-two" primary system, the two highest vote-getters in the primary election, regardless of party, advance to the general election. This assured that the seat would stay in Democratic hands; it was the first time a Republican did not appear in a general election for the Senate since California began directly electing Senators in 1914.<ref>{{cite news|url=http://www.latimes.com/politics/la-pol-ca-senate-primary-election-20160607-snap-story.html|title=Two Democrats will face off for California's U.S. Senate seat, marking first time a Republican will not be in contention|last=Myers|first=John|publisher=[[Los Angeles Times]]|date=2016-06-08}}</ref>
+In the June 2016 primary election, with results detailed at the county level, Harris won 48 of 58 counties. Harris won seven counties with more than 50% of the vote: Alameda, Contra Costa, Marin, San Francisco, San Mateo, Santa Cruz, and Sonoma. The highest percentage was San Francisco, with 70.4% of the vote.<ref>{{cite web|url=http://elections.cdn.sos.ca.gov/sov/2016-primary/75-us-senate-formatted.pdf|title=United States Senator (primary results)|publisher=California Secretary of State|date=July 2016}}</ref><ref>{{cite web|url=http://www.sos.ca.gov/elections/prior-elections/statewide-election-results/presidential-primary-election-june-7-2016/statement-vote/|author=Alex Padilla|publisher=California Secretary of State|title=Presidential Primary Election - Statement of Vote, June 7, 2016|date=July 2016}}</ref> She faced Congresswoman [[Loretta Sanchez]], also a Democrat, in the general election. Under California's "top-two" primary system, the two highest vote-getters in the primary election, regardless of party, advance to the general election. This assured that the seat would stay in Democratic hands; it was the first time a Republican did not appear in a general election for the Senate since California began directly electing Senators in 1914.<ref>{{cite news|url=http://www.latimes.com/politics/la-pol-ca-senate-primary-election-20160607-snap-story.html|title=Two Democrats will face off for California's U.S. Senate seat, marking first time a Republican will not be in contention|last=Myers|first=John|publisher=[[Los Angeles Times]]|date=2016-06-08}}</ref>
 
 In the November 2016 election, Harris defeated Sanchez with 63 percent of the vote, carrying all but two counties.<ref>{{Cite news|url=http://graphics.latimes.com/la-na-pol-2016-election-results-california/|title=Live California election results|newspaper=graphics.latimes.com|access-date=2016-11-09}}</ref> Following her victory, Harris promised to protect immigrants from the policies of President-elect [[Donald Trump]].<ref>{{cite news|url=http://www.latimes.com/politics/la-pol-ca-senate-kamala-harris-trump-20161110-story.html|title=Newly elected Kamala Harris vows to defy Trump on immigration|date=November 10, 2016|first=Phil|last=Willon|publisher=Los Angeles Times}}</ref>
 
@@ -214,7 +216,7 @@ Harris has prosecuted numerous financial crimes throughout her career, particula
 ==Personal life==
 While she was an Alameda County Deputy District Attorney in the 1990s, she dated [[Willie Brown (politician)|Willie Brown]], then Speaker of the [[California State Assembly]]. They broke up shortly after he was elected [[Mayor of San Francisco]].<ref>{{cite book | last=Richardson | first=James | url=http://ark.cdlib.org/ark:/13030/ft0m3nb07q | title=Willie Brown: A Biography | location=Berkeley | publisher=University of California Press | year=1997 | isbn=0-585-24985-7}}</ref>
 
-On April 7, 2014, Harris announced that she was engaged to be married to California attorney Douglas Emhoff,<ref>{{cite news|title=California Attorney General Kamala Harris engaged|publisher=''SF Gate''|date=April 7, 2010|url=http://www.sfgate.com/entertainment/garchik/article/California-Attorney-General-Kamala-Harris-engaged-5380881.php|accessdate=April 17, 2014|first=Leah|last=Garchik}}</ref> the partner-in-charge at [[Venable LLP]]'s [[Los Angeles]] office.<ref>{{cite web|url=http://www.venable.com/douglas-c-emhoff/|title=Douglas C. Emhoff|publisher=[[Venable LLP]]}}</ref> They married on August 22, 2014, in [[Santa Barbara, California]].<ref>{{cite news|author=David Siders |url=http://www.sacbee.com/news/politics-government/capitol-alert/article2607685.html|title=Kamala Harris grew up idolizing lawyers |work=The Sacramento Bee|date=August 25, 2014 }}</ref>
+On April 7, 2014, Harris announced that she was engaged to be married to California attorney Douglas Emhoff,<ref>{{cite news|title=California Attorney General Kamala Harris engaged|publisher=''SF Gate''|date=April 7, 2010|url=http://www.sfgate.com/entertainment/garchik/article/California-Attorney-General-Kamala-Harris-engaged-5380881.php|accessdate=April 17, 2014|first=Leah|last=Garchik}}</ref> the partner-in-charge at [[Venable LLP]]'s [[Los Angeles]] office.<ref>{{cite web|url=http://www.venable.com/douglas-c-emhoff/|title=Douglas C. Emhoff|publisher=[[Venable LLP]]}}</ref> They married on August 22, 2014, in [[Santa Barbara, California]].<ref>{{cite news|author=David Siders |url=http://www.sacbee.com/news/politics-government/capitol-alert/article2607685.html|title=Kamala Harris grew up idolizing lawyers |work=The Sacramento Bee|date=August 25, 2014 }}</ref> Harris has two stepchildren, one in college and one in high school.<ref>{{Cite web|url=http://www.mercurynews.com/2014/08/26/california-attorney-general-kamala-harris-marries-fellow-lawyer/|title=California Attorney General Kamala Harris marries fellow lawyer – The Mercury News|access-date=2017-03-16}}</ref> Emhoff was formerly divorced. 
 
 ==See also==
 * [[List of African-American United States Senators]]
