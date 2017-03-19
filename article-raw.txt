@@ -24,7 +24,7 @@
 |death_place  = 
 |spouse       = {{marriage|Douglas Emhoff|()=small|August 22, 2014}}
 | children = 2 stepchildren
-|website      = {{url|www.harris.senate.gov|Government website}}
+|website      = {{url|www.harris.senate.gov|Senate website}}
 |term_start   = January 3, 2017
 |term_end     = 
 |term_start1  = January 3, 2011
