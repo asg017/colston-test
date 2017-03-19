@@ -226,16 +226,12 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 
 ==External links==
 {{Commons category|Kamala Harris}}
-* {{CongLinks | congbio = H001075 | fec = S6CA00584 | votesmart = 120012 | congress = kamala-harris/H001075 }}
+* [https://www.harris.senate.gov Kamala Harris] official U.S. Senate website
 * [http://kamalaharris.org/ Campaign website]
 * [http://www.votesmart.org/bio.php?can_id=120012 Kamala Harris] at [[Project Vote Smart]]
 * {{worldcat id|lccn-n2009-45056|Kamala D. Harris}}
 *{{C-SPAN|Kamala Davis}}
-* [http://howard.university/howard-university-kamala-harris-now-a-candidate-for-u-s-senate-talks-about-race// Howard University Archive]
-*{{cite web|title=U.S. Senate Debate|date=October 5, 2016|url=http://www.patbrowninstitute.org/pbi-events/the-2016-u-s-senate-debate/|location=Cal State, Los Angeles|publisher=Pat Brown Institute for Public Affairs}}
-* {{Facebook}}
-* {{Instagram}}
-* {{Twitter}}
+* {{CongLinks | congbio = H001075 | fec = S6CA00584 | votesmart = 120012 | congress = kamala-harris/H001075 }}
 
 {{s-start}}
 {{s-legal}}
