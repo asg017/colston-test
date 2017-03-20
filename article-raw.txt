@@ -215,7 +215,445 @@ While she was an Alameda County Deputy District Attorney in the 1990s, she dated
 On April 7, 2014, Harris announced that she was engaged to be married to California attorney Douglas Emhoff,<ref>{{cite news|title=California Attorney General Kamala Harris engaged|publisher=''SF Gate''|date=April 7, 2010|url=http://www.sfgate.com/entertainment/garchik/article/California-Attorney-General-Kamala-Harris-engaged-5380881.php|accessdate=April 17, 2014|first=Leah|last=Garchik}}</ref> the partner-in-charge at [[Venable LLP]]'s [[Los Angeles]] office.<ref>{{cite web|url=http://www.venable.com/douglas-c-emhoff/|title=Douglas C. Emhoff|publisher=[[Venable LLP]]}}</ref> They married on August 22, 2014, in [[Santa Barbara, California]].<ref>{{cite news|author=David Siders |url=http://www.sacbee.com/news/politics-government/capitol-alert/article2607685.html|title=Kamala Harris grew up idolizing lawyers |work=The Sacramento Bee|date=August 25, 2014 }}</ref> Harris has two stepchildren, one in college and one in high school.<ref>{{Cite web|url=http://www.mercurynews.com/2014/08/26/california-attorney-general-kamala-harris-marries-fellow-lawyer/|title=California Attorney General Kamala Harris marries fellow lawyer – The Mercury News|access-date=2017-03-16}}</ref> Emhoff was formerly divorced. 
 
 == Electoral history ==
+=== 2003 ===
+{{Election box begin no change | title=San Francisco District Attorney primary election, 2003<ref>{{cite web|title=San Francisco District Attorney primary election, 2003|url=http://www.smartvoter.org/2003/11/04/ca/sf/race/2/|website=Smart Vote|publisher=League of Women Voters|accessdate=July 17, 2016|date=December 19, 2003}}</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Nonpartisan
+  |candidate  = [[Terence Hallinan]] ([[incumbent]])
+  |votes      = 70,580
+  |percentage = 35.8
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Nonpartisan
+  |candidate  = Kamala Harris
+  |votes      = 66,248
+  |percentage = 33.6
+}}
+{{Election box candidate with party link no change|
+  |party      = Nonpartisan
+  |candidate  = [[Bill Fazio]]
+  |votes      = 59,834
+  |percentage = 30.4
+}}
+{{Election box end}}
+{{Election box begin no change | title=San Francisco District Attorney runoff election, 2003<ref>{{cite web|title=San Francisco District Attorney runoff election, 2003|url=http://www.smartvoter.org/2003/12/09/ca/sf/race/2/|website=Smart Vote|publisher=League of Women Voters|accessdate=July 17, 2016|date=December 29, 2003}}</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Nonpartisan
+  |candidate  = Kamala Harris
+  |votes      = 137,111
+  |percentage = 56.5
+}}
+{{Election box candidate with party link no change|
+  |party      = Nonpartisan
+  |candidate  = Terence Hallinan (incumbent)
+  |votes      = 105,617
+  |percentage = 43.5
+}}
+{{Election box end}}
 
+=== 2007 ===
+{{Election box begin no change | title=[[San Francisco general election, November 2007#District attorney|San Francisco District Attorney election, 2007]]<ref>{{cite web|title=San Francisco District Attorney election, 2007|url=http://www.smartvoter.org/2007/11/06/ca/sf/race/2/|website=Smart Vote|publisher=League of Women Voters|accessdate=July 17, 2016|date=December 19, 2007}}</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Nonpartisan
+  |candidate  = Kamala Harris (incumbent)
+  |votes      = 114,561
+  |percentage = 98.5
+}}
+{{Election box candidate with party link no change|
+  |party      = Nonpartisan
+  |candidate  = [[Write-in]]
+  |votes      = 1,744
+  |percentage = 1.5
+}}
+{{Election box end}}
+
+== California Attorney General elections ==
+=== 2010 ===
+{{Election box begin no change | title=[[California Attorney General election, 2010#Democratic 2|California Attorney General Democratic primary election, 2010]]<ref>{{cite web|title=California Attorney General Democratic primary election, 2010|url=http://www.smartvoter.org/2010/06/08/ca/state/race/atgend/|website=Smart Vote|publisher=League of Women Voters|accessdate=July 17, 2016|date=August 20, 2010}}</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Kamala Harris
+  |votes      = 762,995
+  |percentage = 33.6
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = [[Alberto Torrico]]
+  |votes      = 354,792
+  |percentage = 15.6
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Chris Kelly
+  |votes      = 350,757
+  |percentage = 15.5
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = [[Ted Lieu]]
+  |votes      = 237,618
+  |percentage = 10.5
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = [[Pedro Nava (politician)|Pedro Nava]]
+  |votes      = 222,941
+  |percentage = 9.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = [[Rocky Delgadillo]]
+  |votes      = 219,494
+  |percentage = 9.6
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = [[Mike Schmier]]
+  |votes      = 127,291
+  |percentage = 5.5
+}}
+{{Election box end}}
+{{Election box begin no change | title=[[California Attorney General election, 2010]]<ref>{{cite web|title=California Attorney General election, 2010|url=http://www.smartvoter.org/2010/11/02/ca/state/race/atgen/|website=Smart Vote|publisher=League of Women Voters|accessdate=July 17, 2016|date=January 6, 2011}}</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Kamala Harris
+  |votes      = 4,442,781
+  |percentage = 46.1
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = [[Steve Cooley]]
+  |votes      = 4,368,624
+  |percentage = 45.3
+}}
+{{Election box candidate with party link no change|
+  |party      = Green Party of the United States
+  |candidate  = Peter Allen
+  |votes      = 258,879
+  |percentage = 2.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Libertarian Party (United States)
+  |candidate  = [[Timothy Hannan]]
+  |votes      = 246,583
+  |percentage = 2.6
+}}
+{{Election box candidate with party link no change|
+  |party      = American Independent Party
+  |candidate  = [[Diane Beall Templin]]
+  |votes      = 169,993
+  |percentage = 1.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Peace and Freedom Party
+  |candidate  = Robert Evans
+  |votes      = 160,416
+  |percentage = 1.6
+}}
+{{Election box end}}
+
+=== 2014 ===
+{{Election box begin no change | title=[[California Attorney General election, 2014#Results|California Attorney General election, 2014]]<ref>{{cite web|title=California Attorney General primary election, 2014|url=http://www.smartvoter.org/2014/06/03/ca/state/race/atgen/|website=Smart Vote|publisher=League of Women Voters|accessdate=July 17, 2016|date=July 9, 2014}}</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Kamala Harris (incumbent)
+  |votes      = 2,177,480
+  |percentage = 53.2
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = [[Ronald Gold]]
+  |votes      = 504,091
+  |percentage = 12.3
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = [[Phil Wyman]]
+  |votes      = 479,468
+  |percentage = 11.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = David King
+  |votes      = 368,190
+  |percentage = 9.0
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = John Haggerty
+  |votes      = 336,433
+  |percentage = 8.2
+}}
+{{Election box candidate with party link no change|
+  |party      = No party preference
+  |candidate  = [[Orly Taitz]]
+  |votes      = 130,451
+  |percentage = 3.2
+}}
+{{Election box candidate with party link no change|
+  |party      = Libertarian Party (United States)
+  |candidate  = [[Jonathan Jaech]]
+  |votes      = 99,056
+  |percentage = 2.4
+}}
+{{Election box end}}
+{{Election box begin no change | title=[[California Attorney General election, 2014]]<ref>{{cite web|title=California Attorney General election, 2014|url=http://www.smartvoter.org/2014/11/04/ca/state/race/atgen/|website=Smart Vote|publisher=League of Women Voters|accessdate=July 17, 2016|date=July 23, 2015}}</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Kamala Harris (incumbent)
+  |votes      = 4,102,649
+  |percentage = 57.5
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Ronald Gold
+  |votes      = 3,033,476
+  |percentage = 42.5
+}}
+{{Election box end}}
+
+== United States Senate elections ==
+=== 2016 ===
+{{Election box begin no change
+| title = [[United States Senate election in California, 2016#Results|United States Senate primary election in California, 2016]]<ref>{{cite news|url=http://vote.sos.ca.gov/returns/us-senate/ |title=U.S. Senate - Statewide Results |work=California Secretary of State |date=June 8, 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20101105214455/http://vote.sos.ca.gov/returns/us-senate/ |archivedate=2010-11-05 |df= }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Kamala Harris
+| votes = 3,000,689
+| percentage = 39.9%
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Loretta Sanchez]]
+| votes = 1,416,203
+| percentage = 18.9%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = [[George Sundheim|Duf Sundheim]]
+| votes = 584,251
+| percentage = 7.8%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Phil Wyman
+| votes = 352,821
+| percentage = 4.7%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = [[Tom Del Beccaro]]
+| votes = 323,614
+| percentage = 4.3%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Greg Conlon
+| votes = 230,944
+| percentage = 3.1%
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Steve Stokes
+| votes = 168,805
+| percentage = 2.2%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = George C. Yang
+| votes = 112,055
+| percentage = 1.5%
+}} 
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Karen Roseberry
+| votes = 110,557
+| percentage = 1.5%
+}}
+{{Election box candidate with party link no change
+| party = Libertarian Party (United States)
+| candidate = Gail K. Lightfoot
+| votes = 99,761
+| percentage = 1.3%
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Massie Munroe
+| votes = 98,150
+| percentage = 1.3%
+}}
+{{Election box candidate with party link no change
+| party = Green Party (United States)
+| candidate = Pamela Elizondo
+| votes = 95,677
+| percentage = 1.3%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Tom Palzer
+| votes = 93,263
+| percentage = 1.2%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = [[Ron Unz]]
+| votes = 92,325
+| percentage = 1.2%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Don Krampe
+| votes = 69,635
+| percentage = 0.9%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Eleanor García
+| votes = 65,084
+| percentage = 0.9%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Jarrell Williamson
+| votes = 64,120
+| percentage = 0.9%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Von Hougo
+| votes = 63,609
+| percentage = 0.8%
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = President Cristina Grappo
+| votes = 63,330
+| percentage = 0.8%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Jerry J. Laws
+| votes = 53,023
+| percentage = 0.7%
+}}
+{{Election box candidate with party link no change
+| party = Libertarian Party (United States)
+| candidate = Mark Matthew Herd
+| votes = 41,344
+| percentage = 0.6%
+}}
+{{Election box candidate with party link no change
+| party = Peace and Freedom Party
+| candidate = John Thompson Parker
+| votes = 35,998
+| percentage = 0.5%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Ling Ling Shi
+| votes = 35,196
+| percentage = 0.5%
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Herbert G. Peters
+| votes = 32,638
+| percentage = 0.4%
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Emory Peretz Rodgers
+| votes = 31,485
+| percentage = 0.4%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Mike Beitiks
+| votes = 31,450
+| percentage = 0.4%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Clive Grey
+| votes = 29,418
+| percentage = 0.4%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Jason Hanania
+| votes = 27,715
+| percentage = 0.4%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Paul Merritt
+| votes = 24,031
+| percentage = 0.3%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Jason Kraus
+| votes = 19,318
+| percentage = 0.3%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Don J. Grundmann
+| votes = 15,317
+| percentage = 0.2%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Scott A. Vineberg
+| votes = 11,843
+| percentage = 0.2%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Tim Gildersleeve
+| votes = 9,798
+| percentage = 0.1%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Gar Myers
+| votes = 8,726
+| percentage = 0.1%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Billy Falling (write-in)
+| votes = 87
+| percentage = 0.0%
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Ric M. Llewellyn (write-in)
+| votes = 32
+| percentage = 0.0%
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Alexis Stuart (write-in)
+| votes = 10
+| percentage = 0.0%
+}}
+{{Election box end}}
+{{Election box begin no change | title=[[United States Senate election in California, 2016]]}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Kamala Harris
+  |votes      = 5,265,653	
+  |percentage = 62.7%
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Loretta Sanchez
+  |votes      = 3,132,607
+  |percentage = 37.3%
+}}
+{{Election box end}}
 ==See also==
 * [[List of African-American United States Senators]]
 
