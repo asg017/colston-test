@@ -267,7 +267,6 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 }}
 {{Election box end}}
 
-== California Attorney General elections ==
 === 2010 ===
 {{Election box begin no change | title=[[California Attorney General election, 2010#Democratic 2|California Attorney General Democratic primary election, 2010]]<ref>{{cite web|title=California Attorney General Democratic primary election, 2010|url=http://www.smartvoter.org/2010/06/08/ca/state/race/atgend/|website=Smart Vote|publisher=League of Women Voters|accessdate=July 17, 2016|date=August 20, 2010}}</ref>}}
 {{Election box winning candidate with party link no change|
@@ -412,7 +411,6 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 }}
 {{Election box end}}
 
-== United States Senate elections ==
 === 2016 ===
 {{Election box begin no change
 | title = [[United States Senate election in California, 2016#Results|United States Senate primary election in California, 2016]]<ref>{{cite news|url=http://vote.sos.ca.gov/returns/us-senate/ |title=U.S. Senate - Statewide Results |work=California Secretary of State |date=June 8, 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20101105214455/http://vote.sos.ca.gov/returns/us-senate/ |archivedate=2010-11-05 |df= }}</ref>

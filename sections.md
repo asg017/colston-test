@@ -32,10 +32,8 @@
 # Electoral history
 ## 2003
 ## 2007
-# California Attorney General elections
 ## 2010
 ## 2014
-# United States Senate elections
 ## 2016
 # See also
 # References
