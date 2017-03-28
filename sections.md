@@ -29,12 +29,6 @@
 ## Environment
 ## Financial crimes
 # Personal life
-# Electoral history
-## 2003
-## 2007
-## 2010
-## 2014
-## 2016
 # See also
 # References
 # External links
