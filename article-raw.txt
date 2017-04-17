@@ -1,4 +1,4 @@
-{{About|the American politician Kamala Harris|the professional wrestler Jim "Kamala" Harris|Kamala (wrestler)}}
+{{About|the U.S. Senator Kamala Harris|the professional wrestler Jim "Kamala" Harris|Kamala (wrestler)}}
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
 |name         = Kamala Harris
@@ -11,9 +11,9 @@
 |predecessor2 = [[Terence Hallinan]]
 |state        = [[California]] 
 |party        = [[Democratic Party (United States)|Democrat]]
-|governor1    = [[Jerry Brown]]
+|governor1    = Jerry Brown
 |office1      = [[List of Attorneys General of California|32nd]] [[Attorney General of California]]
-|predecessor1 = Jerry Brown
+|predecessor1 = [[Jerry Brown]]
 |successor1   = [[Xavier Becerra]]
 |successor2   = [[George Gascón]]
 |birth_name   = Kamala Devi Harris
