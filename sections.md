@@ -14,7 +14,7 @@
 ### Daniel Larsen case
 ### County prosecutors' misconduct
 ### Bureau of Children's Justice
-### Mitrice Richardson Case
+### Mitrice Richardson case
 # U.S. Senate
 ## 2016 election
 ## Tenure
