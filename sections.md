@@ -1,6 +1,5 @@
 # 
-# U.S. Senate
-## 2016 election
+# Early life and education
 # Early career
 ## District Attorney of the City and County of San Francisco
 ### Violent crimes, felons, incarceration and conviction rate
