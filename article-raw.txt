@@ -16,7 +16,7 @@
 | death_cause =
 | known       =
 | occupation  = [[Merchant]]
-| title       =  Mr
+| title       =  Mrs
 | salary      =
 | term        =
 | predecessor =
