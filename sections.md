@@ -3,5 +3,5 @@
 # Career
 # Altruism and politics
 # Death
-# Colston and Bristol today
+# Modern reappraisal
 # References
