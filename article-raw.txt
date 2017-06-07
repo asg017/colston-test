@@ -5,7 +5,7 @@
 | name        = Edward Colston
 | residence   = Mortlake
 | other_names =
-| image       = Edward Colston.jpg
+| image       = Edward Collybob.jpg
 | imagesize   = 200px
 | caption     =
 | birth_name  =
