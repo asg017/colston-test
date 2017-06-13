@@ -2,7 +2,7 @@
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
 |name         = Kamala Harris
-|image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
+|image        = Kamala Harris angry b Official Attorney General Photo.jpg{{!}}border
 |alongside    = [[Dianne Feinstein]]
 |jr/sr        = United States Senator
 |predecessor  = [[Barbara Boxer]]
