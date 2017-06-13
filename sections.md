@@ -2,7 +2,7 @@
 # Early life and education
 # Early career
 ## District Attorney of the City and County of San Francisco
-### Violent crimes, felons, incarceration and conviction rate
+### Violent crimes, felons, incarceration, and conviction rate
 ### Hate crimes and civil rights
 ### Police department laboratory and disclosure failures
 # Attorney General of California
