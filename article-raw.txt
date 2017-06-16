@@ -241,11 +241,6 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 {{s-ttl|title=[[California Attorney General|Attorney General of California]]|years=2011–2017}}
 {{s-aft|after=[[Kathleen Kenealy]]<br>{{small|Acting}}}}
 |-
-{{s-ppo}}
-{{s-bef|before=[[Barbara Boxer]]}}
-{{s-ttl|title=[[Democratic Party (United States)|Democratic]] nominee for [[List of United States Senators from California|U.S. Senator]] from [[California]]<br>([[Classes of United States Senators|Class 3]])|years=[[United States Senate election in California, 2016|2016]]}}
-{{s-inc|recent}}
-|-
 {{s-par|us-sen}}
 {{s-bef|before=[[Barbara Boxer]]}}
 {{s-ttl|title=[[List of United States Senators from California|U.S. Senator (Class 3) from California]]|years=2017–present|alongside=[[Dianne Feinstein]]}}
