@@ -8,7 +8,7 @@
 |alongside    = [[Dianne Feinstein]]
 |jr/sr        = United States Senator
 |predecessor  = [[Barbara Boxer]]
-|successor    = [[Hillary Clinton]]
+|successor    = 
 |office2      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
 |predecessor2 = [[Terence Hallinan]]
 |state        = [[California]] 
