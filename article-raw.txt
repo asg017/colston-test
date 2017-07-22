@@ -3,7 +3,7 @@
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
 |name         = Kamala Harris
-|image        = Senator Harris official portrait.jpg
+|image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
 |jr/sr        = United States Senator
 |state        = [[California]]
 |alongside    = [[Dianne Feinstein]]
