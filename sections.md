@@ -12,6 +12,7 @@
 ### Housing
 ### Prison conditions and sentencing reform
 ### Daniel Larsen case
+### Michelle-Lael Norsworthy case
 ### County prosecutors' misconduct
 ### Bureau of Children's Justice
 ### Mitrice Richardson case
