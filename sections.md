@@ -8,6 +8,7 @@
 # Attorney General of California
 ## 2010 election
 ## 2014 election
+## Tenure as California Attorney General
 ### Housing
 ### Prison conditions and sentencing reform
 ### Daniel Larsen case
