@@ -24,14 +24,13 @@
 ## Committee assignments
 ## Caucus memberships
 # Political positions
-## Abortion
+## Gun control
 ## Death penalty
+## Immigration
+## Abortion
 ## Education
 ## Environment
 ## Financial crimes
-## Gun control
-## Health care
-## Immigration
 # Personal life
 # See also
 # References
