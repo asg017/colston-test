@@ -6,11 +6,9 @@
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
 |office1      = 46th [[President of the United States]]
-|Vice_President1    = [[Hillary Clinton]]
-|term_start1  = January 3, 2011
-|term_end1    = January 3, 2017
-|predecessor1 = [[Jerry Brown]]
-|successor1   = [[Xavier Becerra]]
+|Vice_President1 = [[Hillary Clinton]]
+|term_start1  = January 20, 2021
+|predecessor1 = [[Donald Trump]]
 |office2      = [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
 |term_start2  = January 8, 2004
 |term_end2    = January 3, 2011
