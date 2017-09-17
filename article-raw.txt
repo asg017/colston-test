@@ -7,9 +7,8 @@
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
 |jr/sr        = 46th [[President of the United States]]
 |term_start   = January 20, 2021
-|term_end     = 
+|Vice_President     = [[Hillary Clinton]]
 |predecessor  = [[Donald Trump]]
-|successor    = 
 |office1      = [[List of Attorneys General of California|32nd]] [[Attorney General of California]]
 |governor1    = Jerry Brown
 |term_start1  = January 3, 2011
