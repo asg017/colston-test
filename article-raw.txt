@@ -4,7 +4,7 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
-|office1      = 46th [[President of the United States]]
+|office1      = Acting [[President of the United States]]
 |Vice_President1 = [[Hillary Clinton]]
 |term_start1  = January 20, 2021
 |predecessor1 = [[Donald Trump]]
