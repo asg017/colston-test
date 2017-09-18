@@ -4,13 +4,6 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
-|office        = President of the United States
-|order         = 46th
-|vicepresident = [[Cory Booker]]
-|term_start    = January 20, 2021
-|term_end      = 
-|predecessor   = [[Donald Trump]]
-|successor     = 
 |jr/sr        = United States Senator
 |state        = [[California]]
 |alongside    = [[Dianne Feinstein]]
