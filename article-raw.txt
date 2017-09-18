@@ -4,13 +4,20 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris Official Attorney General Photo.jpg{{!}}border
+|office        = President of the United States
+|order         = 46th
+|vicepresident = [[Cory Booker]]
+|term_start    = January 20, 2021
+|term_end      = 
+|predecessor   = [[Donald Trump]]
+|successor     = 
 |jr/sr        = United States Senator
 |state        = [[California]]
 |alongside    = [[Dianne Feinstein]]
-|term_start   = January 3, 2017
-|term_end     = 
-|predecessor  = [[Barbara Boxer]]
-|successor    = 
+|term_start1   = January 3, 2017
+|term_end 1    = 
+|predecessor1  = [[Barbara Boxer]]
+|successor1   = 
 |office1      = [[List of Attorneys General of California|32nd]] [[Attorney General of California]]
 |governor1    = Jerry Brown
 |term_start1  = January 3, 2011
