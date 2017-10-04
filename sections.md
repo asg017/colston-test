@@ -28,7 +28,7 @@
 ## Education
 ## Environment
 ## Financial crimes
-## Gun control
+## Gun law
 ## Health care
 ## Immigration
 # Personal life
