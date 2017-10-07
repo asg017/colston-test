@@ -28,7 +28,7 @@
 |death_place  = 
 |party        = [[Democratic Party (United States)|Democratic]]
 |spouse       = {{marriage|Douglas Emhoff|()=small|2014}}
-|relatives    = [[Maya Harris]] {{small|(sister)}}<br>[[Meena Harris]] {{small|(niece)}}
+|relatives    = [[Maya Harris]] {{small|(sister)}}
 |education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
 |website      = {{url|harris.senate.gov|Senate website}}
 }}
