@@ -16,7 +16,6 @@
 ### Bureau of Children's Justice
 ### Mitrice Richardson case
 ### Backpage cases
-### Civil Forfeiture
 # U.S. Senate
 ## 2016 election
 ## Tenure
