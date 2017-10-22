@@ -12,6 +12,7 @@
 ### Prison conditions and sentencing reform
 ### Daniel Larsen case
 ### Michelle-Lael Norsworthy case
+## Financial crimes
 ### County prosecutors' misconduct
 ### Bureau of Children's Justice
 ### Mitrice Richardson case
@@ -26,7 +27,6 @@
 ## Death penalty
 ## Education
 ## Environment
-## Financial crimes
 ## Gun law
 ## Health care
 ## Immigration
