@@ -30,7 +30,7 @@
 |spouse       = {{marriage|Douglas Emhoff|()=small|2014}}
 |relatives    = [[Maya Harris]] {{small|(sister)}}
 |education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
-|website      = {{url|harris.senate.gov|Senate website}}
+|website      = {{url|https://harris.senate.gov|Senate website}}
 }}
 '''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}}, {{respell|KAH|muh|luh}};<ref>{{cite news|author=Sam Whiting |url=http://www.sfgate.com/entertainment/article/Kamala-Harris-grew-up-idolizing-lawyers-3232851.php |title=Kamala Harris grew up idolizing lawyers |work=SFGate |date=May 14, 2009 |accessdate=2017-07-05}}</ref> born October 20, 1964) is an American attorney and politician. A member of the [[Democratic Party (United States)|Democratic Party]], she currently serves as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States Senator]] from [[California]]. She previously was elected as the [[List of Attorneys General of California|32nd Attorney General of California]].
 
@@ -242,8 +242,8 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 ==External links==
 {{Commons category|Kamala Harris}}
 * [https://www.harris.senate.gov Kamala Harris] official U.S. Senate website
-* [http://kamalaharris.org/ Campaign website]
-* [http://www.votesmart.org/bio.php?can_id=120012 Kamala Harris] at [[Project Vote Smart]]
+* [https://kamalaharris.org/ Campaign website]
+* [https://www.votesmart.org/bio.php?can_id=120012 Kamala Harris] at [[Project Vote Smart]]
 * {{worldcat id|lccn-n2009-45056|Kamala D. Harris}}
 * {{C-SPAN|Kamala Harris}}
 * {{CongLinks | congbio = H001075 | fec = S6CA00584 | votesmart = 120012 | congress = kamala-harris/H001075 }}
