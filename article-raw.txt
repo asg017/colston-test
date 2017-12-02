@@ -3,9 +3,8 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris official photo.jpg
-|jr/sr        = 46th [[President of the United States]]
+|office       = 46th [[President of the United States]]
 |term_start   = January 20, 2021
-|term_end     = 
 |predecessor  = [[Donald Trump]]
 |office1      = [[List of Attorneys General of California|32nd]] [[Attorney General of California]]
 |governor1    = [[Jerry Brown]]
