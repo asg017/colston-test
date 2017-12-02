@@ -3,8 +3,7 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris official photo.jpg
-|jr/sr        = United States Senator
-|state        = [[California]]
+|jr/sr        = 46th [[President of the United States]]
 |alongside    = [[Dianne Feinstein]]
 |term_start   = January 3, 2017
 |term_end     = 
