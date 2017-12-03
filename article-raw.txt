@@ -3,10 +3,12 @@
 {{Infobox officeholder
 |name         = Kamala Harris
 |image        = Kamala Harris official photo.jpg
-|office1      = [[United States Senator]] from [[California]]
-|term_start1   = January 20, 2017
-|term_end1     = 
-|predecessor1  = [[Barbara Boxer]]
+|jr/sr        = United States Senator
+|state        = [[California]]
+|term_start1  = January 3, 2017
+|term_end1    = 
+|predecessor1 = [[Barbara Boxer]]
+|successor1   =
 |office2      = [[List of Attorneys General of California|32nd]] [[Attorney General of California]]
 |governor2    = [[Jerry Brown]]
 |term_start2  = January 3, 2011
