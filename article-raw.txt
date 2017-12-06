@@ -2,8 +2,7 @@
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
 |name         = Kamala Harris
-|image        = 
-Alopecia.jpg ‎800 × 600 pixels, file size: 140 KB, MIME type: image/jpeg
+|image        = Kamala Harris official photo.jpg
 |jr/sr        = United States Senator
 |state        = [[California]]
 |alongside    = [[Dianne Feinstein]]
