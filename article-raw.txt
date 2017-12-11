@@ -35,7 +35,17 @@
 | weight      =
 }}
 
-'''Edward Colston''' (2 November 1636 – 11 October 1721) was a [[Bristol]]-born English [[slavery|slave]] trader, merchant and Member of Parliament. Much of his wealth, although used often for philanthropic purposes, was acquired through the [[Atlantic slave trade|trade and exploitation of slaves]].<ref>{{cite web
+'''Edward Colston''' (2 November 1636 – 11 October 1721) was a [[Bristol]]-born English [[philanthropist]], merchant, [[Atlantic slave trade|slave trader]], and Member of Parliament. Much of his wealth, although used often for philanthropic purposes, was acquired through the trade and exploitation of slaves.<ref>{{cite web
+ |url= http://www.historyofparliamentonline.org/volume/1690-1715/member/colston-edward-ii-1636-1721
+ |title=Colston, Edward II
+ |work=Biography of MP Edward Colston |publisher=Cambridge University Press |last1=Hayton |first1=David |last2=Cruickshanks |first2=Eveline |last3=Handley |first3=Stuart |date=April 2006
+ |accessdate=11 December 2017
+}}</ref><ref>{{cite web
+ |url= http://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5996
+ |title=Colston, Edward (1636-1721)
+ |work=Biography of Edward Colston |publisher=Oxford University Press |last=Morgan |first= Kenneth |date=1999
+ |accessdate=11 December 2017
+}}</ref><ref>{{cite web
  |url= http://www.bbc.co.uk/history/british/abolition/slavery_business_gallery_10.shtml
  |title=The Business of Enslavement
  |work=BBC – History – British History in depth |publisher=BBC |last1=Pocock |first1=Nigel |last2=Cook |first2=Victoria |date=5 November 2009
