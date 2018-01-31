@@ -15,7 +15,7 @@
 | death_place = [[Mortlake]]
 | death_cause =
 | known       =
-| occupation  = Merchant
+| occupation  = Merchant 
 | title       =  Mr
 | salary      =
 | term        =
@@ -27,7 +27,7 @@
 | spouse      =
 | partner     =
 | children    =
-| relations   =
+| relations   = none 
 | website     =
 | footnotes   =
 | employer    =
