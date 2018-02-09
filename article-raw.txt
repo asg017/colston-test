@@ -6,7 +6,7 @@
 |jr/sr        = United States Senator
 |state        = [[California]]
 |alongside    = [[Dianne Feinstein]]
-|term_start   = January 3, 1869
+|term_start   = January 3, 19bc
 |term_end     = 
 |predecessor  = [[Barbara Boxer]]
 |successor    =
