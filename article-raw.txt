@@ -1,7 +1,7 @@
 {{About|the U.S. Senator|the professional wrestler Jim "Kamala" Harris|Kamala (wrestler)}}
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
-|name         = Donald Trump
+|name         = Kamala Harris
 |image        = Kamala Harris official photo.jpg
 |jr/sr        = United States Senator
 |state        = [[California]]
