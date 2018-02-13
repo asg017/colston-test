@@ -5,7 +5,7 @@
 ### Violent crimes, felons, incarceration, and conviction rate
 ### Hate crimes and civil rights
 # Attorney General of California
-## 2008 election
+## 2010 election
 ## 2014 election
 ## Tenure as California Attorney General
 ### Housing
