@@ -27,7 +27,7 @@
 |death_date   = 
 |nationality  = American
 |party        = [[Democratic Party (United States)|Democratic]]
-|spouse       = {{marriage|Douglas Emhoff|()=small|2014}}
+|spouse       = {{marriage|Douglas Emhoff|2014}}
 |relatives    = [[Maya Harris]] {{small|(sister)}}
 |education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
 |website      = {{url|https://harris.senate.gov|Senate website}}
@@ -184,9 +184,9 @@ On June 7, 2017, Harris garnered media attention for her questioning of [[Rod Ro
 ** [[United States Senate Homeland Security Subcommittee on Regulatory Affairs and Federal Management|Subcommittee on Regulatory Affairs and Federal Management]]
 * '''[[United States Senate Select Committee on Intelligence|Select Committee on Intelligence]]'''
 * '''[[United States Senate Committee on the Judiciary|Committee on the Judiciary]]'''<ref>{{Cite web|url=https://www.democrats.senate.gov/newsroom/press-releases/schumer-announces-updated-senate-democratic-committee-memberships-for-the-115th-congress-2nd-session|title=SCHUMER ANNOUNCES UPDATED SENATE DEMOCRATIC COMMITTEE MEMBERSHIPS FOR THE 115TH CONGRESS, 2nd SESSION {{!}} Senate Democratic Leadership|website=www.democrats.senate.gov|language=en|access-date=2018-01-10}}</ref>
-* '''[[United States Senate Judiciary Subcommittee on the Constitution]]'''<ref>{{Cite web|url=https://www.judiciary.senate.gov/about/subcommittees}}</ref>
-* '''[[United States Senate Judiciary Subcommittee on Oversight, Agency Action, Federal Rights and Federal Courts]]'''<ref>{{Cite web|url=https://www.judiciary.senate.gov/about/subcommittees}}</ref>
-* '''[[United States Senate Judiciary Subcommittee on Privacy, Technology and the Law]]'''<ref>{{Cite web|url=https://www.judiciary.senate.gov/about/subcommittees}}</ref>
+* '''[[United States Senate Judiciary Subcommittee on the Constitution]]'''<ref name="judiciary.senate.gov">{{Cite web|url=https://www.judiciary.senate.gov/about/subcommittees}}</ref>
+* '''[[United States Senate Judiciary Subcommittee on Oversight, Agency Action, Federal Rights and Federal Courts]]'''<ref name="judiciary.senate.gov"/>
+* '''[[United States Senate Judiciary Subcommittee on Privacy, Technology and the Law]]'''<ref name="judiciary.senate.gov"/>
 
 Source: ''[http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-kamala-harris-nabs-national-security-1482178585-htmlstory.html Los Angeles Times]''
 
