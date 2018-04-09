@@ -1,4 +1,3 @@
-# 
 # Early life
 # Career
 # Altruism and politics
