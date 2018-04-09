@@ -2,7 +2,7 @@
 {{EngvarB|date=November 2017}}
 {{Use dmy dates|date=November 2017}}
 {{Infobox person
-| name        = Edward Colscrap
+| name        = Edward Colston 
 | residence   = Mortlake
 | other_names =
 | image       = Edward Colston.jpg
