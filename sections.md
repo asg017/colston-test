@@ -30,6 +30,7 @@
 ## Gun law
 ## Health care
 ## Immigration
+## Foreign policy
 # Personal life
 # See also
 # References
