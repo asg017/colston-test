@@ -194,7 +194,7 @@ Source: ''[http://www.latimes.com/politics/essential/la-pol-ca-essential-politic
 
 === Caucus memberships ===
 * [[Congressional Black Caucus]]<ref>{{cite web|title=Membership|author=|url=https://cbc.house.gov/membership/|format=|publisher=Congressional Black Caucus|date=|accessdate=7 March 2018}}</ref>
-* [[Congressional Asian Pacific American Caucus]]
+* [[Congressional Asian Pacific American Caucus]]<ref>{{cite web|title=Members|author=|url=https://capac-chu.house.gov/members|format=|publisher=Congressional Asian Pacific American Caucus|date=|accessdate=17 May 2018}}</ref>
 * [[Congressional Caucus for Women's Issues]]
 
 == Political positions ==
