@@ -1,40 +1,6 @@
-{{About|the U.S. Senator|the professional wrestler Jim "Kamala" Harris|Kamala (wrestler)}}
-{{Use mdy dates|date=November 2014}}
-{{Infobox officeholder
-|name         = Kamala Harris
-|image        = Senator Harris official senate portrait.jpg
-|jr/sr        = United States Senator
-|state        = [[California]]
-|alongside    = [[Dianne Feinstein]]
-|term_start   = January 3, 2017
-|term_end     = 
-|predecessor  = [[Barbara Boxer]]
-|successor    = 
-|office1      = 32nd [[Attorney General of California]]
-|governor1    = Jerry Brown
-|term_start1  = January 3, 2011
-|term_end1    = January 3, 2017
-|predecessor1 = [[Jerry Brown]]
-|successor1   = [[Xavier Becerra]]
-|office2      = 27th [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
-|term_start2  = January 8, 2004
-|term_end2    = January 3, 2011
-|predecessor2 = [[Terence Hallinan]]
-|successor2   = [[George Gascón]]
-|birth_name   = Kamala Devi Harris
-|birth_date   = {{birth date and age|1964|10|20}}
-|birth_place  = [[Oakland, California]], U.S.
-|death_date   = 
-|death_place  = 
-|party        = [[Democratic Party (United States)|Democratic]]
-|spouse       = {{marriage|Douglas Emhoff|2014}}
-|relatives    = [[Maya Harris]] {{small|(sister)}}
-|education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
-|website      = {{url|harris.senate.gov|Senate website}}
-}}
 '''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}}, {{respell|KAH|mə|lə}};<ref>{{cite news|author=Sam Whiting |url=http://www.sfgate.com/entertainment/article/Kamala-Harris-grew-up-idolizing-lawyers-3232851.php |title=Kamala Harris grew up idolizing lawyers |work=SFGate |date=May 14, 2009 |accessdate=2017-07-05}}</ref> born October 20, 1964) is an American lawyer and politician serving as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States Senator]] from [[California]] since 2017. A member of the [[Democratic Party (United States)|Democratic Party]], she previously was the 32nd [[Attorney General of California]] from 2011 to 2017.
 
-Harris graduated from [[Howard University]] and [[University of California, Hastings College of the Law|UC Hastings]]. After working in the [[San Francisco District Attorney's Office]] and [[City Attorney of San Francisco|City Attorney's Office]] Harris was elected [[District attorney|District Attorney]] of [[San Francisco]]. Harris was [[California Attorney General election, 2010|elected California's Attorney General in 2010]] and [[California Attorney General election, 2014|reelected in 2014]].<ref>{{cite news|title=Cooley concedes AG race to Harris|publisher=''Contra Costa Times''|date=November 24, 2010|url=http://www.contracostatimes.com/california/ci_16702241|accessdate=November 24, 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20120316082529/http://www.contracostatimes.com/california/ci_16702241|archivedate=March 16, 2012|df=mdy-all}}</ref><ref name="LAT-Cooley-Concedes">{{cite news |title=Kamala Harris wins attorney general's race as Steve Cooley concedes |first=Jack |last=Leonard |url=http://latimesblogs.latimes.com/lanow/2010/11/steve-cooley-kamala-harris-attorney-general.html |agency= |newspaper=Los Angeles Times |date=November 24, 2010 |page= |pages= |at= |accessdate=November 24, 2010}}</ref>
+Harris graduated from [[Howard University]] and [[University of California, Hastings College of the Law|UC Hastings]]. After working in the [[San Francisco District Attorney's Office]] and [[City Attorney of San Francisco|City Attorney's Office]] Harris was elected [[District attorney|District Attorney]] of [[San Francisco]]. Harris was [[California Attorney General election, 2010|elected California's Attorney General in 2010]] and [[California Attorney General election, 2014|re-elected in 2014]].<ref>{{cite news|title=Cooley concedes AG race to Harris|publisher=''Contra Costa Times''|date=November 24, 2010|url=http://www.contracostatimes.com/california/ci_16702241|accessdate=November 24, 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20120316082529/http://www.contracostatimes.com/california/ci_16702241|archivedate=March 16, 2012|df=mdy-all}}</ref><ref name="LAT-Cooley-Concedes">{{cite news |title=Kamala Harris wins attorney general's race as Steve Cooley concedes |first=Jack |last=Leonard |url=http://latimesblogs.latimes.com/lanow/2010/11/steve-cooley-kamala-harris-attorney-general.html |agency= |newspaper=Los Angeles Times |date=November 24, 2010 |page= |pages= |at= |accessdate=November 24, 2010}}</ref>
 
 On November 8, 2016, she defeated [[Loretta Sanchez]] in the [[United States Senate election in California, 2016|2016 Senate election]] to succeed  outgoing Senator [[Barbara Boxer]], becoming California's third female U.S. Senator and the first of [[Jamaica]]n or [[Indian American|Indian]] descent.<ref>{{cite web|url=http://www.latimes.com/nation/politics/trailguide/la-na-election-day-2016-california-s-u-s-senate-race-kamala-1478538739-htmlstory.html |title=Kamala Harris is elected California's new U.S. senator |work=LA Times |date= November 9, 2016| first = Phil | last = Willon |accessdate=November 9, 2016 }}</ref><ref>{{cite web|author=KABC |url=http://abc7.com/politics/congresswoman-loretta-sanchez-finally-concedes-senate-race/1598708/ |title=Congresswoman Loretta Sanchez finally concedes Senate race to Kamala Harris |publisher=abc7.com |date= |accessdate=2017-02-27}}</ref> During her tenure, she has generally opposed President [[Donald Trump]]'s policies.<ref>{{Cite news|url=http://www.politico.com/interactives/2017/hell-no-caucus/|title=Senate Dems eyeing 2020 tell Trump ‘hell no’|last=|first=|date=|work=POLITICO|access-date=June 27, 2017}}</ref>
 
@@ -78,10 +44,9 @@ In 2012, Superior Court Judge Anne-Christine Massullo ruled that San Francisco D
 ==== Hate crimes and civil rights ====
 Harris created a special Hate Crimes Unit as San Francisco District Attorney. She focused on hate crimes against [[LGBT]] children and teens in schools. She convened a national conference to confront the "gay-[[transgender]] [[gay panic|panic defense]]", which has been used to justify violent hate crimes.<ref>{{cite web|url=http://kamalaharris.org/issues/113|title=Hate Crimes and Protecting Victims|date=|publisher=Kamalaharris.org|accessdate=November 18, 2010}}</ref> Harris supports [[same-sex marriage]] in California and opposed both [[Proposition 22]] and [[California Proposition 8 (2008)|Proposition 8]].<ref>{{cite web|url=http://kamalaharris.org/MarriageEquality|title=Marriage Equality|date=|publisher=Kamalaharris.org|accessdate=November 18, 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20101125112342/http://kamalaharris.org/MarriageEquality|archivedate=November 25, 2010|df=mdy-all}}</ref>
 
-In 2004, The [[National Urban League]] honored Harris as a "Woman of Power", and she received the [[Thurgood Marshall#Thurgood Marshall Award|Thurgood Marshall Award]] from the National Black Prosecutors Association in 2005. In her campaign for California Attorney General, she received the endorsements of numerous groups, including [[EMILY's List]], [[California Legislative Black Caucus]], [[Asian American Action Fund]], [[Black Women Organized for Political Action]], the [[National Women's Political Caucus]], Mexican American Bar Association, and South Asians for Opportunity.<ref name="Endorsements">{{cite web|url=http://kamalaharris.org/endorsements|title=Endorsements|date=September 24, 2010|publisher=Kamalaharris.org|accessdate=November 18, 2010}}</ref>
+In 2004, The [[National Urban League]] honored Harris as a "Woman of Power", and she received the [[Thurgood Marshall#Thurgood Marshall Award|Thurgood Marshall Award]] from the National Black Prosecutors Association in 2005. In her campaign for California Attorney General, she received the endorsements of numerous groups, including [[EMILY's List]], [[California Legislative Black Caucus]], [[Asian American Action Fund]], [[Black Women Organized for Political Action]], the [[National Women's Political Caucus]], Mexican American Bar Association, and South Asians for Opportunity.<ref name="Endorsements">{{cite web|url=http://kamalaharris.org/endorsements|title=Endorsements|date=September 24, 2010|publisher=Kamalaharris.org|accessdate=November 18, 2010}}</ref>Kemala Harris is a fearless lifelong civil rights leader. She was elected in 2016 as the second African American woman in history to be in U.S senate and the first woman to serve as Attorney General of the state of California. Kemala is a fearless civil rights activist who co- sponsored the legislation to reform criminal justice system, raised the minimum wage to $15 an hour,made higher education tuition - fee free for majority of Americans and made the legal rights of refugees and immigrants and health care access to be affordable to all.
 
-== Attorney General of California ==
-=== 2010 election ===
+== Attorney General of California to be elected into2010 election ==
 {{main|California Attorney General election, 2010}}
 [[File:Kamala Harris inauguration as Attorney General 04.jpg|thumb|left|Harris being sworn-in as Attorney General]]
 On November 12, 2008, Harris announced her candidacy for [[California Attorney General]].  Both of California's United States Senators, [[Dianne Feinstein]] and [[Barbara Boxer]], as well as House Speaker [[Nancy Pelosi]], endorsed Harris during the Democratic Party primary.<ref>{{Cite news|url=http://www.politico.com/story/2010/12/kamala-harris-democrats-anti-palin-046783|title=Kamala Harris: Democrats' anti-Palin|last=Smith|first=Ben|date=December 24, 2010|work=|newspaper=POLITICO|access-date=December 21, 2016|via=}}</ref> In the primary, she faced [[Chris Kelly (entrepreneur)|Chris Kelly]], former Chief Privacy Officer of Facebook; Assemblyman [[Alberto Torrico]]; Assemblyman and former military prosecutor [[Ted Lieu]]; Assemblyman [[Pedro Nava (politician)|Pedro Nava]]; [[Rocky Delgadillo]], former City Attorney of Los Angeles; and Mike Schmier.<ref name="autogenerated2">[http://www.sos.ca.gov/elections/sov/2010-primary/pdf/2010-complete-sov.pdf Statement of Vote June 8, 2010, Direct Primary Election] {{webarchive |url=https://web.archive.org/web/20100722063405/http://www.sos.ca.gov/elections/sov/2010-primary/pdf/2010-complete-sov.pdf |date=July 22, 2010 }}</ref>{{Citation needed|date=December 2016}} In the June 8, 2010, primary, she was nominated with 33.6% of the vote. Her closest competitors, Torrico and Kelly, had 15.6% and 15.5% respectively.<ref name="autogenerated2" /><ref>{{cite news|url=http://www.ktvu.com/news/23840282/detail.html|title=Newsom And Harris Wins Democratic Nods For Lt Gov, State AG|date=June 8, 2010|newspaper=KTVU|accessdate=August 21, 2010}}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
