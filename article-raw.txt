@@ -28,8 +28,8 @@
 |death_place  = 
 |party        = [[Democratic Party (United States)|Democratic]]
 |spouse       = {{marriage|Douglas Emhoff|2014}}
-|relatives    = [[Maya Harris]] {{small|(sister)}}
-|education    = [[Howard University]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of California, Hastings]] {{small|([[Juris Doctor|JD]])}}
+|relatives    = [[Maya Harris]] (sister)
+|education    = [[Howard University]] ([[Bachelor of Arts|BA]])<br>[[University of California, Hastings]] ([[Juris Doctor|JD]])
 |website      = {{url|harris.senate.gov|Senate website}}
 }}
 '''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}}, {{respell|KAH|mə|lə}};<ref>{{cite news|author=Sam Whiting |url=http://www.sfgate.com/entertainment/article/Kamala-Harris-grew-up-idolizing-lawyers-3232851.php |title=Kamala Harris grew up idolizing lawyers |work=SFGate |date=May 14, 2009 |accessdate=2017-07-05}}</ref> born October 20, 1964) is an American lawyer and politician serving as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States Senator]] from [[California]] since 2017. A member of the [[Democratic Party (United States)|Democratic Party]], she previously was the 32nd [[Attorney General of California]] from 2011 to 2017.
@@ -234,6 +234,7 @@ Harris has expressed support for San Francisco's immigration policy of not inqui
 On October 25, 2017, during a news conference, Harris stated she would not support a spending bill until Congress addressed the [[Deferred Action for Childhood Arrivals]] program in a way that clarified "what we are going to do to protect and take care of our DACA young people in this country."<ref>{{cite news|url=http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-sen-kamala-harris-wont-back-federal-1508949513-htmlstory.html|title=Sen. Kamala Harris won't back federal spending bill without DACA fix |first=Sarah D.|last=Wire|work=Los Angeles Times|date=October 25, 2017}}</ref>
 
 In a January 2018 interview, when asked by Hiram Soto about her ideal version of a bipartisan deal on the Deferred Action for Childhood Arrivals program, Harris stated the need to focus on comprehensive immigration reform and "pass a clean Dream Act."<ref>{{cite news|url=http://www.sandiegouniontribune.com/hoy-san-diego/noticias/san-diego/sdhoy-sen-kamala-harris-talks-daca-future-run-for-president-20180112-story.html|title=Senator Kamala Harris talks DACA amid heated negotiations |date=January 12, 2018|first=Hiram|last=Soto|work=The San Diego Union-Tribune}}</ref>
+
 === Foreign policy ===
 In an April 6, 2017 statement, in response to the [[Khan Shaykhun chemical attack]], Harris charged [[President of Syria]] [[Bashar al-Assad]] with attacking Syrian children and the attack supported "the clear fact that President Assad is not only a ruthless dictator brutalizing his own people-he is a war criminal the international community cannot ignore." She called on President Trump to interact with Congress regarding his administration's "lack of clear objectives in Syria and articulate a detailed strategy and path forward in partnership with our allies."<ref>{{cite web|url=https://www.harris.senate.gov/news/press-releases/senator-harris-statement-on-us-military-action-in-syria|title=Senator Harris Statement on U.S. Military Action in Syria|date=April 6, 2017|publisher=Kamala Harris United States Senator for California}}</ref>
 
@@ -274,7 +275,7 @@ On April 7, 2014, Harris announced that she was engaged to be married to Califor
 |-
 {{s-bef|before=[[Jerry Brown]]}}
 {{s-ttl|title=[[California Attorney General|Attorney General of California]]|years=2011–2017}}
-{{s-aft|after=[[Kathleen Kenealy]]<br>{{small|Acting}}}}
+{{s-aft|after=[[Kathleen Kenealy]]<br>Acting}}
 |-
 {{s-par|us-sen}}
 {{s-bef|before=[[Barbara Boxer]]}}
