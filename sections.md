@@ -25,6 +25,7 @@
 ## Caucus memberships
 # Political positions
 ## Abortion
+## Cannabis
 ## Death penalty
 ## Education
 ## Environment
