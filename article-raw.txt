@@ -5,17 +5,12 @@
 |image        = Senator Harris official senate portrait.jpg
 |jr/sr        = United States Senator
 |state        = [[California]]
-|alongside    = [[Dianne Feinstein]]
-|term_start   = January 3, 2017
-|term_end     = 
-|predecessor  = [[Barbara Boxer]]
-|successor    = 
-|office1      = 32nd [[Attorney General of California]]
+|alongside    = [[Dianne [[
 |governor1    = Jerry Brown
 |term_start1  = January 3, 2011
 |term_end1    = January 3, 2017
 |predecessor1 = [[Jerry Brown]]
-|successor1   = [[Xavier Becerra]]
+|successor1  
 |office2      = 27th [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
 |term_start2  = January 8, 2004
 |term_end2    = January 3, 2011
