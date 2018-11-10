@@ -15,6 +15,7 @@
 ### Financial crimes
 ### County prosecutors' misconduct
 ### Bureau of Children's Justice
+### Oil and gas companies
 ### Mitrice Richardson case
 ### Backpage cases
 # U.S. Senate
