@@ -35,7 +35,6 @@
 ## Health care
 ## Immigration
 ## Foreign policy
-## LIFT
 # Personal life
 # See also
 # References
