@@ -20,7 +20,7 @@
 ### Backpage cases
 ### Mobile-app user privacy
 ### Supreme Court speculation
-### US Attorney General speculation
+### U.S. Attorney General speculation
 # U.S. Senate
 ## 2016 election
 ## Tenure
