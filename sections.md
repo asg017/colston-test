@@ -18,6 +18,8 @@
 ### Oil and gas companies
 ### Mitrice Richardson case
 ### Backpage cases
+### Mobile-app user privacy
+### Supreme Court speculation
 # U.S. Senate
 ## 2016 election
 ## Tenure
