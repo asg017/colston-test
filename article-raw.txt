@@ -1,4 +1,5 @@
-{{About|the U.S. Senator|the professional wrestler Jim "Kamala" Harris|Kamala (wrestler)}}
+{{About|the United States Senator from California|the professional wrestler Jim "Kamala" Harris|Kamala (wrestler)}}
+{{short description|United States Senator from California}}
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
 |name         = Kamala Harris
@@ -32,7 +33,7 @@
 |education    = [[Howard University]] ([[Bachelor of Arts|BA]])<br>[[University of California, Hastings]] ([[Juris Doctor|JD]])
 |website      = {{url|harris.senate.gov|Senate website}}
 }}
-'''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}} {{respell|KAH|mə|lə}}; born October 20, 1964) is an American attorney, politician and a member of the [[Democratic Party (United States)|Democratic Party]]. Harris has served as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States Senator]] from [[California]] since 2017. She served as the 32nd [[Attorney General of California]] from 2011 to 2017.
+'''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}} {{respell|KAH|mə|lə}}; born October 20, 1964) is an American attorney and politician serving as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States Senator]] from [[California]] since 2017. A member of the [[Democratic Party (United States)|Democratic Party]], she previously served as the 32nd [[Attorney General of California]] from 2011 to 2017.
 
 Born in [[Oakland, California]], Harris is a graduate of [[Howard University]] and [[University of California, Hastings College of the Law]].  In the 1990s, Harris worked in the [[San Francisco District Attorney's Office]] and the [[City Attorney of San Francisco]]'s office. In 2004, Harris was elected [[District attorney|District Attorney]] of [[San Francisco]].
 
