@@ -38,6 +38,7 @@
 ## Health care
 ## Immigration
 ## Foreign policy
+## Taxes
 # Personal life
 # See also
 # References
