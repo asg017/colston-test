@@ -331,6 +331,10 @@ Harris is married to California attorney Douglas Emhoff,<ref>{{cite news|title=C
 {{Current U.S. Senators}} 
 {{USSenCA}}
 {{Current California statewide political officials}}
+{{USCongRep-start|congresses= 115th–116th [[United States Congress]] |state=[[California]]}}
+{{USCongRep/CA/115}}
+{{USCongRep/CA/116}}
+{{USCongRep-end}}
 {{portal bar|Politics|United States}}
 {{Authority control}}
 
