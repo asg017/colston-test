@@ -1,7 +1,7 @@
 {{short description|United States Senator from California}}
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
-|name         = Kamala Harris shreyas
+|name         = Kamala Harris
 |image        = Senator Harris official senate portrait.jpg
 |jr/sr        = United States Senator
 |state        = [[California]]
