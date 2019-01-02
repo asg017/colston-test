@@ -32,7 +32,7 @@
 ## Cannabis
 ## Death penalty
 ## Disaster relief
-# Economy
+## Economy
 ## Education
 ## Environment
 ## Gun law
