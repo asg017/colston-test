@@ -35,10 +35,10 @@
 ## Economy
 ## Education
 ## Environment
+## Foreign policy
 ## Guns
 ## Health care
 ## Immigration
-## Foreign policy
 ## Taxes
 # Personal life
 # See also
