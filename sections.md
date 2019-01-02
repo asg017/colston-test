@@ -35,7 +35,7 @@
 ## Economy
 ## Education
 ## Environment
-## Gun law
+## Guns
 ## Health care
 ## Immigration
 ## Foreign policy
