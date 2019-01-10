@@ -32,7 +32,6 @@
 ## Cannabis
 ## Death penalty
 ## Disaster relief
-## Economy
 ## Education
 ## Environment
 ## Foreign policy
