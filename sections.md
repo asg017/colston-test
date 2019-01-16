@@ -33,6 +33,7 @@
 ## Death penalty
 ## Disaster relief
 ## Education
+## Election security
 ## Environment
 ## Foreign policy
 ## Guns
