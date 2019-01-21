@@ -24,7 +24,7 @@
 # U.S. Senate
 ## 2016 election
 ## Tenure
-### 2020 presidential speculation
+### 2020 presidential candidacy
 ## Committee assignments
 ## Caucus memberships
 # Political positions
