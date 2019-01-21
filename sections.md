@@ -40,6 +40,7 @@
 ## Health care
 ## Immigration
 ## Taxes
+## Campaign finance
 # Personal life
 # See also
 # References
