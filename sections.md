@@ -24,9 +24,9 @@
 # U.S. Senate
 ## 2016 election
 ## Tenure
-# 2020 presidential candidacy
 ## Committee assignments
 ## Caucus memberships
+# 2020 presidential candidacy
 # Political positions
 ## Abortion
 ## Cannabis
