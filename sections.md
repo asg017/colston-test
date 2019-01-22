@@ -12,7 +12,7 @@
 ### Prison conditions and sentencing reform
 ### Daniel Larsen case
 ### Michelle-Lael Norsworthy case
-### Financial crimes
+### Prosecuting financial crimes
 ### County prosecutors' misconduct
 ### Bureau of Children's Justice
 ### Oil and gas companies
