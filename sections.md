@@ -19,8 +19,7 @@
 ### Mitrice Richardson case
 ### Backpage cases
 ### Mobile-app user privacy
-### Supreme Court speculation
-### U.S. Attorney General speculation
+### Supreme Court and U.S. Attorney General speculation
 # U.S. Senate
 ## 2016 election
 ## Tenure
