@@ -1,36 +1,37 @@
 {{short description|United States Senator from California}}
 {{Use mdy dates|date=November 2014}}
 {{Infobox officeholder
-|name         = Kamala Harris
-|image        = Senator Harris official senate portrait.jpg
-|jr/sr        = United States Senator
-|state        = [[California]]
-|alongside    = [[Dianne Feinstein]]
-|term_start   = January 3, 2017
-|term_end     = 
-|predecessor  = [[Barbara Boxer]]
-|successor    = 
-|office1      = 32nd [[Attorney General of California]]
-|governor1    = Jerry Brown
-|term_start1  = January 3, 2011
-|term_end1    = January 3, 2017
-|predecessor1 = [[Jerry Brown]]
-|successor1   = [[Xavier Becerra]]
-|office2      = 27th [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
-|term_start2  = January 8, 2004
-|term_end2    = January 3, 2011
-|predecessor2 = [[Terence Hallinan]]
-|successor2   = [[George Gascón]]
-|birth_name   = Kamala Devi Harris
-|birth_date   = {{birth date and age|1964|10|20}}
-|birth_place  = [[Oakland, California]], U.S.
-|death_date   = 
-|death_place  = 
-|party        = [[Democratic Party (United States)|Democratic]]
-|spouse       = {{marriage|Douglas Emhoff|2014}}
-|relatives    = [[Maya Harris]] (sister)
-|education    = [[Howard University]] ([[Bachelor of Arts|BA]])<br>[[University of California, Hastings]] ([[Juris Doctor|JD]])
-|website      = {{url|harris.senate.gov|Senate website}}
+| name = Kamala Harris
+| image = Senator Harris official senate portrait.jpg
+| jr/sr = United States Senator
+| state = [[California]]
+| alongside = [[Dianne Feinstein]]
+| term_start = January 3, 2017
+| term_end = 
+| predecessor = [[Barbara Boxer]]
+| successor = 
+| office1 = 32nd [[Attorney General of California]]
+| governor1 = Jerry Brown
+| term_start1 = January 3, 2011
+| term_end1 = January 3, 2017
+| predecessor1 = [[Jerry Brown]]
+| successor1 = [[Xavier Becerra]]
+| office2 = 27th [[San Francisco District Attorney's Office|District Attorney of San Francisco]]
+| term_start2 = January 8, 2004
+| term_end2 = January 3, 2011
+| predecessor2 = [[Terence Hallinan]]
+| successor2 = [[George Gascón]]
+| birth_name = Kamala Devi Harris
+| birth_date = {{birth date and age|1964|10|20}}
+| birth_place = [[Oakland, California]], U.S.
+| death_date = 
+| death_place = 
+| party = [[Democratic Party (United States)|Democratic]]
+| spouse = {{marriage|Douglas Emhoff|2014}}
+| parents = [[Shyamala Gopalan]] (mother)
+| relatives = [[Maya Harris]] (sister)
+| education = [[Howard University]] ([[Bachelor of Arts|BA]])<br>[[University of California, Hastings]] ([[Juris Doctor|JD]])
+| website = {{url|harris.senate.gov|Senate website}}
 }}
 '''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}} {{respell|KAH|mə|lə}}; born October 20, 1964) is an [[United States|American]] [[lawyer|attorney]] and [[politician]] serving as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States Senator]] for [[California]] since 2017. A member of the [[Democratic Party (United States)|Democratic Party]], she previously served as the 32nd [[Attorney General of California]] from 2011 to 2017, and as [[District attorney|District Attorney]] of [[San Francisco]] from 2004 to 2010.  On January 21, 2019, Harris officially announced her [[Kamala Harris 2020 presidential campaign|campaign]] to run for [[President of the United States]] in the [[2020 United States presidential election]].
 
