@@ -28,7 +28,8 @@
 | death_place = 
 | party = [[Democratic Party (United States)|Democratic]]
 | spouse = {{marriage|Douglas Emhoff|2014}}
-| parents = [[Shyamala Gopalan]] (mother) [[Donald J. Harris]] (father)
+| parents = [[Shyamala Gopalan]] (mother
+Donald J. Harris (father)
 | relatives = [[Maya Harris]] (sister)
 | education = [[Howard University]] ([[Bachelor of Arts|BA]])<br>[[University of California, Hastings]] ([[Juris Doctor|JD]])
 | website = {{url|harris.senate.gov|Senate website}}
