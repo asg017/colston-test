@@ -12,6 +12,18 @@
 ### Prison conditions and sentencing reform
 ### Michelle-Lael Norsworthy case
 ### Prosecuting financial crimes
+### County prosecutors' misconduct
+### Bureau of Children's Justice
+### Oil and gas companies
+### Mitrice Richardson case
+### Backpage cases
+### Mobile-app user privacy
+### Supreme Court and U.S. Attorney General speculation
+# U.S. Senate
+## 2016 election
+## Tenure
+## Committee assignments
+## Caucus memberships
 # 2020 presidential candidacy
 # Political positions
 ## Abortion
