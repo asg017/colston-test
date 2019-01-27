@@ -1,6 +1,6 @@
 {{pp-vandalism|small=yes}}
 {{short description|junior United States Senator from California, former Attorney General of California}}
-{{Use American English}}
+{{Use American English|date=January 2019}}
 {{Use mdy dates|date=January 2019}}
 {{Infobox officeholder
 | name = Kamala Harris
