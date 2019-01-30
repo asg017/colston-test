@@ -41,7 +41,7 @@
 ## Taxes
 ## Campaign finance
 # Personal life
-# Honorary Degrees
+# Honorary degrees
 # Book
 # See also
 # References
