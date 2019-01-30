@@ -330,9 +330,9 @@ Kamala Harris has received many [[Honorary degree|honorary degrees]] in recognit
 |-
 !  style="background:#f5f5f5; width:20%;"| <span style="color:dimGrey;">Location</span> !!  style="background:#f5f5f5; width:20%;"| <span style="color:dimGrey;">Date</span> !!  style="background:#f5f5f5; width:40%;"| <span style="color:dimGrey;">School</span> !!  style="background:#f5f5f5; width:20%;"| <span style="color:dimGrey;">Degree</span>
 |-
-| {{Flagu|District of Columbia}} || '''2012''' || [[Howard University]] || [[Doctor of Laws]] (LL.D)  <ref>https://www.howard.edu/secretary/convocations/recipients-year.htm</ref>
+| {{Flagu|District of Columbia}} || 2012 || [[Howard University]] || [[Doctor of Laws]] (LL.D)  <ref>https://www.howard.edu/secretary/convocations/recipients-year.htm</ref>
 |-
-| {{Flagu|California}} || '''15 May 2015''' || [[University of Southern California]] || [[Doctor of Humane Letters]]  (DHL)  <ref>https://commencement.usc.edu/history/2000-to-present/</ref> 
+| {{Flagu|California}} || 15 May 2015 || [[University of Southern California]] || [[Doctor of Humane Letters]]  (DHL)  <ref>https://commencement.usc.edu/history/2000-to-present/</ref> 
 |-
 |}
 {{Expand list|date=January 2019}}
