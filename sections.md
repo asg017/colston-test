@@ -37,7 +37,7 @@
 ## Guns
 ## Health care
 ## Immigration
-## LGBT Rights
+## LGBT rights
 ## Taxes
 ## Campaign finance
 # Personal life
