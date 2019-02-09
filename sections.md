@@ -38,6 +38,7 @@
 ## Health care
 ## Immigration
 ## LGBT rights
+## Net neutrality
 ## Taxes
 ## Campaign finance
 # Personal life
