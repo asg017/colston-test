@@ -10,6 +10,7 @@
 ## Tenure as California Attorney General
 ### Housing
 ### Prison conditions and sentencing reform
+### Daniel Larsen case
 ### Michelle-Lael Norsworthy case
 ### Prosecuting financial crimes
 ### County prosecutors' misconduct
