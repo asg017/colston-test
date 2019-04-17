@@ -43,6 +43,7 @@
 ## Campaign finance
 # Personal life
 # Honorary degrees
+# Publcations
 # See also
 # References
 # External links
