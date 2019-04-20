@@ -426,7 +426,6 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 {{Authority control}}
 
 {{DEFAULTSORT:Harris, Kamala}}
-[[Category:1964 births]]
 [[Category:20th-century American politicians]]
 [[Category:20th-century American women politicians]]
 [[Category:20th-century American women writers]]
@@ -435,14 +434,12 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 [[Category:21st-century American politicians]]
 [[Category:21st-century American women politicians]]
 [[Category:21st-century American women writers]]
-[[Category:Activists from California]]
 [[Category:American gun control advocates]]
 [[Category:American legal writers]]
 [[Category:American non-fiction crime writers]]
 [[Category:American people of Indian Tamil descent]]
 [[Category:American politicians of Indian descent]]
 [[Category:American politicians of Jamaican descent]]
-[[Category:American women activists]]
 [[Category:American women lawyers]]
 [[Category:American women non-fiction writers]]
 [[Category:American writers of Jamaican descent]]
@@ -455,7 +452,6 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 [[Category:Howard University alumni]]
 [[Category:Lawyers from Oakland, California]]
 [[Category:Liberalism in the United States]]
-[[Category:Living people]]
 [[Category:Members of the United States Congress of Indian descent]]
 [[Category:Politicians from Oakland, California]]
 [[Category:United States Senators from California]]
@@ -466,3 +462,5 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 [[Category:Writers from San Francisco]]
 [[Category:2020 United States presidential candidates]]
 [[Category:African-American United States presidential candidates]]
+[[Category:1964 births]]
+[[Category:Living people]]
