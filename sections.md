@@ -27,6 +27,7 @@
 # 2020 presidential candidacy
 # Political positions
 ## Abortion
+## Campaign finance
 ## Cannabis
 ## Death penalty
 ## Disaster relief
@@ -40,7 +41,6 @@
 ## LGBT rights
 ## Net neutrality
 ## Taxes
-## Campaign finance
 # Personal life
 # Honorary degrees
 # Publications
