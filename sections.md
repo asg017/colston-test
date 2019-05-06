@@ -10,14 +10,14 @@
 ## Tenure
 ### Housing
 ### Prison conditions and sentencing reform
-### Michelle-Lael Norsworthy case
 ### Prosecuting financial crimes
-### County prosecutors' misconduct
+### Mobile-app user privacy
+### Michelle-Lael Norsworthy case
 ### Bureau of Children's Justice
+### County prosecutors' misconduct
 ### Oil and gas companies
 ### Mitrice Richardson case
 ### Backpage cases
-### Mobile-app user privacy
 ### Supreme Court and U.S. Attorney General speculation
 # U.S. Senate
 ## 2016 election
