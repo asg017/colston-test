@@ -41,6 +41,7 @@
 ## LGBT rights
 ## Net neutrality
 ## Taxes
+## Voting rights
 # Personal life
 # Honorary degrees
 # Publications
