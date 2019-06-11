@@ -410,8 +410,7 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 {{s-aft|after=[[John Kennedy (Louisiana politician)|John N. Kennedy]]}}
 {{s-end}}
 
-{{Navboxes
-|list1 =
+
 {{United States presidential election, 2020}}
 {{CA-FedRep}}
 {{Current U.S. Senators}} 
@@ -422,7 +421,7 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 {{USCongRep/CA/116}}
 {{USCongRep-end}}
 {{Attorneys General of California}}
-}}
+
 {{portal bar|Biography|California|Government of the United States|Politics|United States}}
 {{Authority control}}
 
