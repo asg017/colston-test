@@ -7,7 +7,7 @@
 # Attorney General of California
 ## 2010 election
 ## 2014 election
-## Tenure
+## Significant cases and policies
 ### Housing
 ### Prison conditions and sentencing reform
 ### Prosecuting financial crimes
