@@ -43,7 +43,6 @@
 ## Taxes
 ## Voting rights
 # Personal life
-# Honorary degrees
 # Publications
 # See also
 # References
