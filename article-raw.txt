@@ -393,7 +393,7 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 * [[Women in the United States Senate]]
 
 ==References==
-{{Reflist|30em}}
+{{Reflist}}
 
 ==External links==
 {{Sister project links |wikt=no |b=no |d=Q10853588 |n=no |s=Author:Kamala_Devi_Harris|v=no}}
