@@ -42,6 +42,7 @@
 ## Net neutrality
 ## Taxes
 ## Voting rights
+# Electoral History
 # Personal life
 # Publications
 # See also
