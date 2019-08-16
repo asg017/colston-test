@@ -24,7 +24,7 @@
 ## Tenure
 ## Committee assignments
 ## Caucus memberships
-# 2020 presidential candidacy
+# 2020 presidential campaign
 # Political positions
 ## Abortion
 ## Campaign finance
