@@ -8,6 +8,8 @@
 ## City Attorney
 ## 2003 Campaign for District Attorney
 ### Campaign organization
+### Campaign spending violation
+### Runoff election
 # District Attorney of San Francisco
 ### Violent crimes and conviction rate
 ### Hate crimes and civil rights
