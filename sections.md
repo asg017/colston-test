@@ -11,8 +11,9 @@
 ### Campaign spending violation
 ### Runoff election
 # District Attorney of San Francisco
-### Violent crimes and conviction rate
-### Hate crimes and civil rights
+## Violent crimes and conviction rate
+### Child Abuse in Catholic Church
+## Hate crimes and civil rights
 # Attorney General of California
 ## 2010 election
 ## 2014 election
