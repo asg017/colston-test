@@ -6,7 +6,9 @@
 ## Assistant District Attorney
 ### Office turmoil
 ## City Attorney
-## District Attorney of San Francisco
+## 2003 Campaign for District Attorney
+### Campaign organization
+# District Attorney of San Francisco
 ### Violent crimes and conviction rate
 ### Hate crimes and civil rights
 # Attorney General of California
