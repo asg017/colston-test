@@ -1,6 +1,11 @@
 # 
 # Early life and education
 # Early career
+## Deputy District Attorney in Alameda County
+## Willie Brown
+## Assistant District Attorney
+### Office turmoil
+## City Attorney
 ## District Attorney of San Francisco
 ### Violent crimes and conviction rate
 ### Hate crimes and civil rights
