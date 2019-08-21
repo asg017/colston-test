@@ -31,6 +31,9 @@
 ### Supreme Court and U.S. Attorney General speculation
 # U.S. Senate
 ## 2016 election
+### Campaign funding
+### Support
+### Election
 ## Tenure
 ## Committee assignments
 ## Caucus memberships
