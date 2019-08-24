@@ -58,6 +58,7 @@
 ## Voting rights
 # Electoral history
 # Personal life
+## Net worth
 # Publications
 # See also
 # References
