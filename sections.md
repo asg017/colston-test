@@ -55,6 +55,7 @@
 ## LGBT rights
 ## Net neutrality
 ## Taxes
+## Trade
 ## Voting rights
 # Electoral history
 # Personal life
