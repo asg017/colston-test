@@ -2,7 +2,6 @@
 # Early life and education
 # Early career
 ## Deputy District Attorney in Alameda County
-## Willie Brown
 ## Assistant District Attorney
 ### Office turmoil
 ## City Attorney
