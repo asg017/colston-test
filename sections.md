@@ -37,6 +37,7 @@
 ## Tenure
 ## Committee assignments
 ## Caucus memberships
+# 2020 presidential campaign
 # Political positions
 ## Abortion
 ## Animals
