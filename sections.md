@@ -59,7 +59,7 @@
 ## Voting rights
 # Electoral history
 # Personal life
-## Net worth
+## Income and net worth
 # Publications
 # See also
 # References
