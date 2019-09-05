@@ -1,9 +1,7 @@
 # 
 # Early life and education
 # Early career
-## Deputy District Attorney in Alameda County
-## Willie Brown
-## Assistant District Attorney
+## San Francisco ADA
 ### Office turmoil
 ## City Attorney
 ## 2003 Campaign for District Attorney
