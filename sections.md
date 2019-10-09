@@ -51,6 +51,7 @@
 ## Health care
 ## Immigration
 ## LGBT rights
+## Medical leave
 ## Net neutrality
 ## Taxes
 ## Trade
