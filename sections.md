@@ -53,6 +53,7 @@
 ## LGBT rights
 ## Medical leave
 ## Net neutrality
+## Supreme Court
 ## Taxes
 ## Trade
 ## Voting rights
