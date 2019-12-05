@@ -38,7 +38,6 @@
 # 2020 presidential campaign
 # Political positions
 ## Abortion
-## Animals
 ## Campaign finance
 ## Cannabis
 ## Death penalty
