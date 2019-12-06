@@ -1,5 +1,8 @@
+{{uncategorized|date=December 2019}}
 {{infobox musical artist
 | name = Anna Bulbrook
+| background = non_vocal_instrumentalist
+| instrument = Violin
 | associated_acts = [[The Airborne Toxic Event]]<br>The Bulls<br>[[Edward Sharpe and the Magnetic Zeros]]
 }}
 '''Anna Bulbrook''' is an American musician.
@@ -11,7 +14,7 @@ Anna Bulbrook is from Boston.<ref name="distinct">{{cite web|url=https://distinc
 At age twenty-one, Bulbrook stopped playing the violin. She felt uneasy about her decision to quit, worrying that she would disappoint her family after years of lessons and providing an expensive, professional-grade violin for her. She then worked in [[public relations]]. While working as an intern at the magazine ''[[Filter (magazine)|Filter]]'', she played backing violin for a [[Kanye West]] performance in [[Aspen, Colorado]], which she described as a "revelation", as playing in that context was more casual and fun. [[Mikel Jollett]], who was an editor at ''Filter'', then invited her to tour with his band [[The Airborne Toxic Event]].<ref name="distinct"/>
 
 ===The Airborne Toxic Event===
-Anna Bulbrook joined The Airborne Toxic Event in her early twenties, touring extensively after their hit "[[Sometime Around Midnight]]".<ref name="distinct"/>
+Bulbrook joined The Airborne Toxic Event in her early twenties, touring extensively after their hit "[[Sometime Around Midnight]]".<ref name="distinct"/>
 In September 2019, Bulbrook announced that she was leaving the band.<ref>{{cite web|url=https://radio1045.iheart.com/featured/off-the-air-jammin-jessie/content/2019-09-17-anna-bulbrook-announces-departure-from-airbrone-toxic-event/| title=Anna Bulbrook Announces Departure From Airbrone [sic] Toxic Event |website=Radio 104.5|access-date=6 December 2019| date=17 September 2019}}</ref>
 
 ===GIRLSCHOOL===
@@ -23,3 +26,5 @@ Bulbrook has played violin for the scores of several films, including ''[[Moonli
 
 ==References==
 {{reflist}}
+
+{{DEFAULTSORT:Bulbrook, Anna}}
