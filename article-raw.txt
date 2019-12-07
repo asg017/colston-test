@@ -570,32 +570,6 @@ In May 2019, Harris attributed the 2018 gubernatorial losses of [[Stacey Abrams]
 ==Electoral history==
 {{main|Electoral history of Kamala Harris}}
 
-{{Election box begin
-| title = California Attorney General election, 2014<ref name=geresult>{{cite web|url=https://elections.cdn.sos.ca.gov/sov/2014-general/pdf/2014-complete-sov.pdf|title=Statement of Vote November 4, 2014, General Election|publisher=California Secretary of State |accessdate=December 30, 2014}}</ref>}}
-{{Election box winning candidate with party link 
-| party = Democratic Party (United States)
-| candidate = Kamala Harris (Incumbent)
-| votes = 4,102,649
-| percentage = 57.49%
-| change = +11.44%
-}}
-{{Election box candidate with party link
-| party = Republican Party (United States)
-| candidate = Ronald Gold
-| votes = 3,033,476
-| percentage = 42.51%
-| change = -2.77%
-}}
-{{Election box total 
-| votes = '''7,136,125'''
-| percentage = '''100.0%'''
-| change = N/A
-}}
-{{Election box hold with party link no swing
-| winner = Democratic Party (United States)
-}}
-{{Election box end}}
-
 {{Election box begin no change
 | title = Primary results<ref>{{cite news | url=http://elections.cdn.sos.ca.gov//sov/2016-primary/csv-voter-nominated-candidates.xls | title=CSV Files - Voter Nominated | work=California Secretary of State | date=July 16, 2016 }}</ref>
 }}
