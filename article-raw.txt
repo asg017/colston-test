@@ -568,56 +568,7 @@ In May 2019, Harris stated she would not have voted for the [[North American Fre
 In May 2019, Harris attributed the 2018 gubernatorial losses of [[Stacey Abrams]] and [[Andrew Gillum]], in both [[2018 Georgia gubernatorial election|Georgia]] and [[2018 Florida gubernatorial election|Florida]] to [[voter suppression]].<ref>{{cite web|url=https://www.newsweek.com/kamala-harris-voter-suppression-abrams-gillum-1415903|title=Kamala Harris said that without voter suppression, Stacey Abrams and Andrew Gillum would've won their 2018 races|last=Hutzler|first=Alexandra|date=May 6, 2019|website=Newsweek}}</ref>
 
 ==Electoral history==
-{{Election box begin no change
-| title = Democratic primary results
-}}
-{{Election box winning candidate with party link no change
-| candidate = Kamala D. Harris
-| party = California Democratic Party 
-| votes = 762,995
-| percentage = 33.6
-}}
-{{Election box candidate with party link no change
-| candidate = Alberto Torrico
-| party = California Democratic Party 
-| votes = 354,792
-| percentage = 15.6
-}}
-{{Election box candidate with party link no change
-| candidate = Chris Kelly
-| party = California Democratic Party 
-| votes = 350,757
-| percentage = 15.5
-}}
-{{Election box candidate with party link no change
-| candidate = Ted W. Lieu
-| party = California Democratic Party 
-| votes = 237,618
-| percentage = 10.5
-}}
-{{Election box candidate with party link no change
-| candidate = Pedro Nava
-| party = California Democratic Party 
-| votes = 222,941
-| percentage = 9.7
-}}
-{{Election box candidate with party link no change
-| candidate = Rocky Delgadillo
-| party = California Democratic Party 
-| votes = 219,494
-| percentage = 9.6
-}}
-{{Election box candidate with party link no change
-| candidate = Mike Schmier
-| party = California Democratic Party 
-| votes = 127,291
-| percentage = 5.5
-}}
-{{Election box total no change
-| votes = 2,275,888
-| percentage = 100.0
-}}
-{{Election box end}}
+{{main|Electoral history of Kamala Harris}}
 
 {{Election box begin 
 | title = California Attorney General election, 2010<ref>{{Cite web |url=https://elections.cdn.sos.ca.gov/sov/2010-general/complete-sov.pdf|title=Statement of Vote November 2, 2010, General Election |access-date=December 13, 2010}}</ref>
