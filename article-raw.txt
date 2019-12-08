@@ -564,32 +564,6 @@ In May 2019, Harris attributed the 2018 gubernatorial losses of [[Stacey Abrams]
 ==Electoral history==
 {{main|Electoral history of Kamala Harris}}
 
-{{Election box begin
-| title=United States Senate election in California, 2016<ref>{{cite web | url=http://elections.cdn.sos.ca.gov/sov/2016-general/sov/2016-complete-sov.pdf |title=Statement of Vote November 8, 2016, General Election| publisher=California Secretary of State | date=November 13, 2016 | accessdate=January 4, 2017}}</ref>}}
-{{Election box winning candidate with party link
- | party      = Democratic Party (United States)
- | candidate  = Kamala Harris
- | votes      = 7,542,753
- | percentage = 61.60%
- | change     = N/A
-}}
-{{Election box candidate with party link
- | party      = Democratic Party (United States)
- | candidate  = Loretta Sanchez
- | votes      = 4,701,417
- | percentage = 38.40%
- | change     = N/A
-}}
-{{Election box total
- | votes      = '''12,244,170'''
- | percentage = '''100.0%'''
- | change     = N/A
-}}
-{{Election box hold with party link no swing
-| winner = Democratic Party (United States)
-}}
-{{Election box end}}
-
 ==Personal life==
 [[File:Kamala Harris signing the guest book at Yad Vashem with her husband, Doug24830055418 5323ea6526 h (cropped2).jpg|thumb|right|Signs guestbook at [[Yad Vashem]] in [[Israel]] with husband]]
 [[File:Kamala Harris Howard University commencement ceremony C tljSIWsAEXQn3.jpg|thumb|[[Howard University]], 2017]]
