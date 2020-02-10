@@ -1,3 +1,4 @@
+{{short description|American musician|bot=PearBOT 5}}
 {{infobox musical artist
 | name = Anna Bulbrook
 | background = non_vocal_instrumentalist
