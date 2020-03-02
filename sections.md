@@ -35,7 +35,7 @@
 ## Tenure
 ## Committee assignments
 ## Caucus memberships
-# 2020 presidential campaign
+# 2020 failed presidential campaign
 # Political positions
 ## Abortion
 ## Campaign finance
