@@ -13,7 +13,7 @@
 | birth_place = [[Bristol]], England
 | death_date = {{death-date|11 October 1721|11 October 1721}}
 | death_place = [[Mortlake]], England
-| death_cause =
+| death_cause =69
 | known       =
 | occupation  = Merchant
 | title       =  
