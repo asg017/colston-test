@@ -12,6 +12,7 @@
 ## Violent crimes and conviction rate
 ### Child Abuse in Catholic Church
 ## Hate crimes and civil rights
+## Opposition against the "gay panic" and "trans panic" defense
 # Attorney General of California
 ## 2010 election
 ## 2014 election
