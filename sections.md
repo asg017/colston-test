@@ -19,6 +19,7 @@
 ## Significant cases and policies
 ### Housing
 ### Prison conditions and sentencing reform
+### Prosecuting cyber-exploitation and "revenge porn" operators
 ### Prosecuting financial crimes
 ### Mobile-app user privacy
 ### Michelle-Lael Norsworthy case
