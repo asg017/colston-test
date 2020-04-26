@@ -29,6 +29,7 @@
 ### Oil and gas companies
 ### Mitrice Richardson case
 ### Backpage cases
+### Workers rights
 ### Supreme Court and U.S. Attorney General speculation
 # U.S. Senate
 ## 2016 election
