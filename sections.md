@@ -30,7 +30,7 @@
 ### Mitrice Richardson case
 ### Backpage cases
 ### Workers rights
-### Supreme Court and U.S. Attorney General speculation
+### Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
 # U.S. Senate
 ## 2016 election
 ### Campaign funding
