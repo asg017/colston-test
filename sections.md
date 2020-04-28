@@ -32,9 +32,9 @@
 ### Backpage cases
 ### Bureau of Children's Justice
 ### Oil and gas companies
-### Prosecuting and disrupting transnational criminal organizations
 ### Prosecuting cyber-exploitation and "revenge porn" operators
 ### Prosecuting financial crimes
+### Prosecuting transnational criminal organizations
 ## Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
 # U.S. Senate
 ## 2016 election
