@@ -17,20 +17,26 @@
 ## 2010 election
 ## 2014 election
 ## Significant cases and policies
-### Prosecuting and disrupting transnational criminal organizations
-### Housing
+## Civil rights
+### County prosecutors' misconduct
 ### Prison conditions and sentencing reform
-### Prosecuting cyber-exploitation and "revenge porn" operators
-### Prosecuting financial crimes
 ### Mobile-app user privacy
 ### Michelle-Lael Norsworthy case
-### Bureau of Children's Justice
-### County prosecutors' misconduct
-### Oil and gas companies
 ### Mitrice Richardson case
-### Backpage cases
 ### Workers rights
-### Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
+## Consumer rights advocacy
+### Housing
+### For-profit colleges
+### Rent-to-own retailers
+### Volkswagen AG emissions fraud
+## Public safety
+### Backpage cases
+### Bureau of Children's Justice
+### Oil and gas companies
+### Prosecuting and disrupting transnational criminal organizations
+### Prosecuting cyber-exploitation and "revenge porn" operators
+### Prosecuting financial crimes
+## Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
 # U.S. Senate
 ## 2016 election
 ### Campaign funding
