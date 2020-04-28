@@ -38,7 +38,6 @@
 ## Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
 # U.S. Senate
 ## 2016 election
-### Campaign funding
 ### Support
 ### Election
 ## Tenure
