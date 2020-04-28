@@ -16,7 +16,6 @@
 # Attorney General of California
 ## 2010 election
 ## 2014 election
-## Significant cases and policies
 ## Civil rights
 ### County prosecutors' misconduct
 ### Prison conditions and sentencing reform
