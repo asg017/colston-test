@@ -29,8 +29,8 @@
 ### Rent-to-own retailers
 ### Volkswagen AG emissions fraud
 ## Public safety
-### Backpage cases
 ### Bureau of Children's Justice
+### Human trafficking
 ### Oil and gas companies
 ### Prosecuting cyber-exploitation and "revenge porn" operators
 ### Prosecuting financial crimes
