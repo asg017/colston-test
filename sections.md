@@ -33,7 +33,7 @@
 ### Human trafficking
 ### Oil and gas companies
 ### Prosecuting cyber-exploitation and "revenge porn" operators
-### Prosecuting financial crimes
+### White collar crime
 ### Prosecuting transnational criminal organizations
 ## Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
 # U.S. Senate
