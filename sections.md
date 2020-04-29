@@ -17,11 +17,11 @@
 ## 2010 election
 ## 2014 election
 ## Civil rights
-### County prosecutors' misconduct
-### Prison conditions and sentencing reform
-### Mobile-app user privacy
+### Same-sex marriage
 ### Michelle-Lael Norsworthy case
-### Mitrice Richardson case
+### Mobile-app user privacy
+### Law enforcement misconduct
+### Prison conditions and sentencing reform
 ### Workers rights
 ## Consumer rights advocacy
 ### Housing
