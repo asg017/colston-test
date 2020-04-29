@@ -34,7 +34,7 @@
 ### Oil and gas companies
 ### Prosecuting cyber-exploitation and "revenge porn" operators
 ### White collar crime
-### Prosecuting transnational criminal organizations
+### Transnational criminal organizations
 ## Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
 # U.S. Senate
 ## 2016 election
