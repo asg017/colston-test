@@ -32,7 +32,7 @@
 ### Bureau of Children's Justice
 ### Human trafficking
 ### Oil and gas companies
-### Prosecuting cyber-exploitation and "revenge porn" operators
+### Cyber-exploitation and "revenge porn" operators
 ### White collar crime
 ### Transnational criminal organizations
 ## Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
