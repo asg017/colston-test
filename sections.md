@@ -18,7 +18,6 @@
 ## 2014 election
 ## Civil rights
 ### Conversion therapy
-### Inherent bias training
 ### Law enforcement relations
 ### Mobile-app user privacy
 ### Prison conditions and sentencing reform
