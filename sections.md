@@ -20,7 +20,7 @@
 ### Conversion therapy
 ### Inherent bias training
 ### Same-sex marriage
-### Michelle-Lael Norsworthy case
+### Transgender rights
 ### Mobile-app user privacy
 ### Law enforcement misconduct
 ### Prison conditions and sentencing reform
