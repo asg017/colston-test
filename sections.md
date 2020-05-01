@@ -28,6 +28,7 @@
 ## Consumer rights advocacy
 ### Housing
 ### For-profit colleges
+### Healthcare overcharges
 ### Rent-to-own retailers
 ### Volkswagen AG emissions fraud
 ## Public safety
