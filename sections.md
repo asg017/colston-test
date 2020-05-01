@@ -18,6 +18,7 @@
 ## 2014 election
 ## Civil rights
 ### Conversion therapy
+### Inherent bias training
 ### Same-sex marriage
 ### Michelle-Lael Norsworthy case
 ### Mobile-app user privacy
