@@ -19,11 +19,11 @@
 ## Civil rights
 ### Conversion therapy
 ### Inherent bias training
+### Law enforcement misconduct
+### Mobile-app user privacy
+### Prison conditions and sentencing reform
 ### Same-sex marriage
 ### Transgender rights
-### Mobile-app user privacy
-### Law enforcement misconduct
-### Prison conditions and sentencing reform
 ### Workers rights
 ## Consumer rights advocacy
 ### Housing
