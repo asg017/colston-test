@@ -31,12 +31,12 @@
 ### Rent-to-own retailers
 ### Volkswagen AG emissions fraud
 ## Public safety
-### Bureau of Children's Justice
-### Human trafficking
-### Oil and gas companies
 ### Cyber-exploitation and "revenge porn" operators
-### White collar crime
+### Human trafficking
+### Juvenile justice
+### Oil and gas companies
 ### Transnational criminal organizations
+### White collar crime
 ## Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
 # U.S. Senate
 ## 2016 election
