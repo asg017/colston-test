@@ -19,7 +19,7 @@
 ## Civil rights
 ### Conversion therapy
 ### Inherent bias training
-### Law enforcement misconduct
+### Law enforcement relations
 ### Mobile-app user privacy
 ### Prison conditions and sentencing reform
 ### Same-sex marriage
