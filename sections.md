@@ -11,7 +11,7 @@
 # District Attorney of San Francisco
 ## Pioneering rehabilitation and re-entry
 ## Violent crimes and conviction rate
-### Crimes against children
+### Advocacy for children
 ## Truancy initiative
 ## Hate crimes and civil rights
 ### Opposition to the "gay panic" and "trans panic" defenses
