@@ -12,6 +12,7 @@
 ## Pioneering rehabilitation and re-entry
 ## Violent crimes and conviction rate
 ### Crimes against children
+## Truancy initiative
 ## Hate crimes and civil rights
 ### Opposition to the "gay panic" and "trans panic" defenses
 # Attorney General of California
