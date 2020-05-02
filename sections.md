@@ -9,10 +9,11 @@
 ### Campaign spending violation
 ### Runoff election
 # District Attorney of San Francisco
-## Pioneering rehabilitation and re-entry
+## Criminal justice reform
 ## Violent crimes and conviction rate
 ## Advocacy for children
 ### Truancy initiative
+## Corruption
 ## Hate crimes and civil rights
 ### Opposition to the "gay panic" and "trans panic" defenses
 # Attorney General of California
