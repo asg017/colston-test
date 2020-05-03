@@ -11,7 +11,7 @@
 # District Attorney of San Francisco (2004 - 2010)
 ## Conviction rate
 ## Criminal justice reform
-## Opposition to the death penalty
+### Opposition to the death penalty
 ## Crimes against children
 ### Truancy initiative
 ## Government corruption
