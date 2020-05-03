@@ -9,13 +9,13 @@
 ### Campaign spending violation
 ### Runoff election
 # District Attorney of San Francisco
-## Criminal justice reform
-## Gun violence
 ## Conviction rate
-## Advocacy for children
+## Criminal justice reform
+## Crimes against children
 ### Truancy initiative
-## Corruption
-## Hate crimes and civil rights
+## Government corruption
+## Gun violence
+## Hate crimes
 ### Opposition to the "gay panic" and "trans panic" defenses
 # Attorney General of California
 ## 2010 election
