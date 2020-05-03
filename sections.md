@@ -1,6 +1,6 @@
 # 
 # Early life and education
-# Early career
+# Early career (1990 - 2003)
 ## San Francisco ADA
 ### Office turmoil
 ## City Attorney
