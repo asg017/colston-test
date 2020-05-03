@@ -15,7 +15,7 @@
 ## Crimes against children
 ### Truancy initiative
 ## Government corruption
-## Gun violence
+## Gun violence and gun-related crimes
 ## Hate crimes
 # Attorney General of California (2010 - 2016)
 ## 2010 election
