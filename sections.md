@@ -43,7 +43,7 @@
 ### Oil and gas companies
 ### Transnational criminal organizations
 ## Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
-# U.S. Senate
+# U.S. Senate (2016 - present)
 ## 2016 election
 ### Support
 ### Election
