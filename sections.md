@@ -11,12 +11,12 @@
 # District Attorney of San Francisco
 ## Conviction rate
 ## Criminal justice reform
+## Opposition to the death penalty
 ## Crimes against children
 ### Truancy initiative
 ## Government corruption
 ## Gun violence
 ## Hate crimes
-### Opposition to the "gay panic" and "trans panic" defenses
 # Attorney General of California
 ## 2010 election
 ## 2014 election
