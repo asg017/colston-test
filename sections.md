@@ -17,7 +17,7 @@
 ## Government corruption
 ## Gun violence
 ## Hate crimes
-# Attorney General of California
+# Attorney General of California (2010 - 2016)
 ## 2010 election
 ## 2014 election
 ## Civil rights
@@ -34,6 +34,7 @@
 ### For-profit colleges
 ### Healthcare overcharges
 ### Rent-to-own retailers
+### White collar crime
 ### Volkswagen AG emissions fraud
 ## Public safety
 ### Cyber-exploitation and "revenge porn" operators
@@ -41,7 +42,6 @@
 ### Juvenile justice
 ### Oil and gas companies
 ### Transnational criminal organizations
-### White collar crime
 ## Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
 # U.S. Senate
 ## 2016 election
