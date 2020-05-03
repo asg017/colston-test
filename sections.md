@@ -8,7 +8,7 @@
 ### Campaign organization
 ### Campaign spending violation
 ### Runoff election
-# District Attorney of San Francisco
+# District Attorney of San Francisco (2004 - 2010)
 ## Conviction rate
 ## Criminal justice reform
 ## Opposition to the death penalty
