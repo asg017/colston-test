@@ -10,7 +10,8 @@
 ### Runoff election
 # District Attorney of San Francisco
 ## Criminal justice reform
-## Violent crimes and conviction rate
+## Gun violence
+## Conviction rate
 ## Advocacy for children
 ### Truancy initiative
 ## Corruption
