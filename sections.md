@@ -53,25 +53,6 @@
 # 2020 presidential campaign
 ## Speculation as Joe Biden's running mate
 # Political positions
-## Abortion
-## Campaign finance
-## Cannabis
-## Death penalty
-## Disaster relief
-## Education
-## Election security
-## Environment
-## Foreign policy
-## Guns
-## Health care
-## Immigration
-## LGBT rights
-## Medical leave
-## Net neutrality
-## Supreme Court
-## Taxes
-## Trade
-## Voting rights
 # Electoral history
 # Personal life
 ## Income and net worth
