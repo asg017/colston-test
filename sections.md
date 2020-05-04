@@ -14,6 +14,7 @@
 ### Opposition to the death penalty
 ## Crimes against children
 ### Truancy initiative
+## Environmental justice
 ## Government corruption
 ## Gun violence and gun-related crimes
 ## Hate crimes
