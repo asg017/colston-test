@@ -31,9 +31,10 @@
 ### Transgender rights
 ### Workers rights
 ## Consumer rights advocacy
-### Housing
 ### For-profit colleges
 ### Healthcare overcharges
+### Homeowner's Bill of Rights
+### National Mortgage Settlement
 ### Rent-to-own retailers
 ### White collar crime
 ### Volkswagen AG emissions fraud
