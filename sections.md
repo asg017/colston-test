@@ -23,10 +23,10 @@
 ## 2014 election
 ## Civil rights
 ### Conversion therapy
+### Law enforcement misconduct
 ### Law enforcement relations
 ### Mobile-app user privacy
 ### Prison conditions and sentencing reform
-### Law enforcement misconduct
 ### Same-sex marriage
 ### Transgender rights
 ### Workers rights
