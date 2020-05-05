@@ -42,7 +42,7 @@
 ### Juvenile justice
 ### Oil and gas companies
 ### Transnational criminal organizations
-## Speculation as a potential nominee for U.S. Attorney General and U.S. Supreme Court
+## Obama appointment speculation
 # U.S. Senate (2016 - present)
 ## 2016 election
 ## 2017
