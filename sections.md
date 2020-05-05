@@ -1,9 +1,7 @@
 # 
 # Early life and education
 # Early career (1990 - 2003)
-## San Francisco ADA
-### Office turmoil
-## City Attorney
+## Assistant District Attorney and City Attorney
 ## 2003 Campaign for District Attorney
 ### Campaign organization
 ### Campaign spending violation
