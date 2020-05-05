@@ -46,7 +46,9 @@
 # U.S. Senate (2016 - present)
 ## 2016 election
 ### Election
-## Tenure
+## 2017
+## 2018
+## 2019
 ## Committee assignments
 ## Caucus memberships
 # 2020 presidential campaign
