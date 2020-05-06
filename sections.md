@@ -4,7 +4,7 @@
 ## Assistant District Attorney and City Attorney
 ## 2003 Campaign for District Attorney
 ### Campaign organization
-### Election and runoff
+### Primary and runoff election
 # District Attorney of San Francisco (2004 - 2010)
 ## Conviction rate
 ## Criminal justice reform
