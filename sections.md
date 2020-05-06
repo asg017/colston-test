@@ -32,7 +32,6 @@
 ### Healthcare overcharges
 ### Homeowner's Bill of Rights
 ### National Mortgage Settlement
-### Ponzi schemes
 ### Rent-to-own retailers
 ### White collar crime
 ### Volkswagen AG emissions fraud
