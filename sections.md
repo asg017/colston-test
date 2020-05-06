@@ -1,11 +1,11 @@
 # 
 # Early life and education
-# Early career (1990 - 2003)
+# Early career (1990–2003)
 ## Assistant District Attorney and City Attorney
 ## 2003 Campaign for District Attorney
 ### Campaign organization
 ### Primary and runoff election
-# District Attorney of San Francisco (2004 - 2010)
+# District Attorney of San Francisco (2004–2010)
 ## Conviction rate
 ## Criminal justice reform
 ### Opposition to the death penalty
@@ -15,7 +15,7 @@
 ## Government corruption
 ## Gun violence and gun-related crimes
 ## Hate crimes
-# Attorney General of California (2010 - 2016)
+# Attorney General of California (2010–2016)
 ## 2010 election
 ## 2014 election
 ## Civil rights
@@ -42,7 +42,7 @@
 ### Oil and gas companies
 ### Transnational criminal organizations
 ## Obama appointment speculation
-# U.S. Senate (2016 - present)
+# U.S. Senate (2016 – present)
 ## 2016 election
 ## 2017
 ## 2018
