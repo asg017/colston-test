@@ -21,7 +21,6 @@
 ## Civil rights
 ### Conversion therapy
 ### Law enforcement misconduct
-### Law enforcement relations
 ### Mobile-app user privacy
 ### Prison conditions and sentencing reform
 ### Same-sex marriage
@@ -39,6 +38,7 @@
 ### Environmental protection
 ### Human trafficking
 ### Juvenile justice
+### Law enforcement capabilities
 ### Transnational criminal organizations
 ## Obama appointment speculation
 # U.S. Senate (2016–present)
