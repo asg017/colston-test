@@ -21,7 +21,7 @@
 ## Civil rights
 ### Conversion therapy
 ### Law enforcement misconduct
-### Mobile-app user privacy
+### Consumer privacy protection
 ### Prison conditions and sentencing reform
 ### Same-sex marriage
 ### Transgender rights
