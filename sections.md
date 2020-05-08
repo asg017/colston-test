@@ -34,7 +34,6 @@
 ### National Mortgage Settlement
 ### Rent-to-own retailers
 ### White collar crime
-### Volkswagen AG emissions fraud
 ## Public safety
 ### Cyber-exploitation and "revenge porn" operators
 ### Environmental protection
