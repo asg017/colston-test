@@ -6,15 +6,18 @@
 ### Campaign organization
 ### Primary and runoff election
 # District Attorney of San Francisco (2004–2010)
-## Conviction rate
 ## Criminal justice reform
+### Back on Track re-entry initiative
 ### Opposition to the death penalty
-## Crimes against children
 ### Truancy initiative
-## Environmental justice
+## Public safety
+### Conviction rate
+### Crimes against children
+### Environmental crimes
+### Gun violence and gun-related crimes
+### Hate crimes
+### Witness protection
 ## Government corruption
-## Gun violence and gun-related crimes
-## Hate crimes
 # Attorney General of California (2010–2016)
 ## 2010 election
 ## 2014 election
