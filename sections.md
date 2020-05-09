@@ -22,15 +22,6 @@
 # Attorney General of California (2010–2016)
 ## 2010 election
 ## 2014 election
-## Criminal justice reform
-### Law enforcement misconduct
-### Prison conditions and sentencing reform
-### Recidivism
-## LGBTQ rights
-### Conversion therapy
-### Same-sex marriage
-### Transgender rights
-## Workers rights
 ## Consumer rights advocacy
 ### For-profit colleges
 ### Healthcare overcharges
@@ -38,14 +29,27 @@
 ### Privacy protection
 ### National Mortgage Settlement
 ### Rent-to-own retailers
-### White collar crime
+## Criminal justice reform
+### Juvenile justice
+### Improving law enforcement capabilities
+### Law enforcement misconduct
+### Prison conditions
+### Recidivism
+### Sentencing reform
+## LGBTQ rights
+### Conversion therapy
+### Same-sex marriage
+### Transgender rights
 ## Public safety
 ### Cyber-exploitation and "revenge porn" operators
 ### Environmental protection
 ### Human trafficking
-### Juvenile justice
-### Law enforcement capabilities
 ### Transnational criminal organizations
+## White collar crime
+### Fraud
+### Money laundering
+### Public corruption
+### Wage theft and worker exploitation
 ## Obama appointment speculation
 # U.S. Senate (2016–present)
 ## 2016 election
