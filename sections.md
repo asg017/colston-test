@@ -35,6 +35,7 @@
 ### For-profit colleges
 ### Healthcare overcharges
 ### Homeowner's Bill of Rights
+### Privacy protection
 ### National Mortgage Settlement
 ### Rent-to-own retailers
 ### White collar crime
