@@ -22,14 +22,15 @@
 # Attorney General of California (2010–2016)
 ## 2010 election
 ## 2014 election
-## Civil rights
-### Conversion therapy
+## Criminal justice reform
 ### Law enforcement misconduct
-### Consumer privacy protection
 ### Prison conditions and sentencing reform
+### Recidivism
+## LGBTQ rights
+### Conversion therapy
 ### Same-sex marriage
 ### Transgender rights
-### Workers rights
+## Workers rights
 ## Consumer rights advocacy
 ### For-profit colleges
 ### Healthcare overcharges
