@@ -10,6 +10,7 @@
 ### Back on Track re-entry initiative
 ### Opposition to the death penalty
 ### Truancy initiative
+## Public corruption
 ## Public safety
 ### Conviction rate
 ### Crimes against children
@@ -17,7 +18,6 @@
 ### Gun violence and gun-related crimes
 ### Hate crimes
 ### Witness protection
-## Government corruption
 # Attorney General of California (2010–2016)
 ## 2010 election
 ## 2014 election
