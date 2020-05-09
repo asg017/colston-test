@@ -5,7 +5,7 @@
 ## 2003 Campaign for District Attorney
 ### Campaign organization
 ### Primary election
-## Runoff election
+### Runoff election
 # District Attorney of San Francisco (2004–2010)
 ## Criminal justice reform
 ### Back on Track re-entry initiative
