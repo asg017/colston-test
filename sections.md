@@ -9,7 +9,7 @@
 # District Attorney of San Francisco (2004–2010)
 ## Criminal justice reform
 ### Back on Track re-entry initiative
-### Opposition to the death penalty
+### Refusal to seek the death penalty
 ### Truancy initiative
 ## Public corruption
 ## Public safety
