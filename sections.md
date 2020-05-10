@@ -25,7 +25,7 @@
 ## Consumer rights advocacy
 ### For-profit colleges
 ### Healthcare overcharges
-### Homeowner's Bill of Rights
+### Homeowner Bill of Rights
 ### Privacy protection
 ### National Mortgage Settlement
 ### Rent-to-own retailers
