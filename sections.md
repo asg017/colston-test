@@ -47,8 +47,9 @@
 ### Human trafficking
 ### Transnational criminal organizations
 ## White collar crime
-### Fraud
 ### Money laundering
+### Mortgage fraud
+### Ponzi schemes
 ### Public corruption
 ### Wage theft and worker exploitation
 ## Obama appointment speculation
