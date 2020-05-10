@@ -30,6 +30,7 @@
 ### National Mortgage Settlement
 ### Rent-to-own retailers
 ## Criminal justice reform
+### Capital punishment
 ### Juvenile justice
 ### Improving law enforcement capabilities
 ### Law enforcement misconduct
