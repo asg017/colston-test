@@ -1,59 +1,49 @@
 # 
 # Early life and education
-# Early career (1990–2003)
+# Early career (1990 - 2003)
 ## Assistant District Attorney and City Attorney
 ## 2003 Campaign for District Attorney
 ### Campaign organization
-### Primary election
+### Campaign spending violation
 ### Runoff election
-# District Attorney of San Francisco (2004–2010)
+# District Attorney of San Francisco (2004 - 2010)
+## Conviction rate
 ## Criminal justice reform
-### Back on Track re-entry initiative
-### Refusal to seek the death penalty
+### Opposition to the death penalty
+## Crimes against children
 ### Truancy initiative
-## Public corruption
-## Public safety
-### Conviction rate
-### Crimes against children
-### Environmental crimes
-### Gun violence and gun-related crimes
-### Hate crimes
-### Witness protection
-# Attorney General of California (2010–2016)
+## Environmental justice
+## Government corruption
+## Gun violence and gun-related crimes
+## Hate crimes
+# Attorney General of California (2010 - 2016)
 ## 2010 election
 ## 2014 election
+## Civil rights
+### Conversion therapy
+### Law enforcement misconduct
+### Law enforcement relations
+### Mobile-app user privacy
+### Prison conditions and sentencing reform
+### Same-sex marriage
+### Transgender rights
+### Workers rights
 ## Consumer rights advocacy
 ### For-profit colleges
 ### Healthcare overcharges
-### Homeowner Bill of Rights
-### Privacy protection
+### Homeowner's Bill of Rights
 ### National Mortgage Settlement
 ### Rent-to-own retailers
-## Criminal justice reform
-### Capital punishment
-### Juvenile justice
-### Improving law enforcement capabilities
-### Law enforcement misconduct
-### Prison conditions
-### Recidivism
-### Sentencing reform
-## LGBTQ rights
-### Conversion therapy
-### Same-sex marriage
-### Transgender rights
+### White collar crime
+### Volkswagen AG emissions fraud
 ## Public safety
 ### Cyber-exploitation and "revenge porn" operators
-### Environmental protection
 ### Human trafficking
+### Juvenile justice
+### Oil and gas companies
 ### Transnational criminal organizations
-## White collar crime
-### Money laundering
-### Mortgage fraud
-### Ponzi schemes
-### Public corruption
-### Wage theft and worker exploitation
 ## Obama appointment speculation
-# U.S. Senate (2016–present)
+# U.S. Senate (2016 - present)
 ## 2016 election
 ## 2017
 ## 2018
@@ -66,6 +56,7 @@
 # Political positions
 # Electoral history
 # Personal life
+## Income and net worth
 # Publications
 # See also
 # References
