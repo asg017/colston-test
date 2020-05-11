@@ -37,7 +37,12 @@
 ### Homeowner's Bill of Rights
 ### National Mortgage Settlement
 ### Rent-to-own retailers
-### White collar crime
+## White collar crime
+### Money laundering
+### Mortgage fraud
+### Public corruption
+### Securities fraud
+### Wage theft
 ### Volkswagen AG emissions fraud
 ## Public safety
 ### Cyber-exploitation and "revenge porn" operators
