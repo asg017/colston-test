@@ -46,9 +46,9 @@
 ### Volkswagen AG emissions fraud
 ## Public safety
 ### Cyber-exploitation and "revenge porn" operators
+### Environmental protection
 ### Human trafficking
 ### Juvenile justice
-### Oil and gas companies
 ### Transnational criminal organizations
 ## Obama appointment speculation
 # U.S. Senate (2016 - present)
