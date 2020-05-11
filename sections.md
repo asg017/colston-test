@@ -30,11 +30,11 @@
 ### Prison conditions and sentencing reform
 ### Same-sex marriage
 ### Transgender rights
-### Workers rights
 ## Consumer rights advocacy
+### Anticompetitive business practices
 ### For-profit colleges
 ### Healthcare overcharges
-### Homeowner's Bill of Rights
+### Homeowner Bill of Rights
 ### National Mortgage Settlement
 ### Rent-to-own retailers
 ## White collar crime
@@ -43,7 +43,6 @@
 ### Public corruption
 ### Securities fraud
 ### Wage theft
-### Volkswagen AG emissions fraud
 ## Public safety
 ### Cyber-exploitation and "revenge porn" operators
 ### Environmental protection
