@@ -13,12 +13,11 @@
 ### Truancy initiative
 ## Public corruption
 ## Public safety
-### Conviction rate
+### Felony conviction rate
 ### Crimes against children
 ### Environmental crimes
-### Gun violence and gun-related crimes
 ### Hate crimes
-### Witness protection
+### Violent crime
 # Attorney General of California (2010 - 2016)
 ## 2010 election
 ## 2014 election
