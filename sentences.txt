@@ -240,24 +240,6 @@ Harris announced her intention to run for re-election in February 2014 and filed
 According to the office of California Secretary of State Debra Bowen, Harris had raised the money for her campaign during the previous year in 2013.
 The Sacramento Bee, Los Angeles Daily News, and Los Angeles Times endorsed her for reelection.
 On November 4, 2014, Harris was re-elected against Republican Ronald Gold in a landslide victory, winning 57.5% of the vote to Gold's 42.5%.
-California's Proposition 69 mandated law enforcement to collect DNA samples from any adult arrested for a felony and from individuals arrested for certain crimes.
-In 2012, Harris announced that the California Department of Justice had improved its DNA testing capabilities such that samples stored at the state's seven crime labs could now be analyzed four times faster, within 30 days.
-Accordingly, Harris revealed that her officials cleared California's entire DNA backlog for the first time ever.
-Harris' Rapid DNA Service Team within the Bureau of Forensic Services, developed a process that allowed higher volume analysis of 5,400 evidence samples – an increase of 11% from 2010 (4,800) and 24% from 2009 (4,100).
-In April 2014, Harris' team was honored with the U.S. Department of Justice's Award for Professional Innovation in Victim Services.
-Harris' office would later be awarded a $1.6 million grant from the Manhattan District Attorney's initiative to eliminate the backlogs of untested rape kits.
-In 2014, after a rash of racially motivated police killings nationwide and immediately after being elected to her second term, Harris conducted an extensive 90-day review of implicit bias and use of force.
-In April 2015, Harris introduced the first of its kind "Principled Policing: Procedural Justice and Implicit Bias" training course, designed in conjunction with Stanford University psychologist and professor Jennifer Eberhardt, to help law enforcement officers overcome barriers to neutral policing and rebuild the relationship of trust between law enforcement and the community.
-All Command-level staff within the California Department of Justice received the training, while additional resources were deployed to increase the recruitment and hiring of diverse special agents and trainees.
-In September 2015, Harris, alongside Congresswoman Karen Bass, LAPD Chief Charlie Beck, and UC Berkeley professor of public policy Steven Raphael announced the launch of OpenJustice, a first-in-the-nation criminal justice data initiative making available statewide data on arrest rates, deaths in law enforcement custody, arrest-related deaths, and law enforcement deaths.
-The tool consisted of two components: a Dashboard that spotlights key criminal justice indicators with user-friendly visualization tools and an Open Data Portal that publishes raw data from the California Department of Justice's statewide repository of criminal justice datasets.
-Subsequent improvements to the platform revealed data pertaining to clearance rates and racial disparities in the criminal justice system
-Later that year, Harris' Justice Department was the first statewide agency in the country to require all of its police officers to wear body cameras.
-Harris said she believed that all officers should wear cameras, but did not believe in imposing statewide standards to regulate the use of body cameras, cautioning against a "one-size-fits-all approach."
-In 2015, a California superior courts judge issued an order to eject all 250 prosecutors from the Orange County District Attorney's office from a high-profile mass murder case over allegations of "significant" misconduct by Orange County District Attorney Tony Rackauckas, who was alleged to have illegally employed jailhouse informants and concealed evidence.
-The court also ordered Harris to take over the criminal case, which she appealed because "there is no direct evidence that the district attorney actively participated in the concealment of this information from the defense and the court" and noting that it seemed unnecessary to ban all 250 prosecutors in the Orange County District Attorney's Office from working on the case, as only a few had been directly involved in it.
-Harris later promised a narrower criminal investigation into the case at hand.
-The U.S. Department of Justice began an investigation into Rackauckas in December 2016, but he was not re-elected to office; his successor Todd Spitzer later stated his office willing to undergo federal probation to end the investigation
 In 2008, California voters passed Prop 8, a California ballot proposition and a state constitutional amendment defining marriage between a man and a woman.
 Legal challenges to Prop 8 were presented by opponents quickly after its approval.
 Following affirmation by the state courts, two same-sex couples filed a lawsuit against the initiative in the United States District Court for the Northern District of California in the case Perry v. Schwarzenegger (later Hollingsworth v. Perry).
@@ -288,6 +270,27 @@ The Supreme Court later explicitly referenced a specific line of argument in thi
 In 2012, Harris sent a letter to 100 mobile-app developers, asking them to comply with California law with respect to privacy issues.
 If any developer of an application that could be used by a Californian does not display a privacy policy statement when the application is installed, California law is broken, with a possible fine of $2500 for every download.
 The law affects any developer anywhere in the world if the app is used by a Californian.
+On February 12, 2015, Harris announced that she would start a new agency called the Bureau of Children's Justice.
+The bureau would work on issues such as foster care, the juvenile justice system, school truancy, and childhood trauma.
+She appointed special assistant attorney general Jill Habig to head the agency.
+California's Proposition 69 mandated law enforcement to collect DNA samples from any adult arrested for a felony and from individuals arrested for certain crimes.
+In 2012, Harris announced that the California Department of Justice had improved its DNA testing capabilities such that samples stored at the state's seven crime labs could now be analyzed four times faster, within 30 days.
+Accordingly, Harris revealed that her officials cleared California's entire DNA backlog for the first time ever.
+Harris' Rapid DNA Service Team within the Bureau of Forensic Services, developed a process that allowed higher volume analysis of 5,400 evidence samples – an increase of 11% from 2010 (4,800) and 24% from 2009 (4,100).
+In April 2014, Harris' team was honored with the U.S. Department of Justice's Award for Professional Innovation in Victim Services.
+Harris' office would later be awarded a $1.6 million grant from the Manhattan District Attorney's initiative to eliminate the backlogs of untested rape kits.
+In 2014, after a rash of racially motivated police killings nationwide and immediately after being elected to her second term, Harris conducted an extensive 90-day review of implicit bias and use of force.
+In April 2015, Harris introduced the first of its kind "Principled Policing: Procedural Justice and Implicit Bias" training course, designed in conjunction with Stanford University psychologist and professor Jennifer Eberhardt, to help law enforcement officers overcome barriers to neutral policing and rebuild the relationship of trust between law enforcement and the community.
+All Command-level staff within the California Department of Justice received the training, while additional resources were deployed to increase the recruitment and hiring of diverse special agents and trainees.
+In September 2015, Harris, alongside Congresswoman Karen Bass, LAPD Chief Charlie Beck, and UC Berkeley professor of public policy Steven Raphael announced the launch of OpenJustice, a first-in-the-nation criminal justice data initiative making available statewide data on arrest rates, deaths in law enforcement custody, arrest-related deaths, and law enforcement deaths.
+The tool consisted of two components: a Dashboard that spotlights key criminal justice indicators with user-friendly visualization tools and an Open Data Portal that publishes raw data from the California Department of Justice's statewide repository of criminal justice datasets.
+Subsequent improvements to the platform revealed data pertaining to clearance rates and racial disparities in the criminal justice system
+Later that year, Harris' Justice Department was the first statewide agency in the country to require all of its police officers to wear body cameras.
+Harris said she believed that all officers should wear cameras, but did not believe in imposing statewide standards to regulate the use of body cameras, cautioning against a "one-size-fits-all approach."
+In 2015, a California superior courts judge issued an order to eject all 250 prosecutors from the Orange County District Attorney's office from a high-profile mass murder case over allegations of "significant" misconduct by Orange County District Attorney Tony Rackauckas, who was alleged to have illegally employed jailhouse informants and concealed evidence.
+The court also ordered Harris to take over the criminal case, which she appealed because "there is no direct evidence that the district attorney actively participated in the concealment of this information from the defense and the court" and noting that it seemed unnecessary to ban all 250 prosecutors in the Orange County District Attorney's Office from working on the case, as only a few had been directly involved in it.
+Harris later promised a narrower criminal investigation into the case at hand.
+The U.S. Department of Justice began an investigation into Rackauckas in December 2016, but he was not re-elected to office; his successor Todd Spitzer later stated his office willing to undergo federal probation to end the investigation
 In November 2013, Harris launched the California Department of Justice's Division of Recidivism Reduction and Re-Entry in partnership with district attorney offices in San Diego, Los Angeles, and Alameda County.
 Building off her successful Back on Track program, the division was formed to develop a consistent definition of recidivism, allocate grants for anti-recidivism programs, and creating recidivism metrics through the use of data.
 In March 2015, Harris announced the creation of a recidivism reduction pilot program in coordination with the Los Angeles County Sheriff's Department called "Back on Track LA."
@@ -362,9 +365,6 @@ Ferrer simultaneously pleaded guilty to charges of money laundering and conspira
 Under government pressure, Backpage announced that it was removing its adult section from all of its sites in the United States.
 Harris welcomed the move, saying "I look forward to them shutting down completely."
 The investigations continued after she became a senator and in April 2018, Backpage and affiliated sites were seized by federal law enforcement around the same time as Ferrer's guilty plea.
-On February 12, 2015, Harris announced that she would start a new agency called the Bureau of Children's Justice.
-The bureau would work on issues such as foster care, the juvenile justice system, school truancy, and childhood trauma.
-She appointed special assistant attorney general Jill Habig to head the agency.
 In 2011, Harris won a court order reviving a fraud lawsuit against CalPERS board member Alfred J.R. Villalobos and former CalPERS chief executive Federico Buenrosto, Jr. after they declared bankruptcy to avoid state charges.
 Villalobos was paid more than $47 million in commissions to help private equity firms steer contracts to manage $4.8 billion worth of assets from 2005 to 2009.
 In 2012, Harris secured a $2.8 million settlement from Medco Health Solutions, who had paid Villalobos $4 million to help the company land a pharmacy benefits contract.

@@ -22,17 +22,18 @@
 ## 2010 election
 ## 2014 election
 ## Civil rights
-### Law enforcement capabilities
-### Law enforcement misconduct
 ### LGBTQ rights
 ### Privacy rights
+### Juvenile justice
+## Criminal justice reform
+### Law enforcement capabilities
+### Law enforcement misconduct
 ### Recidivism
 ## Consumer protection
 ## Public safety
 ### Cyber-exploitation
 ### Environmental protection
 ### Human trafficking
-### Juvenile justice
 ### Public corruption
 ### Transnational criminal organizations
 ## Obama appointment speculation
