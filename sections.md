@@ -22,31 +22,18 @@
 ## 2010 election
 ## 2014 election
 ## Civil rights
-### Conversion therapy
+### Law enforcement capabilities
 ### Law enforcement misconduct
-### Law enforcement relations
-### Mobile-app user privacy
-### Prison conditions and sentencing reform
-### Same-sex marriage
-### Transgender rights
-## Consumer rights advocacy
-### Anticompetitive business practices
-### For-profit colleges
-### Healthcare overcharges
-### Homeowner Bill of Rights
-### National Mortgage Settlement
-### Rent-to-own retailers
-## White collar crime
-### Money laundering
-### Mortgage fraud
-### Public corruption
-### Securities fraud
-### Wage theft
+### LGBTQ rights
+### Privacy rights
+### Recidivism
+## Consumer protection
 ## Public safety
-### Cyber-exploitation and "revenge porn" operators
+### Cyber-exploitation
 ### Environmental protection
 ### Human trafficking
 ### Juvenile justice
+### Public corruption
 ### Transnational criminal organizations
 ## Obama appointment speculation
 # U.S. Senate (2016 - present)
