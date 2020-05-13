@@ -11,12 +11,12 @@
 ### Back on Track re-entry initiative
 ### Refusal to seek the death penalty
 ### Truancy initiative
-## Public corruption
 ## Public safety
 ### Felony conviction rate
 ### Crimes against children
 ### Environmental crimes
 ### Hate crimes
+## Public corruption
 ### Violent crime
 # Attorney General of California (2010 - 2016)
 ## 2010 election
