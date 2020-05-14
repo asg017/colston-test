@@ -50,7 +50,6 @@
 # Political positions
 # Electoral history
 # Personal life
-## Income and net worth
 # Publications
 # See also
 # References
