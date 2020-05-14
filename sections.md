@@ -25,10 +25,7 @@
 ### LGBTQ rights
 ### Privacy rights
 ### Juvenile justice
-## Criminal justice reform
-### Law enforcement capabilities
-### Law enforcement misconduct
-### Recidivism
+### Law enforcement improvements and criminal justice reform
 ## Consumer protection
 ## Public safety
 ### Cyber-exploitation
