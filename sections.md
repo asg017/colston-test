@@ -25,8 +25,8 @@
 ### LGBTQ rights
 ### Privacy rights
 ### Juvenile justice
-## Law enforcement improvements and criminal justice reform
 ## Consumer protection
+## Law enforcement improvements and criminal justice reform
 ## Public safety
 ### Cyber-exploitation
 ### Environmental protection
