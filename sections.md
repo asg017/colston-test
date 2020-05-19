@@ -26,12 +26,11 @@
 ### Privacy rights
 ### Juvenile justice
 ## Consumer protection
-## Law enforcement improvements and criminal justice reform
+## Improvements to law enforcement and criminal justice reform
 ## Public safety
 ### Cyber-exploitation
 ### Environmental protection
 ### Human trafficking
-### Public corruption
 ### Transnational criminal organizations
 ## Obama appointment speculation
 # U.S. Senate (2016 - present)
