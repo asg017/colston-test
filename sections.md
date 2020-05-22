@@ -24,7 +24,7 @@
 ## Civil rights
 ### LGBTQ rights
 ### Privacy rights
-### Juvenile justice
+### Children's rights
 ## Consumer protection
 ## Improvements to law enforcement and criminal justice reform
 ## Public safety
