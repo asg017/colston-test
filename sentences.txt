@@ -196,11 +196,11 @@ Leno alleged that gun merchants drove through the public housing developments ne
 While the bill would stall, local opposition to the shows would continue until the Cow Palace Board of Directors in 2019 voted to approve a statement banning all future gun shows.
 On November 12, 2008, Harris announced her candidacy for California Attorney General.
 Both of California's Senators, Dianne Feinstein and Barbara Boxer, House Speaker Nancy Pelosi, United Farm Workers cofounder Dolores Huerta and Mayor of Los Angeles, Antonio Villaraigosa all endorsed her during the primary.
-In the June 8, 2010, primary, she was nominated with 33.6% of the vote, defeating Alberto Torrico and Chris Kelly.
+In the June 8, 2010 primary, she was nominated with 33.6% of the vote, defeating Alberto Torrico and Chris Kelly.
 In the general election, she faced Republican Los Angeles County District Attorney Steve Cooley, who led most of the race.
 Cooley ran as a nonpartisan prosecutor, distancing himself from the Meg Whitman campaign.
 However, during a debate on October 5, Cooley complained about the low salary of the attorney general, stating his intention to accept a pension and the salary in a practice known as "double-dipping."
-Harris' turned his remarks into a cutting political ad that portrayed Cooley as out-of-touch.
+Harris' turned his remarks into a cutting political ad that portrayed him as out-of-touch.
 Harris campaigned aggressively in Los Angeles, once attending seven Sunday services in black churches.
 On October 22, 2010, President Barack Obama spoke to a crowd of nearly 38,000 people at a political rally in support of the candidates for statewide office in California at USC, including Barbara Boxer, Jerry Brown, and Harris.
 Cooley outspent Harris, $7 million to $4.5 million.
@@ -220,18 +220,18 @@ In their 2010 campaigns, both California Attorney General Jerry Brown and Harris
 After being elected, Harris declared her office would not defend the marriage ban, leaving the task to Prop 8's proponents.
 On February 7, 2012, the Ninth Circuit Court of Appeals, in a 2–1 decision, reached the same conclusion as the district court, but on narrower grounds.
 The court ruled that it was unconstitutional for California to grant marriage rights to same-sex couples, only to take them away shortly after.
-The ruling was stayed pending appeal to the United States Supreme Court.
-On December 7, 2012, the Supreme Court of the United States granted certiorari, ordering the parties to brief and argue the additional question of whether supporters of Prop.
+The ruling was stayed pending appeal to the U.S. Supreme Court.
+The Supreme Court of the United States granted certiorari that December, ordering the parties to brief and argue the additional question of whether supporters of Prop.
 8 have standing, i.e., a legal right to be involved in the case, under Article III, Section 2 of the U.S. Constitution.
-On February 27, 2013, Harris filed an amicus curiae brief with the Court, arguing that Prop 8 was unconstitutional and that initiative's sponsors did not have legal standing to represent California's interests by defending the law in federal court.
-On June 26, 2013, the Supreme Court ruled that proponents of initiatives such as Proposition 8 did not possess legal standing in their own right to defend Prop 8 in federal court, either to the Supreme Court or (previously) to the Ninth Circuit Court of Appeals.
-Therefore, the Supreme Court vacated the decision of the Ninth Circuit, and remanded the case for further proceedings.
+On February 27, 2013, Harris filed an amicus curiae brief, arguing that Prop 8 was unconstitutional and that initiative's sponsors did not have legal standing to represent California's interests by defending the law in federal court.
+On June 26, 2013, the Supreme Court, in a 5-4 decision, ruled that the proponents did not possess legal standing in their own right to defend Prop 8 in federal court, either to the Supreme Court or (previously) to the Ninth Circuit Court of Appeals.
+Therefore, the Court vacated the decision of the Ninth Circuit, and remanded the case for further proceedings.
 The decision left the district court's 2010 ruling intact.
 On June 27, 2013, Harris, in a speech delivered in downtown Los Angeles, declared that all 58 counties in California must abide by Judge Walker's 2010 ruling that declared Prop 8 unconstitutional and urging the Ninth Circuit to lift the stay on same-sex marriages as soon as possible — even before the usual 25-day waiting period until the Supreme Court clerk notified the lower court of its judgement.
 The next day, the Ninth Circuit, on remand, dismissed the appeal for lack of jurisdiction and dissolved their previous stay of the district court's ruling, enabling Governor Jerry Brown to order same-sex marriages to resume.
 The same day, Kristin Perry and Sandra Stier, plaintiffs in the case, married with Harris officiating the ceremony.
 In 2012, conversion therapists filed two lawsuits, Pickup v. Brown (12-17681) and Welch v. Brown (13-15023), challenging the constitutionality of S.B. 1172, which banned the practice of therapy aimed at changing sexual orientation on children under the age of 18, effective January 2013.
-There is no reliable evidence that sexual orientation can be changed and medical institutions warn that conversion therapy practices are ineffective and potentially harmful.
+There is no reliable evidence that sexual orientation can be changed and medical institutions warn that conversion therapy practices are ineffective and harmful.
 In December 2012, the district court judge hearing Pickup declined to issue an injunction blocking SB 1172, but the judge hearing Welch did issue an injunction.
 Both cases were appealed to and consolidated in the Ninth Circuit.
 The court heard oral arguments in the cases on April 17, 2013, and on August 29, upheld S.B. 1172 and reversed the lower court order granting a preliminary injunction.
@@ -244,7 +244,6 @@ In 2015, Harris secured two settlements with Comcast, one totaling $33 million o
 Harris also settled with Houzz over allegations the company recorded phone calls without notifying customers or employees.
 Houzz was forced to pay $175,000, destroy the recorded calls, and hire a chief privacy officer, the first time such a provision has been included in a settlement with the California Department of Justice.
 In 2016, Harris, along with various district attorneys, reached an $8.5 million settlement with Wells Fargo over privacy violations that included recording consumers’ phone calls without timely telling consumers they were being recorded.
-That November, Harris issued a report outlining best practices for the education technology industry to ensure student privacy is protected.
 In February 2015, Harris announced that she would start a new agency called the Bureau of Children's Justice to address issues such as foster care, the juvenile justice system, school truancy, and childhood trauma.
 She appointed special assistant attorney general Jill Habig to head the agency.
 In 2016, Harris announced a $168.5 million settlement with K-12, Inc., an online charter school, over claims it engaged in false advertising and inflated the academic progress of its students.
@@ -308,21 +307,21 @@ An assessment of the Back on Track LA pilot program by the American Society of C
 On balance, the results showed that Back on Track LA was effective in showing significant decrease on general propensity for recidivism.
 In 2014, after a rash of racially motivated police killings nationwide, Harris conducted a 90-day review of implicit bias and lethal use of force.
 In April 2015, Harris introduced the first of its kind "Principled Policing: Procedural Justice and Implicit Bias" training course, designed in conjunction with Stanford University psychologist and professor Jennifer Eberhardt, to help law enforcement officers overcome barriers to neutral policing and rebuild the relationship of trust between law enforcement and the community.
-All Command-level staff within the California Department of Justice received the training, while additional resources were deployed to increase the recruitment and hiring of diverse special agents and trainees.
-In 2015, a state judge issued an order to eject all 250 prosecutors from the Orange County District Attorney's office from a high-profile mass murder case over allegations of misconduct by Republican Orange County District Attorney Tony Rackauckas, who was alleged to have illegally employed jailhouse informants and concealed evidence.
-The court also ordered Harris to take over the criminal case, and order she appealed, noting that it was unnecessary to ban all 250 prosecutors in the Orange County District Attorney's Office from working on the case, as only a few had been directly involve.
+All Command-level staff received the training, while additional resources were deployed to increase the recruitment and hiring of diverse special agents and trainees.
+In 2015, a judge issued an order to eject all 250 prosecutors from the Orange County District Attorney's office from a high-profile mass murder case over allegations of misconduct by Republican Orange County District Attorney Tony Rackauckas, who was alleged to have illegally employed jailhouse informants and concealed evidence.
+The court also ordered Harris to take over the criminal case, an order she appealed, noting that it was unnecessary to ban all 250 prosecutors in the Orange County District Attorney's Office from working on the case, as only a few had been directly involved.
 Harris later promised a narrower criminal investigation.
 The U.S. Department of Justice began an investigation into Rackauckas in December 2016, but he was not re-elected.
 His successor, Republican Todd Spitzer later stated his office willing to undergo federal probation to end the investigation.
 Later that year, Harris' California Department of Justice was the first statewide agency in the country to require all of its police officers to wear body cameras.
 Harris said she believed that all officers should wear cameras, but did not believe in imposing statewide standards to regulate the use of body cameras, cautioning against a "one-size-fits-all approach."
+Harris was later criticized for this position by criminal justice advocates and law professors for not going far enough.
 In September 2015, Harris, alongside Congresswoman Karen Bass, LAPD Chief Charlie Beck, and UC Berkeley professor Steven Raphael announced the launch of OpenJustice, a first-in-the-nation criminal justice data initiative making available statewide data on arrest rates, deaths in law enforcement custody, arrest-related deaths, and law enforcement deaths.
 The tool consisted of two components: a Dashboard that spotlights key criminal justice indicators with user-friendly visualization tools and an Open Data Portal that publishes raw data from the California Department of Justice's statewide repository of criminal justice datasets.
 Subsequent improvements to the platform revealed data pertaining to clearance rates and racial disparities in the criminal justice system.
 In 2011, Harris created the eCrime Unit within the California Department of Justice, a 20-attorney unit specifically targeting technology crimes.
 Thereafter, several purveyors of so-called "revenge porn" sites based in California were arrested, charged with felonies, and sentenced to lengthy prison terms.
-In the first prosecution of its kind in the United States, Kevin Bollaert was convicted on 21 counts of identity theft and six counts of extortion.
-He was later sentenced to 18 years in prison.
+In the first prosecution of its kind in the United States, Kevin Bollaert was convicted on 21 counts of identity theft and six counts of extortion and sentenced to 18 years in prison.
 Harris said, "Sitting behind a computer, committing what is essentially a cowardly and criminal act will not shield predators from the law or jail."
 Harris echoed these words when California Congresswoman Katie Hill was targeted for similar cyber exploitation by her ex-husband and forced to resign in late 2019.
 In 2011, Harris secured a comprehensive $44 million settlement to resolve all natural resource damages, penalties, and response costs associated with the 2007 Cosco Busan oil spill, where a container ship collided with the Delta Tower of the San Francisco–Oakland Bay Bridge and spilled more than 50,000 gallons of bunker fuel into the San Francisco Bay.
@@ -330,7 +329,7 @@ In the aftermath of the 2015 Refugio oil spill, which deposited about 140,000 ga
 Thereafter, operator Plains All American Pipeline was indicted on 46 criminal charges related to the spill, with one employee indicted on 3 criminal charges.
 In 2019, a Santa Barbara jury returned a verdict finding Plains guilty of failing to properly maintain its pipeline and another eight misdemeanor charges; they were sentenced to pay over $3 million in fines and assessments.
 In summer 2016, automaker Volkswagen AG agreed to pay up to $14.7 billion to settle a raft of claims related to so-called "defeat devices" used to cheat emissions standards on its diesel cars while actually emitting up to 40 times the levels of harmful nitrogen oxides allowed under state and federal law.
-Harris and the chair of the California Air Resources Board, Mary D. Nichols, announced that California would receive $1.18 billion in the settlement, as well as another $86 million paid to the state of California in civil penalties.
+Harris and the chair of the California Air Resources Board, Mary D. Nichols, announced that California would receive $1.18 billion as well as another $86 million paid to the state of California in civil penalties.
 Harris secured multiple multimillion-dollar settlements with fuel service companies BP, ARCO, Phillips 66, and ConocoPhillips to resolve allegations they failed to properly monitor the hazardous materials in its underground storage tanks used to store gasoline for retail sale at hundreds of California gas stations.
 In summer 2012, Harris signed an accord with her counterpart, the Attorney General of Mexico, Marisela Morales to improve coordination of law enforcement resources targeting transnational gangs that engage in the sale and trafficking of human beings across the California-Mexico border.
 The accord called for closer integration on human trafficking investigations between the two offices and sharing best practices for law enforcement to recognize instances of human trafficking and provide support and services to victims.
@@ -366,10 +365,9 @@ During Obama's presidency, Harris was mentioned as a possible nominee for U.S. A
 In her memoir, The Truths We Hold, Harris recounts a moment in 2014 when she answered a call from Eric Holder, informing her he was stepping down and asking if she wanted to take his place.
 Harris informed Holder if there was a budget at the Department of Justice to fund and create incentives for local re-entry initiatives, she would be interested.
 Holder explained no budget existed and any new spending would have to be approved by a Republican controlled Congress.
-Thereafter, Harris publicly stated she was not interested in succeeding him.
+Thereafter, Harris publicly stated she was not interested in the job.
 After the death of Supreme Court Justice Antonin Scalia in 2016, Harris was speculated to be his replacement as an Associate Justice of the Supreme Court.
 However, as her campaign had already begun, Harris publicly stated she was only interested in running for the U.S. Senate and did not wish to be considered.
-Accordingly, she was not nominated to either office.
 After 24 years as California's junior senator, Senator Barbara Boxer (D-CA) announced her intention to retire from the United States Senate at the end of her term in 2016.
 Harris was the first candidate to declare her intention to run for Boxer's senate seat.
 Media outlets reported that she would run for senate on the same day that Gavin Newsom, California's Lieutenant Governor and a close political ally of Harris, announced he would not seek to succeed Boxer.
