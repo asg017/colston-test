@@ -22,15 +22,16 @@
 ## 2010 election
 ## 2014 election
 ## Civil rights
+## Criminal justice reform
 ### LGBTQ rights
 ### Privacy rights
 ### Children's rights
 ## Consumer protection
-## Improvements to law enforcement and criminal justice reform
 ## Public safety
 ### Cyber-exploitation
 ### Environmental protection
 ### Human trafficking
+### Improvements to law enforcement
 ### Transnational criminal organizations
 ## Obama appointment speculation
 # U.S. Senate (2016 - present)
