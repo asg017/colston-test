@@ -1,11 +1,7 @@
 # 
 # Early life and education
 # Early career (1990 - 2003)
-## Assistant District Attorney and City Attorney
 ## 2003 Campaign for District Attorney
-### Campaign organization
-### Primary election
-### Runoff election
 # District Attorney of San Francisco (2004 - 2010)
 ## Criminal justice reform
 ### Back on Track re-entry initiative
@@ -13,9 +9,7 @@
 ### Truancy initiative
 ## Public safety
 ### Felony conviction rate
-### Crimes against children
 ### Environmental crimes
-### Hate crimes
 ### Public corruption
 ### Violent crime
 # Attorney General of California (2010 - 2016)
@@ -26,12 +20,13 @@
 ### LGBTQ rights
 ### Privacy rights
 ## Consumer protection
+### Fraud, waste, and abuse
+### Predatory practices
 ## Criminal justice reform
 ## Public safety
-### Cyber-exploitation
+### eCrime Unit
 ### Environmental protection
-### Human trafficking
-### Improvements to law enforcement
+### Law enforcement improvements
 ### Transnational criminal organizations
 ## Obama appointment speculation
 # U.S. Senate (2016 - present)
