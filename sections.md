@@ -22,11 +22,11 @@
 ## 2010 election
 ## 2014 election
 ## Civil rights
-## Criminal justice reform
 ### LGBTQ rights
 ### Privacy rights
 ### Children's rights
 ## Consumer protection
+## Criminal justice reform
 ## Public safety
 ### Cyber-exploitation
 ### Environmental protection
