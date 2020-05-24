@@ -22,9 +22,9 @@
 ## 2010 election
 ## 2014 election
 ## Civil rights
+### Children's rights
 ### LGBTQ rights
 ### Privacy rights
-### Children's rights
 ## Consumer protection
 ## Criminal justice reform
 ## Public safety
