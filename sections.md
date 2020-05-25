@@ -1,6 +1,6 @@
 # 
 # Early life and education
-# Early career (1990 - 2003)
+# Early career (1990 – 2003)
 ## 2003 Campaign for District Attorney
 # District Attorney of San Francisco (2004 - 2010)
 ## Criminal justice reform
