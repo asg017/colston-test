@@ -17,10 +17,10 @@
 ## Civil rights
 ### Children's rights
 ### LGBTQ rights
-### Privacy rights
 ## Consumer protection
 ### Fraud, waste, and abuse
 ### Predatory practices
+### Privacy rights
 ## Criminal justice reform
 ## Public safety
 ### eCrime Unit
