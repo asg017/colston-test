@@ -4,7 +4,7 @@
 ## 2003 Campaign for District Attorney
 # District Attorney of San Francisco (2004 - 2010)
 ## Criminal justice reform
-### Back on Track re-entry initiative
+### Recidivism and re-entry initiative
 ### Refusal to seek the death penalty
 ### Truancy initiative
 ## Public safety
