@@ -9,8 +9,7 @@
 ### Truancy initiative
 ## Public safety
 ### Felony conviction rate
-### Environmental crimes
-### Public corruption
+### Non-violent crimes
 ### Violent crime
 # Attorney General of California (2010 - 2016)
 ## 2010 election
