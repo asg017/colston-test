@@ -16,12 +16,12 @@
 ## 2014 election
 ## Civil rights
 ### Children's rights
+### Criminal justice reform
 ### LGBTQ rights
 ## Consumer protection
 ### Fraud, waste, and abuse
 ### Predatory practices
 ### Privacy rights
-## Criminal justice reform
 ## Public safety
 ### eCrime Unit
 ### Environmental protection
