@@ -3,14 +3,14 @@
 # Early career (1990 – 2003)
 ## 2003 Campaign for District Attorney
 # District Attorney of San Francisco (2004 - 2010)
-## Criminal justice reform
-### Recidivism and re-entry initiative
-### Refusal to seek the death penalty
-### Truancy initiative
 ## Public safety
 ### Felony conviction rate
 ### Non-violent crimes
-### Violent crime
+### Violent crimes
+## Reform efforts
+### Recidivism and re-entry initiative
+### Refusal to seek the death penalty
+### Truancy initiative
 # Attorney General of California (2010 - 2016)
 ## 2010 election
 ## 2014 election
@@ -40,6 +40,7 @@
 ## Speculation as Joe Biden's running mate
 # Political positions
 # Electoral history
+# Awards and honors
 # Personal life
 # Publications
 # See also
