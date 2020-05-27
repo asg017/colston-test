@@ -23,8 +23,7 @@
 ### Predatory practices
 ### Privacy rights
 ## Public safety
-### eCrime Unit
-### Environmental protection
+### Non-violent crimes
 ### Law enforcement improvements
 ### Transnational criminal organizations
 ## Obama appointment speculation
