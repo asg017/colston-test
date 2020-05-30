@@ -202,7 +202,7 @@ Harris announced her intention to run for re-election in February 2014 and filed
 The Sacramento Bee, Los Angeles Daily News, and Los Angeles Times endorsed her for reelection.
 On November 4, 2014, Harris was re-elected against Republican Ronald Gold in a landslide, winning 57.5% of the vote to 42.5%.
 In 2011, after she was elected Attorney General, Harris urged criminal penalties for parents of truant children as she did as District Attorney of San Francisco, allowing the court to defer judgment if the parent agreed to a mediation period to get their child back in school.
-Critics charged that local prosecutors implementing her directives were overzealous in their enforcement and that Harris' rhetoric solidified the notion that parents were responsible for their children's education.
+Critics charged that local prosecutors implementing her directives were overzealous in their enforcement and that Harris' rhetoric legitimized the notion that parents were responsible for their children's education.
 In 2013, Harris issued a report titled "In School + On Track," which found that more than 250,000 elementary school students in the state were "chronically absent," meaning they missed 18 or more days of school.
 The report found that the statewide truancy rate for elementary students in the 2012-2013 school year was nearly 30%, at a cost of nearly $1.4 billion to school districts since funding is based on attendance rates.
 In 2014, Harris called on several major law firms and corporate lawyers from Walt Disney Co. and Warner Bros. Entertainment to provide pro bono services to unaccompanied immigrant children flooding the U.S. border with Mexico, requesting up to 500 hours of volunteer services.
@@ -225,12 +225,7 @@ Like Back on Track, individuals participating in the pilot program for 24–30 m
 Assigned a case manager, participants received education through a partnership with the Los Angeles Community College District and job training services.
 An assessment of the Back on Track LA pilot program by the American Society of Criminology found that graduates showed significantly higher self-esteem and decision-making ability, lower levels of depression, entitlement, criminal rationalization, justification of antisocial behavior, and personal irresponsibility compared to the control group.
 On balance, the results showed that Back on Track LA was effective in showing significant decrease on general propensity for recidivism.
-In 2015, Harris appealed a judge's order to take over the prosecution of a high-profile mass murder case and to eject all 250 prosecutors from the Orange County District Attorney's office over allegations of misconduct by Republican D.A. Tony Rackauckas.
-Rackauckas was alleged to have illegally employed jailhouse informants and concealed evidence.
-Harris noted that it was unnecessary to ban all 250 prosecutors from working on the case, as only a few had been directly involved, later promising a narrower criminal investigation.
-The U.S. Department of Justice began an investigation into Rackauckas in December 2016, but he was not re-elected.
-His successor, Republican Todd Spitzer later stated his office willing to undergo federal probation to end the investigation.
-Harris' record on capital punishment and wrongful conviction cases as Attorney General has engendered some criticism from academics and activists.
+Harris' record on wrongful conviction cases as Attorney General has engendered some criticism from academics and activists.
 For example, law professor Lara Bazelon contends Harris “weaponized technicalities” to uphold lengthy sentences.
 However, subsequent review by appellate courts have largely vindicated Harris on both substantive and procedural grounds.
 For example, in 2014, Judge Cormac J. Carney vacated the death sentence of convicted rapist and murderer Ernest Dewayne Jones, declaring capital punishment in California unconstitutional on the basis of the Eighth Amendment's prohibition on cruel and unusual punishment because "systemic delay and dysfunction" rendered the process arbitrary.
@@ -241,6 +236,23 @@ Gage filed a petition for habeas relief to the California Court of Appeal on the
 Then in 2005, Gage filed another petition in federal district court focused on procedural defects unrelated to the Brady violations.
 Again, the petition was denied by the federal district court and upheld by the 9th Circuit Court of Appeals in 2014.
 In his third application before the 9th Circuit, which Harris argued should be denied on procedural grounds, a three judge panel unanimously held that Gage’s third appeal was prohibited under the Antiterrorism and Effective Death Penalty Act of 1996, barring second or successive petitions for habeas relief.
+In 2014, after a rash of racially motivated police killings nationwide, Harris conducted a 90-day review of implicit bias and lethal use of force.
+In April 2015, Harris introduced the first of its kind "Principled Policing: Procedural Justice and Implicit Bias" training, designed in conjunction with Stanford University psychologist and professor Jennifer Eberhardt, to help law enforcement officers overcome barriers to neutral policing and rebuild the relationship of trust between law enforcement and the community.
+All Command-level staff received the training.
+The training was part of a package of reforms introduced within the California Department of Justice, which also included additional resources deployed to increase the recruitment and hiring of diverse special agents, an expanded role for the department to investigate officer-related shooting investigations, and community policing.
+In 2015, Harris' California Department of Justice was the first statewide agency in the country to require all of its police officers to wear body cameras.
+Harris said she believed that all officers should wear cameras, but did not believe in imposing statewide standards to regulate the use of body cameras, cautioning against a "one-size-fits-all" solution.
+Harris was later criticized by criminal justice advocates for her measured approach.
+That same year, Harris announced a new state law requiring every law enforcement agency in California to collect, report, and publish expanded statistics on how many people are shot, seriously injured or killed by peace officers throughout the state
+Later that year, Harris appealed a judge's order to take over the prosecution of a high-profile mass murder case and to eject all 250 prosecutors from the Orange County District Attorney's office over allegations of misconduct by Republican D.A. Tony Rackauckas.
+Rackauckas was alleged to have illegally employed jailhouse informants and concealed evidence.
+Harris noted that it was unnecessary to ban all 250 prosecutors from working on the case, as only a few had been directly involved, later promising a narrower criminal investigation.
+The U.S. Department of Justice began an investigation into Rackauckas in December 2016, but he was not re-elected.
+His successor, Republican Todd Spitzer later stated his office willing to undergo federal probation to end the investigation.
+In 2016, Harris announced a massive patterns and practices investigation into purported civil rights violations and use of excessive force by the two largest law enforcement agencies in Kern County, California, the Bakersfield Police Department and the Kern County Sheriff's Department.
+Labelled the "deadliest police departments in America" in a five-part Guardian expose, a separate investigation commissioned by the ACLU and submitted to the California Department of Justice corroborated reports of police using excessive force.
+The ACLU found that officers had engaged in patterns of excessive force – including shooting and beating to death unarmed individuals – as well as a practice of filing retaliatory criminal charges against individuals subjected to excessive force.
+Further analysis also revealed the highest rate of police homicides in the country, as well as excessive use of force resulting in 17 deaths of unarmed civilians from 2009 to 2013 in the form of dog attacks and tazings.
 In 2008, California voters passed Prop 8, a California ballot proposition and a state constitutional amendment defining marriage between a man and a woman.
 Legal challenges to Prop 8 were presented by opponents quickly after its approval, and a pair of same-sex couples filed a lawsuit against the initiative in federal court in the case of Perry v. Schwarzenegger (later Hollingsworth v. Perry).
 In August 2010, Chief Judge Vaughn Walker ruled that the amendment was unconstitutional under both the Due Process and Equal Protection Clauses of the Fourteenth Amendment, since it purported to re-remove rights from a disfavored class only, with no rational basis.
@@ -325,16 +337,13 @@ In 2012, Harris announced that the California Department of Justice had improved
 Accordingly, Harris reported that her Rapid DNA Service Team within the Bureau of Forensic Services cleared California's entire DNA backlog for the first time in history, having developed a process that allowed higher volume analysis of 5,400 evidence samples – an increase of 11% from 2010 (4,800) and 24% from 2009 (4,100).
 In April 2014, Harris' team was honored with the U.S. Department of Justice's Award for Professional Innovation in Victim Services.
 Harris' office would later be awarded a $1.6 million grant from the Manhattan District Attorney's initiative to eliminate the backlogs of untested rape kits.
-In 2014, after a rash of racially motivated police killings nationwide, Harris conducted a 90-day review of implicit bias and lethal use of force.
-In April 2015, Harris introduced the first of its kind "Principled Policing: Procedural Justice and Implicit Bias" training, designed in conjunction with Stanford University psychologist and professor Jennifer Eberhardt, to help law enforcement officers overcome barriers to neutral policing and rebuild the relationship of trust between law enforcement and the community.
-All Command-level staff received the training, while additional resources were deployed to increase the recruitment and hiring of diverse special agents and trainees.
-In 2015, Harris' California Department of Justice was the first statewide agency in the country to require all of its police officers to wear body cameras.
-Harris said she believed that all officers should wear cameras, but did not believe in imposing statewide standards to regulate the use of body cameras, cautioning against a "one-size-fits-all" solution.
-Harris was later criticized by criminal justice advocates for her measured approach.
-Later that year, Harris, alongside Congresswoman Karen Bass, LAPD Chief Charlie Beck, and UC Berkeley professor Steven Raphael announced the launch of OpenJustice, a first-in-the-nation criminal justice data initiative making available statewide data on arrest rates, deaths in law enforcement custody, arrest-related deaths, and law enforcement deaths.
+In 2014, Harris introduced two new data-based tools for law enforcement.
+The first was OpenJustice, a first-in-the-nation criminal justice data initiative designed with professor professor Steven Raphael making available statewide data on arrest rates, deaths in law enforcement custody, arrest-related deaths, and law enforcement deaths.
 The tool consisted of two components: a Dashboard that spotlights key criminal justice indicators with user-friendly visualization tools and an Open Data Portal that publishes raw data from the California Department of Justice's statewide repository of criminal justice datasets.
 Subsequent improvements to the platform revealed data pertaining to clearance rates and racial disparities in the criminal justice system.
-In 2011, Harris obtained a guilty plea from a stalker who used Facebook and social engineering techniques to illegally access the private photographs of women whose social media accounts he hijacked.
+Later that year, Harris announced the creation of SmartJustice, an app-based web portal consolidating all databases in California to allow police officers to efficiently search a suspect's formal criminal record on a secure mobile platform while in the field.
+SmartJustice has been adopted by more than 40 California law enforcement agencies.
+In 2011, Harris obtained a guilty plea and a four-year prison sentence from a stalker who used Facebook and social engineering techniques to illegally access the private photographs of women whose social media accounts he hijacked.
 Harris commented that the Internet had "opened up a new frontier for crime."
 Later that year, Harris created the eCrime Unit within the California Department of Justice, a 20-attorney unit specifically targeting technology crimes.
 That year, Harris also secured a comprehensive $44 million settlement to resolve all natural resource damages, penalties, and response costs associated with the 2007 Cosco Busan oil spill, where a container ship collided with the Delta Tower of the San Francisco–Oakland Bay Bridge and spilled more than 50,000 gallons of bunker fuel into the San Francisco Bay.

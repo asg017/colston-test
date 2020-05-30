@@ -17,6 +17,7 @@
 ## Civil rights
 ### Children's rights
 ### Criminal justice reform
+### Law enforcement accountability
 ### LGBTQ rights
 ## Consumer protection
 ### Fraud, waste, and abuse
