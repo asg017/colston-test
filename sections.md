@@ -28,7 +28,7 @@
 ### Non-violent crimes
 ### Transnational criminal organizations
 ## Obama appointment speculation
-# U.S. Senate (2016 – present)
+# U.S. Senate (2016–present)
 ## 2016 election
 ## 2017
 ## 2018
