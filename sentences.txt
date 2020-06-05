@@ -336,7 +336,7 @@ Accordingly, Harris reported that her Rapid DNA Service Team within the Bureau o
 In April 2014, Harris' team was honored with the U.S. Department of Justice's Award for Professional Innovation in Victim Services.
 Harris' office would later be awarded a $1.6 million grant from the Manhattan District Attorney's initiative to eliminate the backlogs of untested rape kits.
 In 2014, Harris introduced two new data-based tools for law enforcement.
-The first was OpenJustice, a first-in-the-nation criminal justice data initiative designed with professor professor Steven Raphael making available statewide data on arrest rates, deaths in law enforcement custody, arrest-related deaths, and law enforcement deaths.
+The first was OpenJustice, a first-in-the-nation criminal justice data initiative designed with professor Steven Raphael making available statewide data on arrest rates, deaths in law enforcement custody, arrest-related deaths, and law enforcement deaths.
 The tool consisted of two components: a Dashboard that spotlights key criminal justice indicators with user-friendly visualization tools and an Open Data Portal that publishes raw data from the California Department of Justice's statewide repository of criminal justice datasets.
 Subsequent improvements to the platform revealed data pertaining to clearance rates and racial disparities in the criminal justice system.
 Later that year, Harris announced the creation of SmartJustice, an app-based web portal consolidating all databases in California to allow police officers to efficiently search a suspect's formal criminal record on a secure mobile platform while in the field.
