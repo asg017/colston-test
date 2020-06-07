@@ -4,7 +4,7 @@
 {{Use British English|date=November 2017}}
 {{Use dmy dates|date=November 2017}}
 {{current related|date=June 2020}}
-{{Infobox person
+{{Infobox officeholder
 | name        = Edward Colston
 | other_names =
 | image       = Edward Colston.jpg
@@ -20,9 +20,11 @@
 | occupation  = Merchant
 | title       =  
 | salary      =
-| term        =
-| predecessor =
-| successor   =
+| office1      = Member of Parliament for [[Bristol (UK Parliament constituency)|Bristol]]
+| term_start1  = [[1710 British general election|1710]]
+| term_end1    = [[1713 British general election|1713]]
+| predecessor1 = 
+| successor1   =
 | party       = [[Tory]]
 | boards      =
 | spouse      =
