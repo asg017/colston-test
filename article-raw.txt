@@ -3,7 +3,6 @@
 {{Use dmy dates|date=November 2017}}
 {{Infobox person
 | name        = Edward Colston
-| residence   = Mortlake
 | other_names =
 | image       = Edward Colston.jpg
 | imagesize   = 200px
