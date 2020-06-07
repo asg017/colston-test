@@ -21,7 +21,7 @@
 | term        =
 | predecessor =
 | successor   =
-| party       = [[Tory]]
+| party       = Whiggs
 | boards      =
 | spouse      =
 | partner     =
