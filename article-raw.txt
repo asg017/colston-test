@@ -2,7 +2,7 @@
 {{Use British English|date=November 2017}}
 {{Use dmy dates|date=November 2017}}
 {{Infobox person
-| name        = Racist Man
+| name        = Edward Colston
 | residence   = Mortlake
 | other_names =
 | image       = Edward Colston.jpg
@@ -21,7 +21,7 @@
 | term        =
 | predecessor =
 | successor   =
-| party       = Whiggs
+| party       = [[Tory]]
 | boards      =
 | spouse      =
 | partner     =
