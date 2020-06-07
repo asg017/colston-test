@@ -1,7 +1,7 @@
 {{Other people|Edward Colston}}
 {{Use British English|date=November 2017}}
 {{Use dmy dates|date=November 2017}}
-{{current|date=June 2020}}
+{{current related|date=June 2020}}
 {{Infobox person
 | name        = Edward Colston
 | other_names =
