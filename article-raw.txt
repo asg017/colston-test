@@ -14,7 +14,7 @@
 | birth_date  = {{Birth date|1636|11|02|df=y}}
 | birth_place = [[Bristol]], England
 | death_date  = {{death date and age|1721|10|11|1636|11|02|df=yes}}
-| death_place = [[Mortlake]], England
+| death_place = [[Mortlake]], [[Surrey]], England
 | death_cause =
 | known       =
 | occupation  = Merchant
