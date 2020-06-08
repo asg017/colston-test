@@ -202,9 +202,6 @@ Critics charged that local prosecutors implementing her directives were overzeal
 In 2013, Harris issued a report titled "In School + On Track," which found that more than 250,000 elementary school students in the state were "chronically absent", meaning they missed 18 or more days of school.
 The report found that the statewide truancy rate for elementary students in the 2012–2013 school year was nearly 30%, at a cost of nearly $1.4 billion to school districts since funding is based on attendance rates.
 In 2014, Harris called on several major law firms and corporate lawyers from Walt Disney Co. and Warner Bros. Entertainment to provide pro bono services to unaccompanied immigrant children flooding the U.S. border with Mexico, requesting up to 500 hours of volunteer services.
-That year, Harris advocated for a package of bills she sponsored in the California legislature to help prevent truancy, such as the creation of local attendance review boards and instituting a statewide attendance data system for students.
-Harris emphasized that school absences have cost California public schools nearly $3.5 billion in funding.
-Governor Jerry Brown later signed into law two of the bills in the package – one adding a representative of the local district attorney’s office and public defender’s office to school attendance review boards and another require prosecutors to report the outcome of adjudicated truancy cases to local authorities.
 The 2014 edition of In School + On Track released updated data and looked at gaps in state infrastructure for collecting attendance information and disparities in student attendance and discipline by race, income, and other subgroups such as foster youth.
 Since the last report, the statewide truancy rate for elementary school children rose 1.2%.
 In 2015, Harris announced that she would start a new agency called the Bureau of Children's Justice to address issues such as foster care, the juvenile justice system, school truancy, and childhood trauma.
@@ -274,7 +271,7 @@ Harris indicated she would vigorously defend the ban, as there is no reliable ev
 In December 2012, the district court judge hearing Pickup declined to issue an injunction blocking SB 1172, but the judge hearing Welch did issue an injunction.
 Both cases were appealed to and consolidated in the Ninth Circuit.
 The court heard oral arguments in the cases on April 17, 2013, and on August 29, upheld S.B. 1172 and reversed the lower court order granting a preliminary injunction.
-"The plaintiffs asked the Supreme Court of the United States to review the Ninth Circuit's decision, but the Court declined to grant certiorari, sending S.B. 1172 into effect. The Court later referenced a specific line of argument in this case relating to the standard of scrutiny that should be afforded to regulations of professional speech.
+"The plaintiffs asked the Supreme Court of the United States to review the Ninth Circuit's decision, but the Court declined to grant certiorari, sending S.B. 1172 into effect.
 In 2013, Harris announced she had secured a three-year prison sentence in state prison for a nursing director who inappropriately medicated elderly patients at a Kern County nursing home.
 The nursing director pled guilty to one count of felony elder abuse that resulted in the death of one victim.
 The Defendant was alleged to sedated 23 elderly patients suffering from Alzheimers or dementia simply to keep them quiet; all suffered adverse physical reactions.
@@ -341,7 +338,6 @@ In April 2014, Harris' team was honored with the U.S. Department of Justice's Aw
 Harris' office would later be awarded a $1.6 million grant from the Manhattan District Attorney's initiative to eliminate the backlogs of untested rape kits.
 In 2014, Harris introduced two new data-based tools for law enforcement.
 The first was OpenJustice, a first-in-the-nation criminal justice data initiative designed with professor Steven Raphael making available statewide data on arrest rates, deaths in law enforcement custody, arrest-related deaths, and law enforcement deaths.
-The tool consisted of two components: a Dashboard that spotlights key criminal justice indicators with user-friendly visualization tools and an Open Data Portal that publishes raw data from the California Department of Justice's statewide repository of criminal justice datasets.
 Subsequent improvements to the platform revealed data pertaining to clearance rates and racial disparities in the criminal justice system.
 Later that year, Harris announced the creation of SmartJustice, an app-based web portal consolidating all databases in California to allow police officers to efficiently search a suspect's formal criminal record on a secure mobile platform while in the field.
 SmartJustice has been adopted by more than 40 California law enforcement agencies.
@@ -350,7 +346,6 @@ Harris commented that the Internet had "opened up a new frontier for crime."
 Later that year, Harris created the eCrime Unit within the California Department of Justice, a 20-attorney unit specifically targeting technology crimes.
 In 2015, several purveyors of so-called "revenge porn" sites based in California were arrested, charged with felonies, and sentenced to lengthy prison terms.
 In the first prosecution of its kind in the United States, Kevin Bollaert was convicted on 21 counts of identity theft and six counts of extortion and sentenced to 18 years in prison.
-Harris said, "Sitting behind a computer, committing what is essentially a cowardly and criminal act will not shield predators from the law or jail."
 Harris echoed these words when California Congresswoman Katie Hill was targeted for similar cyber exploitation by her ex-husband and forced to resign in late 2019.
 In 2016, Harris announced the arrest of Backpage CEO Carl Ferrer on felony charges of pimping a minor, pimping, and conspiracy to commit pimping.
 The arrest warrant alleged that 99% of Backpage's revenue was directly attributable to prostitution-related ads, many of which involved victims of sex trafficking, including children under the age of 18.
