@@ -487,7 +487,7 @@ Harris has written two non-fiction books and one children's book.<ref>{{Cite web
 * [[Women in the United States Senate]]
 
 ==References==
-{{Reflist}}
+<references />
 
 ==External links==
 {{Sister project links |wikt=no |b=no |d=Q10853588 |n=no |s=Author:Kamala_Devi_Harris|v=no}}
@@ -497,7 +497,7 @@ Harris has written two non-fiction books and one children's book.<ref>{{Cite web
 * {{C-SPAN|kamalaharris}}
 * {{CongLinks | congbio = H001075 | fec = S6CA00584 | votesmart = 120012 | congress = kamala-harris/H001075 }}
 * {{worldcat id|lccn-n2009-45056|Kamala D. Harris}}
-*{{twitter|KamalaHarris}}
+* {{twitter|KamalaHarris}}
 
 {{s-start}}
 {{s-legal}}
