@@ -25,7 +25,7 @@
 | term_end1    = [[1713 British general election|1713]]
 | predecessor1 = 
 | successor1   =
-| party       = [[Tory]]
+| party       = [[Tories (British political party)|Tory]]
 | boards      =
 | spouse      =
 | partner     =
