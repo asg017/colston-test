@@ -5,37 +5,37 @@
 {{Use dmy dates|date=November 2017}}
 {{current related|date=June 2020}}
 {{Infobox officeholder
-| name        = Edward Colston
-| other_names =
-| image       = Edward Colston.jpg
-| imagesize   = 200px
-| caption     =
-| birth_name  =
-| birth_date  = {{Birth date|1636|11|02|df=y}}
-| birth_place = [[Bristol]], England
-| death_date  = {{death date and age|1721|10|11|1636|11|02|df=yes}}
-| death_place = [[Mortlake]], [[Surrey]], England
-| death_cause =
-| known       =
-| occupation  = Merchant
-| title       =  
-| salary      =
-| office1      = Member of Parliament for [[Bristol (UK Parliament constituency)|Bristol]]
-| term_start1  = [[1710 British general election|1710]]
-| term_end1    = [[1713 British general election|1713]]
-| predecessor1 = 
-| successor1   =
-| party       = [[Tories (British political party)|Tory]]
-| boards      =
-| spouse      =
-| partner     =
-| children    =
-| relations   =
-| website     =
-| footnotes   =
-| employer    =
-| height      =
-| weight      =
+| name                = Edward Colston
+| other_names         = 
+| image               = Edward Colston.jpg
+| imagesize           = 200px
+| caption             = 1722 portrait by [[George Vertue]], after [[Jonathan Richardson]]
+| birth_name          = 
+| birth_date          = {{Birth date|1636|11|02|df=y}}
+| birth_place         = [[Bristol]], England
+| death_date          = {{death date and age|1721|10|11|1636|11|02|df=yes}}
+| death_place         = [[Mortlake]], [[Surrey]], England
+| death_cause         = 
+| known               = 
+| occupation          = Merchant
+| title               = 
+| salary              = 
+| office1             = Member of Parliament for [[Bristol (UK Parliament constituency)|Bristol]]
+| term_start1         = [[1710 British general election|1710]]
+| term_end1           = [[1713 British general election|1713]]
+| predecessor1        = 
+| successor1          = 
+| party               = [[Tories (British political party)|Tory]]
+| boards              = 
+| spouse              = 
+| partner             = 
+| children            = 
+| relations           = 
+| website             = 
+| footnotes           = 
+| employer            = 
+| height              = 
+| weight              = 
 }}
 
 '''Edward Colston''' (2 November 1636 – 11 October 1721) was an English merchant, Member of Parliament, [[philanthropist]], and [[Atlantic slave trade|slave trader]]. He supported and endowed schools, almshouses, hospitals and churches in Bristol, London and elsewhere. His name is commemorated in several Bristol landmarks, streets, three schools and the [[Colston bun]]. Charitable foundations inspired by ones he founded still survive.<ref name=":0">{{Cite news|url=https://www.dolphin-society.org.uk/history|title=Edward Colston, the Dolphin Society and 268 years of letter-writing…History / Background|date=2015-05-16|work=The Dolphin Society|access-date=2018-10-19|language=en}}</ref> His wealth was largely acquired through the trade and exploitation of slaves.<ref>{{cite web
