@@ -25,8 +25,9 @@
 ### Predatory practices
 ### Privacy rights
 ## Public safety
+### Environmental protection
 ### Law enforcement improvements
-### Non-violent crimes
+### Sex crimes
 ### Transnational criminal organizations
 ## Obama appointment speculation
 # U.S. Senate (2016–present)
