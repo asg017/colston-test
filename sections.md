@@ -1,7 +1,7 @@
 # 
 # Early life
 # Career
-# Altruism and politics
+# Philanthropy and politics
 # Death
 # Modern reappraisal
 ## Statue
