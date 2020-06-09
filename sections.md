@@ -4,7 +4,7 @@
 # Philanthropy and politics
 # Death
 # Statue
-# Modern reappraisal
+## Modern reappraisal
 # Philanthropic works
 # See also
 # References
