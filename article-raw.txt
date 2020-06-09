@@ -6,9 +6,9 @@
 {{Infobox officeholder
 | name                = Edward Colston
 | other_names         = 
-| image               = Edward Colston.jpg
+| image               = Jonathan Richardson - Portrait of Edward Colston.jpg
 | imagesize           = 200px
-| caption             = 1722 portrait by [[George Vertue]], after [[Jonathan Richardson]]
+| caption             = Portrait by [[Jonathan Richardson]]
 | birth_name          = 
 | birth_date          = {{Birth date|1636|11|02|df=y}}
 | birth_place         = [[Bristol]], England
