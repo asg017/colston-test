@@ -8,4 +8,3 @@
 ## Other memorials
 # See also
 # References
-# External links
