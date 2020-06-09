@@ -100,7 +100,7 @@ In summer 2005, Harris created a unit to tackle environmental crimes.
 Harris filed charges against the Alameda Publishing Corporation for dumping hazardous printing ink in San Francisco's Bayview neighborhood.
 50 gallon buckets of hazardous ink were left overturned and leaking: the corporation and its publishers were charged with unlawful disposal and transportation of hazardous waste and with depositing of hazardous substances on a road.
 Later that year, Harris brought charges against four San Francisco residents for illegally trafficking in red abalone.
-Decades of poaching abalone, a seafood delicacy, had decimated local populations before local legislators cracked down on the trade.
+Decades of poaching abalone, a seafood delicacy, had decimated local populations before local legislators cracked down.
 In 2006, Republican Ed Jew won a highly competitive election to the San Francisco Board of Supervisors.
 Harris began investigating Jew for violating residency requirements necessary to hold his supervisor position.
 Harris alleged that Jew lied under oath and falsified documents regarding his residency in the Sunset District so he could run for the District 4 seat for supervisor, adding that Jew has never resided at the 28th Avenue home or any other home in District 4 during his run for office.
@@ -160,7 +160,6 @@ During Espinoza's funeral at St. Mary's Cathedral, U.S. Senator Dianne Feinstein
 Immediately thereafter, Association President Gary Delagnes echoed her call and demanded that Espinoza's killer "pay the ultimate price."
 Despite immense political pressure from members of California's political establishment, including U.S. Senator Barbara Boxer and Oakland Mayor Jerry Brown, Harris still refused.
 Public polling found that 70% of city voters backed Harris' decision not to seek the death penalty, with only 22% opposed.
-The jury convicted later Hill of second-degree murder.
 Harris's convictions were tested again in the case of Edwin Ramos, an illegal immigrant and alleged MS-13 gang member who was accused of murdering Tony Bologna and his two sons.
 On September 10, 2009, she announced she would seek life in prison without the possibility of parole, a decision Mayor Gavin Newsom backed.
 Harris has expressed the belief that life without possibility of parole is a better, more cost-effective, punishment.
@@ -274,12 +273,6 @@ Under the agreement, the nursing home chain was required to improve its staffing
 In 2013, Harris also obtained a 42 year prison sentence for the operator of a massive Ponzi scheme that defrauded mostly elderly investors out of more than $90 million.
 In 2014, Harris announced a 20 year prison sentence with Sonoma County D.A. Jill Ravitch for the perpetrator of a Ponzi scheme that bilked elderly investors out of more than $17 million, along with a hefty $6.4 million fine.
 In 2016, Harris secured a $15 million settlement for Californians who had invested with Stanley Chais, the West Coast operator of the so-called "feeder funds" which collected money for funds related to the Bernie Madoff's Ponzi scheme.
-In 2011, Harris won a court order reviving a state fraud lawsuit against CalPERS board member Alfred J.R. Villalobos and former CalPERS chief executive Federico Buenrosto, Jr. after they declared bankruptcy to avoid charges.
-Villalobos was alleged to have been paid more than $47 million in commissions to help private equity firms steer contracts to manage $4.8 billion worth of assets from 2005 to 2009.
-By 2014, Villalobos and Buenrosto were indicted in federal court on bribery and corruption charges in connection with an influence operation regarding CalPERS's investment decisions.
-Buenrosto testified that Villalobos bribed executives, falsified documents, and steered investment deals to private equity firms.
-Facing up to 30 years in prison, Villalobos committed suicide just a week before he was scheduled to go on trial.
-Harris later secured a $20 million settlement from Villalobos' bankruptcy estate to settle the bribery allegations.
 In 2011, Harris announced the creation of the Mortgage Fraud Strike Force in the wake of the 2010 United States foreclosure crisis.
 Shortly thereafter, Harris announced a joint investigatory alliance with Nevada Attorney General Catherine Cortez Masto to combine resources and coordinate strategy, as California and Nevada were the two states hit hardest in the foreclosure crisis; California led the nation in total 546,669 foreclosure filings while Nevada led the nation in percentage of foreclosures at 9.4%, or 106,160 housing units.
 That same year, Harris obtained two of the largest recoveries in the history of California's False Claims Act – $241 million from Quest Diagnostics and then $323 million from the SCAN healthcare network – over excess state Medi-Cal and federal Medicare payments.
@@ -399,7 +392,7 @@ It was the first time a Republican did not appear in a general election for the 
 In the November 2016 election, Harris defeated Sanchez, capturing over 60% of the vote, carrying all but four counties.
 Following her victory, she promised to protect immigrants from the policies of President-elect Donald Trump.
 Harris also announced her intention to remain Attorney General through the end of 2016 and resign shortly before being sworn in as Senator on January 3, 2017.
-On January 28, after Trump signed Executive Order 13769, barring citizens from several Muslim-majority countries from entering the US for 90 days, she condemned the order and was one of many to describe it as a "Muslim ban".
+On January 28, after Trump signed Executive Order 13769, barring citizens from several Muslim-majority countries from entering the US for 90 days, she condemned the order and was one of many to describe it as a "Muslim ban."
 She even called White House Chief of Staff John F. Kelly at home to gather information and push back against the contentious executive order.
 In February, Harris spoke in opposition to Trump's cabinet picks Betsy DeVos, for Secretary of Education, and Jeff Sessions, for United States Attorney General.
 Later that month, in her first speech on the Senate floor, she critiqed Trump's immigration policies for 12 minutes.
@@ -430,7 +423,6 @@ Kavanaugh was unable to answer and repeatedly deflected.
 Harris also participated in questioning the FBI Director's limited scope of the investigation on Kavanaugh regarding allegations of sexual assault.
 She joined her colleagues in voting against his confirmation.
 Harris, along with colleague Cory Booker, was one of the targets of the October 2018 United States mail bombing attempts.
-In November, Harris toured the areas ravaged by the 2018 Camp Fire, the deadliest and most destructive wildfire in California history.
 In December, Harris traveled to Kabul, Mazar-e Sharif, and Kandahar in Afghanistan with two of her Republican colleagues on the Senate Intelligence Committee, Senators Burr and Lankford.
 Later that month, Harris, along with Republican Senator Tim Scott and Democratic Senator Cory Booker, led the passage by unanimous consent of the Justice for Victims of Lynching Act, legislation that criminalized lynching for the first time in American history.
 In February 2019, the Senate passed a bill introduced by Harris and Republican Senator Lindsey Graham to reauthorize a program to preserve and restore historical buildings and sites on historically black colleges and universities campuses.
@@ -482,7 +474,7 @@ In December 2018, former Vice President Joe Biden posed for a photo together wit
 After they launched their campaigns, in May 2019, senior members of the Congressional Black Caucus, including Lacy Clay, Emanuel Cleaver, and Marcia Fudge said that a Biden-Harris ticket would be an ideal combination to defeat Donald Trump.
 Biden expressed surprise when Harris dropped out of the race on December 3, 2019.
 The next day he said he would consider Harris as a potential running mate for his presidential campaign, adding that she "has the capacity to be anything she wants to be. She is solid. She can be president someday herself. She can be the vice president. She can go on to be a Supreme Court justice. She can be an attorney general."
-In January 2020, Biden reiterated that Harris was "qualified to be president" and that he would consider her "for anything she wants, including VP."
+In January 2020, Biden reiterated that he would consider her "for anything she wants, including VP."
 In late February, Biden won a landslide victory in the 2020 South Carolina Democratic primary with the endorsement of House Whip Jim Clyburn, with more victories on Super Tuesday.
 In early March, Clyburn suggested Biden choose a black woman as a running mate, noting that "African American women needed to be rewarded for their loyalty," naming Harris, Marcia Fudge, Val Demings, and Keisha Lance Bottoms as possible choices.
 During a debate, Biden committed to choosing a woman for his running mate.
