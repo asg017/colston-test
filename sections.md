@@ -3,9 +3,7 @@
 # Career
 # Philanthropy and politics
 # Death
-# Memorials
-## City-centre statue
-## Modern reappraisal
-# Philanthropic works
+# Memorials and philanthropic works
+## City-centre memorial statue
 # See also
 # References
