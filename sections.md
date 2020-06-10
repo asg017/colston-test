@@ -20,7 +20,6 @@
 ### Law enforcement accountability
 ### LGBTQ rights
 ## Consumer protection
-### Elder abuse
 ### Fraud, waste, and abuse
 ### Predatory practices
 ### Privacy rights
