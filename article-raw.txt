@@ -16,7 +16,7 @@
 | death_place         = [[Mortlake]], Surrey, England
 | death_cause         = 
 | known               = 
-| occupation          = Merchant
+| occupation          = Merchant, slave trader
 | title               = 
 | salary              = 
 | office1             = Member of Parliament for [[Bristol (UK Parliament constituency)|Bristol]]
