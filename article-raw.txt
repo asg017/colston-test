@@ -1,15 +1,15 @@
 {{Use mdy dates|date=June 2020}}
 {{draft article}}
 {{Infobox politician
-|name=Marjorie Greene<!--
-|state=Georgia
-|district=14th
-|term_start=
-|succeeding=-->
-|birth_name=Marjorie Taylor
-|spouse=Perry Greene
-|education=[[University of Georgia]]
-|party=[[Republican Party (United States)|Republican Party]]
+| name = Marjorie Greene<!--
+| state = Georgia
+| district = 14th
+| term_start =
+| succeeding =-->
+| birth_name = Marjorie Taylor
+| spouse = Perry Greene
+| education = [[University of Georgia]]
+| party = [[Republican Party (United States)|Republican Party]]
 }}
 
 '''Marjorie Taylor Greene''' is an American politician and businesswoman from the [[U.S. state|state]] of [[Georgia (U.S. state)|Georgia]]. She is a [[Republican Party (United States)|Republican]] candidate in the [[2020 United States House of Representatives elections in Georgia|2020 elections]] seeking to represent {{ushr|GA|14}} in the [[United States House of Representatives]].
