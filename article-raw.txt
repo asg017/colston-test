@@ -1,6 +1,8 @@
 {{short description|American musician|bot=PearBOT 5}}
 {{infobox musical artist
 | name = Anna Bulbrook
+| image = Airborne sm 72s.jpg
+| caption = Bulbrook performing with [[the Airborne Toxic Event]] in 2009
 | background = non_vocal_instrumentalist
 | instrument = Violin
 | associated_acts = [[The Airborne Toxic Event]]<br>The Bulls<br>[[Edward Sharpe and the Magnetic Zeros]]
