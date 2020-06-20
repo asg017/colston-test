@@ -17,7 +17,7 @@ She identifies herself as black and sees her experience primarily as American.
 Harris was raised in Berkeley, California with her younger sister, Maya Harris.
 She grew up attending both a Black Baptist church, where she and her sister sang in the choir, and a Hindu temple.
 As a child, Harris used to visit her extended family in Chennai and was reportedly close to her maternal grandfather P.V. Gopalan, a career civil servant for the federal Government of India.
-Harris began kindergarten during the second year of Berkeley's school desegregation busing program, which adopted busing to attempt to bring racial balance to each of the city's public schools; a bus drove her to a school which, two years prior, had been 95% white.
+Harris began kindergarten in the second year of Berkeley's school desegregation busing program, which adopted busing bring racial balance to the city's public schools; a bus drove her to a school which, two years prior, had been 95% white.
 Her parents divorced when she was 7; when she and her sister would visit their father in Palo Alto on weekends, she stated that neighbors' kids were not allowed to play with them because they were black.
 When she was 12, Harris and her sister moved with their mother to Montreal, Quebec, Canada, where she had accepted a research position at Jewish General Hospital and teaching at McGill University.
 She was a popular student at Westmount High School in Westmount, Quebec, graduating in 1981.
@@ -34,14 +34,14 @@ Salomon's appointment coincided with the introduction of a Prop 21, which would 
 Harris became involved in campaigning against the measure.
 Her knowledge and commitment to the issue was such that the Public Information Officer, Fred Gardner, would give reporters the option to interview both Harris and Hallinan.
 Salomon ordered Gardner to stop directing Prop 21 media inquiries to Harris.
-Then Hallinan ordered that all calls from reporters go directly to him.
-He then retaliated and reassigned Harris, which she believed to be a de facto demotion.
+Hallinan ordered that all calls from reporters go directly to him and then retaliated by reassigning Harris, a de facto demotion.
 Shortly after, Harris led a group of supervisors who confronted Hallinan about Salomon's behavior.
-However, when their attempt to get him removed failed, Harris then filed a complaint and quit; Salomon followed shortly thereafter.
+However, when their attempt to get him removed failed, Harris filed a complaint and quit; Salomon followed shortly thereafter.
 In August 2000, Harris took a new job at San Francisco City Hall, working for City Attorney Louise Renne.
 Harris ran the Family and Children's Services Division representing child abuse and neglect cases.
 Renne said of Harris: "She will make the best DA this city has seen in years."
-In 2002, she began "methodically gathering support" to run against Hallinan, calling Mark Buell, the stepfather of her friend, Summer Tompkins Walker, and telling him of her intentions Impressed, Buell offered to be her finance chair and advised she would need to raise more than $150,000, the highest amount ever raised for the position, to defeat an incumbent.
+In 2002, she began "methodically gathering support" to run against Hallinan, calling Mark Buell, the stepfather of her friend Summer Tompkins Walker, and telling him of her intentions.
+Impressed, Buell offered to be her finance chair and advised she would need to raise more than $150,000 to defeat an incumbent, the highest amount ever raised for the position.
 He and Harris organized a finance committee composed mostly of Harris' friends including, Vanessa Getty and Susan Swig.
 Harris sought to run a campaign that disrupted negative stereotypes of black women and set up her campaign office in Bayview, the "most isolated neighborhood" in San Francisco.
 Running against Hallinan, and defense attorney, Bill Fazio, Harris was the least known candidate, but noted to be "whip-smart, hard-working, and well-credentialed."
@@ -67,7 +67,7 @@ However, under her leadership, the felony conviction rate would steadily rise to
 The felony conviction rate would rise again to 69.9% in 2007 to 70.7% in 2008.
 By 2009, Harris achieved a 76% conviction rate, up more than 20% over her predecessor.
 Convictions of drug dealers increased from 56% in 2003 to 74% in 2006.
-While Harris oversaw more than 1900 convictions for marijuana possession, lawyers working in her office stated that most defendants for low-level possession were never even charged with a crime, consistent with the city and county's low enforcement priorities.
+While Harris oversaw more than 1900 convictions for marijuana possession, lawyers working in her office stated that most defendants for low-level possession were never charged with a crime, consistent with the city and county's low enforcement priorities.
 Harris was re-elected in 2007 when she ran unopposed.
 In summer 2005, Harris created a unit to tackle environmental crimes.
 Harris filed charges against the Alameda Publishing Corporation for dumping hazardous printing ink in San Francisco's Bayview neighborhood.
@@ -106,7 +106,7 @@ Harris subsequently supported A.B. 1160, the Gwen Araujo Justice for Victims Act
 In September 2006, California Governor Arnold Schwarzenegger signed A.B. 1160 into law; the law put California on record as declaring it contrary to public policy for defendants to be acquitted or convicted of a lesser included offense on the basis of appeals to "societal bias."
 In August 2007, State Assemblyman Mark Leno introduced legislation to ban gun shows at the Cow Palace joined by Harris, Police Chief Heather Fong and Mayor Gavin Newsom.
 City leaders contended the shows were directly contributing to the proliferation of illegal guns and spiking homicide rates in San Francisco: Mayor Newsom earlier that month signed into law local legislation banning gun shows on city and county property.
-Leno alleged that gun merchants drove through the public housing developments nearby and illegally sold weapons to residents.
+Leno alleged that merchants drove through the public housing developments nearby and illegally sold weapons to residents.
 While the bill would stall, local opposition to the shows would continue until the Cow Palace Board of Directors in 2019 voted to approve a statement banning all future gun shows.
 In 2004, Harris recruited civil rights activist Lateefah Simon, the youngest woman to ever receive a MacArthur Fellowship, to create San Francisco Reentry Division.
 The flagship program was the Back on Track initiative, a first-of-its-kind reentry program for first-time nonviolent offenders age 18–30.
@@ -121,7 +121,7 @@ Adopted by the National District Attorneys Association as a model, prosecutor of
 Harris made a campaign pledge to never seek the death penalty as a prosecutor.
 In April 2004, San Francisco Police Department Officer Isaac Espinoza was shot and killed in the line of duty.
 Three days later, Harris announced she would not seek the death penalty, angering the San Francisco Police Officers Association.
-During Espinoza's funeral at St. Mary's Cathedral, U.S. Senator Dianne Feinstein and former Mayor of San Francisco, in a surprise move, rose to the pulpit and called on Harris, who was sitting in the front pew, to seek the death penalty, prompting a standing ovation from the 2,000 uniformed police officers in attendance.
+During Espinoza's funeral at St. Mary's Cathedral, U.S. Senator Dianne Feinstein and former Mayor of San Francisco, in a surprise move, rose to the pulpit and called on Harris, seated in the front pew, to seek the death penalty, prompting a standing ovation from the 2,000 uniformed police officers in attendance.
 Association President Gary Delagnes echoed her call and demanded that Espinoza's killer "pay the ultimate price."
 Despite immense political pressure from members of California's political establishment, including U.S. Senator Barbara Boxer and Oakland Mayor Jerry Brown, Harris still refused.
 Public polling found that 70% of city voters backed Harris' decision not to seek the death penalty, with only 22% opposed.
@@ -134,10 +134,8 @@ She noted that the resulting surplus could put 1,000 more police officers into s
 In 2006, as part of an initiative to reduce the city skyrocketing homicide rate, Harris led a city-wide effort to combat truancy for at-risk elementary school youth in San Francisco.
 Declaring chronic truancy a matter of public safety and pointing out that the majority of prison inmates and homicide victims are dropouts or habitual truants, Harris' office met with thousands of parents at high-risk schools and sent out letters warning all families of the legal consequences of truancy at the beginning of the fall semester, adding she would prosecute the parents of chronically truant elementary students: penalties included a $2,500 fine and up to a year in jail.
 In 2008, Harris issued citations against six parents whose children missed at least 50 days of school, the first time San Francisco prosecuted adults for student truancy.
-San Francisco's school chief, Carlos Garcia, stated that the path from truancy to parental prosecution was lengthy, and that the school district usually spends months encouraging parents to send their children to school through phone calls, reminder letters, private meetings, hearings before the School Attendance Review Board, and offers of help from city agencies and social services; two of the six parents entered no plea but said they would work with the DA's office and social service agencies to create "parental responsibility plans" to help them start sending their children to school regularly.
-By April 2009, there were 1,330 elementary school students who were habitual or chronic truants, down from 1,730 in 2008, 2,517 in 2007 and 2,856 in 2006.
-This amounted to a staggering 23% drop since the 2005–06 school year.
-In so doing, the school districts referred 110 elementary school families to a review board, up from only 34 families the year before.
+San Francisco's school chief, Carlos Garcia, stated that the path from truancy to prosecution was lengthy, and that the school district usually spends months encouraging parents through phone calls, reminder letters, private meetings, hearings before the School Attendance Review Board, and offers of help from city agencies and social services; two of the six parents entered no plea but said they would work with the DA's office and social service agencies to create "parental responsibility plans" to help them start sending their children to school regularly.
+By April 2009, there were 1,330 elementary school students who were habitual or chronic truants, down from 1,730 in 2008, 2,517 in 2007 and 2,856 in 2006, amounting to a staggering 23% drop since the 2005–06 school year.
 Despite the controversy surrounding the program for its punitive nature, Harris' office prosecuted only seven parents in three years, and not a single parent was ever jailed.
 On November 12, 2008, Harris announced her candidacy for California Attorney General.
 Both of California's Senators, Dianne Feinstein and Barbara Boxer, House Speaker Nancy Pelosi, United Farm Workers cofounder Dolores Huerta and Mayor of Los Angeles, Antonio Villaraigosa all endorsed her during the primary.
@@ -178,7 +176,7 @@ In April 2015, Harris introduced the first of its kind "Principled Policing: Pro
 All Command-level staff received the training.
 The training was part of a package of reforms introduced within the California Department of Justice, which also included additional resources deployed to increase the recruitment and hiring of diverse special agents, an expanded role for the department to investigate officer-related shooting investigations, and community policing.
 In 2015, Harris' California Department of Justice was the first statewide agency in the country to require all of its police officers to wear body cameras.
-In 2016, Harris announced a massive patterns and practices investigation into purported civil rights violations and use of excessive force by the two largest law enforcement agencies in Kern County, California, the Bakersfield Police Department and the Kern County Sheriff's Department.
+In 2016, Harris announced a patterns and practices investigation into purported civil rights violations and use of excessive force by the two largest law enforcement agencies in Kern County, California, the Bakersfield Police Department and the Kern County Sheriff's Department.
 Labelled the "deadliest police departments in America" in a five-part Guardian expose, a separate investigation commissioned by the ACLU and submitted to the California Department of Justice corroborated reports of police using excessive force.
 The ACLU found that officers had engaged in patterns of excessive force – including shooting and beating to death unarmed individuals – as well as a practice of filing retaliatory criminal charges against individuals subjected to excessive force.
 Further analysis also revealed the highest rate of police homicides in the country, as well as excessive use of force resulting in 17 deaths of unarmed civilians from 2009 to 2013 in the form of dog attacks and tazings.
@@ -319,7 +317,7 @@ Harris, along with colleague Cory Booker, was one of the targets of the October 
 In December, Harris, along with Republican Senator Tim Scott and Democratic Senator Cory Booker, led the passage by unanimous consent of the Justice for Victims of Lynching Act, legislation that criminalized lynching for the first time in American history.
 On March 22, Harris called for U.S. Attorney General Bill Barr to testify before Congress about Special Counsel Robert Mueller's investigation after he submitted his report on Russian interference in the 2016 election.
 Two days later, Barr released a 4-page "summary" of the redacted Mueller Report, which was criticized as a deliberate mischaracterization of its conclusions.
-Later that month, Harris was one of twelve Democratic senators to sign a letter led by Mazie Hirono that questioned the decision of Attorney General William Barr to offer "his own conclusion that the President's conduct did not amount to obstruction of justice" and called for both the Justice Department's inspector general and the Office of Professional Responsibility to launch an investigation into whether Barr's summary of the Mueller Report and his April 18 news conference were misleading.
+Later that month, Harris was one of twelve Democratic senators to sign a letter led by Mazie Hirono that questioned the decision of Attorney General William Barr to offer "his own conclusion that the President's conduct did not amount to obstruction of justice" and called for an investigation into whether Barr's summary of the Mueller Report and his April 18 news conference were misleading.
 On May 1, 2019, Barr testified before the Senate Judiciary Committee one day after it was reported that Special Counsel Robert Mueller told Barr his 4-page summary of the Mueller Report failed to "fully capture the findings."
 During the hearing, Barr remained defiant about the misrepresentations in the four-page summary he released ahead of the full report.
 First, Harris asked whether Barr had reviewed the underlying evidence before deciding not to charge the President with obstruction of justice, to which Barr admitted that neither he, Rod Rosenstein, nor anyone in his office reviewed the evidence supporting the report before making the charging decision.
