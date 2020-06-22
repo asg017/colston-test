@@ -21,7 +21,6 @@
 ### LGBTQ rights
 ## Consumer protection
 ### Fraud, waste, and abuse
-### Predatory practices
 ### Privacy rights
 ## Public safety
 ### Environmental protection
