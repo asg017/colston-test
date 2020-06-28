@@ -2,6 +2,7 @@
 {{pp-semi-blp|small=yes}}
 {{Use American English|date=January 2019}}
 {{Use mdy dates|date=June 2020}}
+{{Lead too short|date=June 2020|reason=}}
 {{Infobox officeholder
 | name = Kamala Harris
 | image = Senator Harris official senate portrait.jpg
