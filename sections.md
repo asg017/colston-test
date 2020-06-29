@@ -4,7 +4,7 @@
 # Death
 # Philanthropic works
 # Memorials
-## Modern reappraisal
 ## City-centre memorial statue
+## Modern reappraisal
 # See also
 # References
