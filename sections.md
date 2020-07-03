@@ -1,8 +1,8 @@
 # 
 # Early life and education
-# Early career (1990–2003)
+# Early career (1990–2004)
 ## 2003 Campaign for District Attorney
-# District Attorney of San Francisco (2004–2010)
+# District Attorney of San Francisco (2004–2011)
 ## Public safety
 ### Felony conviction rate
 ### Non-violent crimes
@@ -11,7 +11,7 @@
 ### Recidivism and re-entry initiative
 ### Refusal to seek the death penalty
 ### Truancy initiative
-# Attorney General of California (2010–2016)
+# Attorney General of California (2011–2017)
 ## 2010 election
 ## 2014 election
 ## Civil rights
