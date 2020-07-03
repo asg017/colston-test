@@ -1,6 +1,5 @@
 # 
 # Early life and education
-# Controversy over Wikipedia page edits
 # Early career (1990–2004)
 ## 2003 Campaign for District Attorney
 # District Attorney of San Francisco (2004–2011)
