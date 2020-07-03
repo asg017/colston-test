@@ -1,4 +1,3 @@
-{{pp-protected|small=yes}}
 {{short description|British merchant, politician, philanthropist and slave trader}}
 {{Other people|Edward Colston}}
 {{Use British English|date=November 2017}}
@@ -93,9 +92,6 @@ Although it is unknown how much Colston gave to charity, his name permeates Bris
 [[David Hughson]], writing in 1808, described Colston as "the great benefactor of the city of Bristol, who, in his lifetime, expended more than 70,000L. [£] in charitable institutions".<ref name="hughson">{{cite book |last=Hughson |first=David |title=London; Being An Accurate History And Description of the British Metropolis And Its Neighbourhood, To Thirty Miles Extent, From An Actual Perambulation |chapter-url=https://books.google.com/books?id=_g8wAAAAYAAJ&pg=PA386 |volume=V |year=1808 |publisher=J Stratford |location=Holborn Hill, London |page=386 |chapter=Circuit of London}}</ref>
 
 ==Memorials==
-{{Cleanup rewrite|2=section|date=June 2020}}
-
-
 [[File:Colston&#039;s Monument, Bristol.jpg|thumb|upright|Engraving of Colston&#039;s monument in [[All Saints' Church, Bristol]] from  ''Bristol Past and Present'' (1882)]]
 Buildings in Bristol named in memory of Colston include the [[Colston Tower]] and [[Colston Hall]]. Colston Avenue and Colston Street are also named after him, as is a regional bread bun, the [[Colston bun]].<ref name=ODNB_morgan /><ref>{{cite book |last=Davidson |first=Alan |title=The Oxford Companion to Food |year=1999 |publisher=Oxford University Press |isbn=978-0-19-211579-9 |page=[https://archive.org/details/oxfordcompaniont00davi_0/page/114 114] |url-access=registration |url=https://archive.org/details/oxfordcompaniont00davi_0/page/114}}</ref> A statue of Colston is on the exterior of [[Bristol Guildhall]], built 1843–46.<ref>{{NHLE |desc=Guildhall, City of Bristol |num=1282368 |accessdate=26 August 2019}}</ref> There is a 1870 stained-glass window by [[Clayton and Bell]] to his memory in the north transept of [[St Mary Redcliffe]].<ref name=cobb>{{cite journal |last1=Cobb |first1=Peter G. |title=The Stained Glass of St. Mary Redcliffe, Bristol |journal=Transactions of the Bristol and Gloucestershire Archaeological Society |year=1994 |volume=112 |page=150 |url=http://www2.glos.ac.uk/bgas/tbgas/v112/bg112143.pdf}}</ref> A window in [[Bristol Cathedral]] was dedicated to Colston's memory; the Cathedral announced in June 2020 that they will remove the window.<ref>{{cite web |url=https://bristol-cathedral.co.uk/news/a-statement-on-colston-windows |title=A Statement on Colston Windows |work=Bristol Cathedral |date=16 June 2020 |accessdate=27 June 2020 }}</ref>
 
