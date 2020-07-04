@@ -34,6 +34,7 @@
 ## 2018
 ## 2019
 ## 2020
+## Attendance Record
 ## Committee assignments
 ## Caucus memberships
 # 2020 presidential campaign
