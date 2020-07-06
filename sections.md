@@ -36,6 +36,7 @@
 ## Committee assignments
 ## Caucus memberships
 # 2020 presidential campaign
+## Speculation as Joe Biden's running mate
 # Political positions
 ## Abortion
 ## Campaign finance
