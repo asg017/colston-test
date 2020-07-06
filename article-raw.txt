@@ -401,7 +401,6 @@ Harris has written two non-fiction books and one children's book.<ref>{{Cite web
 * {{C-SPAN|kamalaharris}}
 * {{CongLinks | congbio = H001075 | fec = S6CA00584 | votesmart = 120012 | congress = kamala-harris/H001075 }}
 * {{worldcat id|lccn-n2009-45056|Kamala D. Harris}}
-* {{twitter|KamalaHarris}}
 
 {{s-start}}
 {{s-legal}}
