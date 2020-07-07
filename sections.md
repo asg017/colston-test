@@ -15,10 +15,6 @@
 ## 2010 election
 ## 2014 election
 ## Significant cases and policies
-### Mobile-app user privacy
-### Bureau of Children's Justice
-### Oil and gas companies
-### Backpage cases
 ### Supreme Court and U.S. Attorney General speculation
 ## Civil rights
 ### Children's rights
