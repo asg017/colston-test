@@ -15,11 +15,7 @@
 ## 2010 election
 ## 2014 election
 ## Significant cases and policies
-### Housing
-### Prison conditions and sentencing reform
-### Prosecuting financial crimes
 ### Mobile-app user privacy
-### Michelle-Lael Norsworthy case
 ### Bureau of Children's Justice
 ### Oil and gas companies
 ### Backpage cases
