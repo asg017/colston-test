@@ -1,7 +1,8 @@
 {{short description|United States Senator from California}}
 {{pp-semi-blp|small=yes}}
 {{Use American English|date=January 2019}}
-{{Use mdy dates|date=June 2020}}{{POV|date=July 2020}}
+{{Use mdy dates|date=June 2020}}
+{{POV|date=July 2020}}
 {{Infobox officeholder
 | name = Kamala Harris
 | image = Senator Harris official senate portrait.jpg
