@@ -15,8 +15,6 @@
 ## 2010 election
 ## 2014 election
 ## Significant cases and policies
-### Supreme Court and U.S. Attorney General speculation
-## Civil rights
 ### Children's rights
 ### Criminal justice reform
 ### Law enforcement accountability
