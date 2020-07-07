@@ -21,9 +21,7 @@
 ### Mobile-app user privacy
 ### Michelle-Lael Norsworthy case
 ### Bureau of Children's Justice
-### County prosecutors' misconduct
 ### Oil and gas companies
-### Mitrice Richardson case
 ### Backpage cases
 ### Supreme Court and U.S. Attorney General speculation
 ## Civil rights
