@@ -14,6 +14,18 @@
 # Attorney General of California (2011–2017)
 ## 2010 election
 ## 2014 election
+## Significant cases and policies
+### Housing
+### Prison conditions and sentencing reform
+### Prosecuting financial crimes
+### Mobile-app user privacy
+### Michelle-Lael Norsworthy case
+### Bureau of Children's Justice
+### County prosecutors' misconduct
+### Oil and gas companies
+### Mitrice Richardson case
+### Backpage cases
+### Supreme Court and U.S. Attorney General speculation
 ## Civil rights
 ### Children's rights
 ### Criminal justice reform
