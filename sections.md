@@ -9,7 +9,7 @@
 ### Violent crimes
 ## Reform efforts
 ### Recidivism and re-entry initiative
-### Refusal to seek the death penalty
+### Death penalty
 ### Truancy initiative
 # Attorney General of California (2011–2017)
 ## 2010 election
