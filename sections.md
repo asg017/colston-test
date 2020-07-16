@@ -16,9 +16,12 @@
 ## 2014 election
 ## Significant cases and policies
 ### Children's rights
-### Criminal justice reform
 ### Law enforcement accountability
 ### LGBTQ rights
+## Criminal justice reform
+### Launch of Division of Recidivism Reduction and Re-Entry
+### Sentencing and prison inmate retention
+### Death penalty
 ## Consumer protection
 ### Fraud, waste, and abuse
 ### Privacy rights
