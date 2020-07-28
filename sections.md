@@ -15,7 +15,7 @@
 ## 2010 election
 ## 2014 election
 ## Significant cases and policies
-### Children's rights
+### Anti-truancy efforts
 ### Law enforcement accountability
 ### LGBTQ rights
 ## Criminal justice reform
