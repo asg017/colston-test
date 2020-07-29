@@ -44,6 +44,8 @@
 # Political positions
 # Electoral history
 # Awards and honors
+# Scholastic
+## Honorary degrees
 # Personal life
 # Publications
 # See also
