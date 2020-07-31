@@ -1,5 +1,4 @@
 # 
-# 2020 Political Context
 # Early life and education
 # Early career (1990–2004)
 ## 2003 Campaign for District Attorney
