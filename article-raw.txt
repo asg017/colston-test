@@ -384,9 +384,12 @@ In 2010, California's largest legal newspaper ''[[The Daily Journal Corporation|
 
 ;Honorary degrees
 
-{| class=wikitable
-|-
-!  style="background:#f5f5f5; width:20%;"| <span style="color:dimGrey;">Location</span> !!  style="background:#f5f5f5; width:20%;"| <span style="color:dimGrey;">Date</span> !!  style="background:#f5f5f5; width:40%;"| <span style="color:dimGrey;">School</span> !!  style="background:#f5f5f5; width:20%;"| <span style="color:dimGrey;">Degree</span>!!  style="background:#f5f5f5; width:20%;"| <span style="color:dimGrey;">Gave Commencement Address</span>
+{| class="wikitable"
+! style="width:20%;"| Location
+! style="width:20%;"| Date
+! style="width:40%;"| School
+! style="width:20%;"| Degree
+! style="width:20%;"| Gave Commencement Address
 |-
 | {{Flagu|California}} || May 15, 2015 || [[University of Southern California]] || [[Doctor of Laws]] (LL.D) <ref>{{Cite web |url=https://commencement.usc.edu/history/2000-to-present/ | title=Speakers, Honorary Degree Recipients: 2000 to present &#124; USC}}.</ref> <ref>https://honorarydegrees.usc.edu/past-recipients/</ref> || No <ref>https://about.usc.edu/history/commencement/</ref>
 |-
