@@ -444,7 +444,7 @@ Harris has written two non-fiction books and one children's book.<ref>{{Cite web
 {{s-inc|rows=2|recent}}
 |-
 {{s-bef|before=[[Tim Kaine]]}}
-{{s-ttl|title=[[Democratic Party (United States)|Democratic]] [[List of United States Democratic Party presidential tickets|nominee]] for [[Vice President of the United States]]|years=[[2020 United States presidential election|2020]]}}
+{{s-ttl|title=[[Democratic Party (United States)|Democratic]] [[List of United States Democratic Party presidential tickets|nominee]] for [[Vice President of the United States]]<br>Presumptive|years=[[2020 United States presidential election|2020]]}}
 |-
 {{s-par|us-sen}}
 {{s-bef|before=[[Barbara Boxer]]}}
