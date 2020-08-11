@@ -40,7 +40,7 @@
 ## Committee assignments
 ## Caucus memberships
 # 2020 presidential campaign
-## Joe Biden's running mate
+# 2020 vice presidential campaign
 # Political positions
 # Electoral history
 # Awards and honors
