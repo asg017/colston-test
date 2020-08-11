@@ -1,7 +1,7 @@
 {{pp-move-indef}}
 {{pp-vandalism|small=yes}}
-{{current person}}
 {{About-distinguish2|the American politician|the professional wrestler [[Kamala (wrestler)|James "Kamala" Harris]]}}
+{{current person}}
 {{short description|United States Senator from California}}
 {{pp-semi-blp|small=yes}}
 {{Use American English|date=July 2020}}
