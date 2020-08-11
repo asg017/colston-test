@@ -1,3 +1,4 @@
+{{current person}}
 {{About-distinguish2|the American politician|the wrestler [[Kamala (wrestler)|James "Kamala" Harris]]}}
 {{short description|United States Senator from California}}
 {{pp-semi-blp|small=yes}}
