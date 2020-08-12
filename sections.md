@@ -17,7 +17,6 @@
 ## Significant cases and policies
 ### Anti-truancy efforts
 ### Law enforcement accountability
-### LGBTQ rights
 ## Criminal justice reform
 ### Launch of Division of Recidivism Reduction and Re-Entry
 ### Sentencing and prison inmate retention
@@ -25,6 +24,9 @@
 ## Consumer protection
 ### Fraud, waste, and abuse
 ### Privacy rights
+## LGBTQ rights
+### Opposing Prop 8
+### Michelle-Lael B. Norsworthy v. Jeffrey Beard et. al.
 ## Public safety
 ### Environmental protection
 ### Law enforcement
