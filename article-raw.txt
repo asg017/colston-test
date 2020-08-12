@@ -412,6 +412,7 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 * [https://kamalaharris.org/ Campaign website]
 * {{Curlie|Regional/North_America/United_States/California/Government/Federal/US_Senate/Kamala_Harris_%5BD%5D }}
 * {{C-SPAN|kamalaharris}}
+* {{IMDb name}}
 * {{CongLinks | fec = S6CA00584 | votesmart = 120012 | congress = kamala-harris/H001075 }}
 * [https://www.politifact.com/personalities/kamala-harris/ Kamala Harris] at [[PolitiFact]]
 
