@@ -414,36 +414,41 @@ Harris has written two non-fiction books and one children's book.<ref>{{Cite web
 * {{CongLinks | fec = S6CA00584 | votesmart = 120012 | congress = kamala-harris/H001075 }}
 * [https://www.politifact.com/personalities/kamala-harris/ Kamala Harris] at [[PolitiFact]]
 
+{{Kamala Harris}}
+{{United States presidential election, 2020}}
+{{Navboxes
+|title=Offices and distinctions
+|list1=
 {{s-start}}
 {{s-legal}}
 {{s-bef|before=[[Terence Hallinan]]}}
 {{s-ttl|title=[[San Francisco District Attorney's Office|District Attorney of San Francisco]]|years=2004–2011}}
 {{s-aft|after=[[George Gascón]]}}
-|-
+{{s-break}}
 {{s-bef|before=[[Jerry Brown]]}}
 {{s-ttl|title=[[California Attorney General|Attorney General of California]]|years=2011–2017}}
 {{s-aft|after=[[Kathleen Kenealy]]<br />Acting}}
-|-
+{{s-break}}
 {{s-ppo}}
 {{s-bef|before=[[Barbara Boxer]]}}
 {{s-ttl|title=[[Democratic Party (United States)|Democratic]] nominee for [[List of United States Senators from California|U.S. Senator]] from [[California]]<br />([[Classes of United States Senators|Class 3]])|years=[[United States Senate election in California, 2016|2016]]}}
 {{s-inc|rows=2|recent}}
-|-
+{{s-break}}
 {{s-bef|before=[[Tim Kaine]]}}
 {{s-ttl|title=[[Democratic Party (United States)|Democratic]] [[List of United States Democratic Party presidential tickets|nominee]] for [[Vice President of the United States]]<br>Presumptive|years=[[2020 United States presidential election|2020]]}}
-|-
+{{s-break}}
 {{s-par|us-sen}}
 {{s-bef|before=[[Barbara Boxer]]}}
 {{s-ttl|title=[[List of United States Senators from California|U.S. Senator (Class 3) from California]]|years=2017–present|alongside=[[Dianne Feinstein]]}}
 {{s-inc}}
-|-
+{{s-break}}
 {{s-prec|usa}}
 {{s-bef|before=[[Maggie Hassan]]}}
 {{s-ttl|title=[[Seniority in the United States Senate|United States Senators by seniority]]|years=86th}}
 {{s-aft|after=[[John Kennedy (Louisiana politician)|John N. Kennedy]]}}
 {{s-end}}
+}}
 
-{{United States presidential election, 2020}}
 {{CA-FedRep}}
 {{Current U.S. Senators}}
 {{USSenCA}}
