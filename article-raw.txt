@@ -448,7 +448,9 @@ Harris has written two non-fiction books and one children's book.<ref>{{Cite web
 {{s-aft|after=[[John Kennedy (Louisiana politician)|John N. Kennedy]]}}
 {{s-end}}
 }}
-
+{{Navboxes
+|title= Articles related to Kamala Harriss
+|list1=
 {{CA-FedRep}}
 {{Current U.S. Senators}}
 {{USSenCA}}
@@ -458,7 +460,7 @@ Harris has written two non-fiction books and one children's book.<ref>{{Cite web
 {{USCongRep/CA/116}}
 {{USCongRep-end}}
 {{Attorneys General of California}}
-
+}}
 {{Portal bar|Biography|California|United States|Politics}}
 {{Authority control}}
 
