@@ -1,7 +1,6 @@
 {{pp-move-indef}}
 {{pp-vandalism|small=yes}}
 {{short description|United States Senator from California}}
-{{current person}}
 {{pp-semi-blp|small=yes}}
 {{Use American English|date=July 2020}}
 {{Use mdy dates|date=June 2020}}
