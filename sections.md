@@ -27,7 +27,7 @@
 ### Privacy rights
 ## Public safety
 ### Environmental protection
-### Law enforcement improvements
+### Law enforcement
 ### Sex crimes
 ### Transnational criminal organizations
 ## Obama appointment speculation
