@@ -30,7 +30,7 @@
 | successor2          = [[George Gascón]]
 | birth_name          = Kamala Devi Harris
 | birth_date          = {{birth date and age|1964|10|20}}
-| birth_place         = [[Oakland, California|Oakland]], [[California]], [[United States]]
+| birth_place         = [[Oakland, California]], U.S.
 | death_date          = 
 | death_place         = 
 | party               = [[Democratic Party (United States)|Democratic]]
