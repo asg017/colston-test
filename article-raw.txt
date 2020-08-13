@@ -1,5 +1,5 @@
-{{Use mdy dates|date=June 2020}}
-{{draft article}}
+{{Use mdy dates|date=August 2020}}
+{{shortdescription|American politician and businesswoman}}
 {{Infobox politician
 | name = Marjorie Greene<!--
 | state = Georgia
