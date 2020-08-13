@@ -36,7 +36,7 @@
 | party               = [[Democratic Party (United States)|Democratic]]
 | spouse              = {{marriage|[[Douglas Emhoff]]|August 22, 2014}}
 | parents             = [[Donald J. Harris]]<br>[[Shyamala Gopalan]]
-| relatives           = [[Maya Harris]] (sister)<br>[[Meena Harris]] (niece)<br>[[P.V. Gopalan]] (grandfather)
+| relatives           = [[Maya Harris]] (sister)<br>[[Meena Harris]] (niece)<br>[[P. V. Gopalan]] (grandfather)
 | education           = [[Howard University]] ([[Bachelor of Arts|BA]])<br />[[University of California, Hastings]] ([[Juris Doctor|JD]])
 | website             = {{URL|kamalaharris.org|Campaign website}}
 | signature           = Kamala Harris Signature.svg
