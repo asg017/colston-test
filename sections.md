@@ -41,7 +41,8 @@
 ## 2020
 ## Committee assignments
 ## Caucus memberships
-# 2020 presidential campaign
+# 2020 presidential election
+## Presidential campaign
 # 2020 vice presidential campaign
 # Political positions
 # Electoral history
