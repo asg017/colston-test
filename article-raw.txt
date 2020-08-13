@@ -7,16 +7,16 @@
 {{Infobox officeholder
 | name                = Kamala Harris
 | image               = Senator Harris official senate portrait.jpg
-| image_upright = 0.8
+| image_upright       = 0.8
 | caption             = Harris in 2017
 | alt                 = Harris smiling in a pantsuit
 | jr/sr               = United States Senator
 | state               = [[California]]
 | alongside           = [[Dianne Feinstein]]
 | term_start          = January 3, 2017
-| term_end            =
+| term_end            = 
 | predecessor         = [[Barbara Boxer]]
-| successor           =
+| successor           = 
 | office1             = 32nd [[Attorney General of California]]
 | governor1           = [[Jerry Brown]]
 | term_start1         = January 3, 2011
@@ -31,8 +31,8 @@
 | birth_name          = Kamala Devi Harris
 | birth_date          = {{birth date and age|1964|10|20}}
 | birth_place         = [[Oakland, California|Oakland]], [[California]], [[United States]]
-| death_date          =
-| death_place         =
+| death_date          = 
+| death_place         = 
 | party               = [[Democratic Party (United States)|Democratic]]
 | spouse              = {{marriage|[[Douglas Emhoff]]|August 22, 2014}}
 | parents             = [[Donald J. Harris]]<br>[[Shyamala Gopalan]]
@@ -40,6 +40,7 @@
 | education           = [[Howard University]] ([[Bachelor of Arts|BA]])<br />[[University of California, Hastings]] ([[Juris Doctor|JD]])
 | website             = {{URL|kamalaharris.org|Campaign website}}
 | signature           = Kamala Harris Signature.svg
+| children            = 2 stepchildren
 }}
 {{Kamala Harris series}}
 '''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}} {{respell|KAH|mə|lə}};<ref>{{cite journal|quote='It's "COMMA-la",' Ms. Harris said with a laugh. 'Just think of "calm". At least I try to be most of the time.'|first=Ken|last=Thomas|title=You Say 'Ka-MILLA;' I Say 'KUH-ma-la.' Both Are Wrong|journal=[[The Wall Street Journal]]|date=February 15, 2013|page=1}}</ref><ref>{{cite news |title=Tucker Carlson doesn't pronounce Kamala Harris's name correctly, and doesn't seem to care |url=https://nationalpost.com/news/world/tucker-carlson-doesnt-pronounce-kamala-harriss-name-correctly-and-doesnt-seem-to-care |accessdate=Aug 12, 2020 |work=National Post |date=Aug 12, 2020 |quote=The correct pronunciation, however, is 'Comma-la,' with the first syllable instead being emphasized, and the first part of her name sounding like the word 'comma.'}}</ref> born October 20, 1964)<ref name=":0">{{congbio| id=H001075|accessdate=May 20, 2020|inline=YES}}</ref> is an American politician and lawyer who has served as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States senator]] from [[California]] since 2017. She is the [[2020 Democratic Party vice presidential candidate selection|Democratic Party's presumptive nominee]] for [[Vice President of the United States|vice president]] in the [[2020 United States presidential election|2020 election]].
