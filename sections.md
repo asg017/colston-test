@@ -24,7 +24,7 @@
 ## Consumer protection
 ### Fraud, waste, and abuse
 ### Privacy rights
-## LGBTQ rights
+## LGBT rights
 ### Opposing Prop 8
 ### Michelle-Lael B. Norsworthy v. Jeffrey Beard et. al.
 ## Public safety
