@@ -10,7 +10,7 @@
 | name                = Kamala Harris
 | image               = Senator Harris official senate portrait.jpg
 | caption             = Harris in 2017
-| alt                 = Harris smiling in a pantsuit
+| alt                 =
 | jr/sr               = United States Senator
 | state               = [[California]]
 | alongside           = [[Dianne Feinstein]]
