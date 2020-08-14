@@ -43,7 +43,7 @@
 ## Caucus memberships
 # 2020 presidential election
 ## Presidential campaign
-## Vice presidential campaign
+## Vice Presidential campaign
 # Political positions
 # Electoral history
 # Awards and honors
