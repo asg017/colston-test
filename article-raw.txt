@@ -1,9 +1,6 @@
 {{for|the wrestler James "Kamala" Harris|Kamala (wrestler)}}
 {{pp-30-500|small=yes}}
-{{pp-move-indef}}
-{{pp-vandalism|small=yes}}
 {{short description|United States Senator from California and presumptive vice-presidential nominee}}
-{{pp-semi-blp|small=yes}}
 {{Use American English|date=July 2020}}
 {{Use mdy dates|date=June 2020}}
 {{Infobox officeholder
