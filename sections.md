@@ -32,7 +32,6 @@
 ### Law enforcement
 ### Sex crimes
 ### Transnational criminal organizations
-## Obama appointment speculation
 # U.S. Senate (2017–present)
 ## 2016 election
 ## 2017
