@@ -5,7 +5,7 @@
 {{Infobox officeholder
 | name                = Kamala Harris
 | image               = Senator Harris official senate portrait.jpg
-| image_upright       = 
+| image_upright       = 0.8
 | caption             = Harris in 2017
 | alt                 =
 | jr/sr               = United States Senator
