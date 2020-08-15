@@ -206,7 +206,7 @@ In February 2012, Harris announced an agreement with Apple, Amazon, Google, Hewl
 and with whom.
 Facebook later joined the agreement.
 That summer, Harris announced the creation of a Privacy Enforcement and Protection Unit to enforce laws related to cyber privacy, identity theft, and data breaches.
-Later the same year, Harris notified 100 mobile-app developer of their non-compliance with state privacy laws and asked them to create privacy policies or face a $2500 fine each time a non-compliant app is downloaded by a resident of California.
+Later the same year, Harris notified 100 mobile-app developers of their non-compliance with state privacy laws and asked them to create privacy policies or face a $2500 fine each time a non-compliant app is downloaded by a resident of California.
 In 2015, Harris secured two settlements with Comcast, one totaling $33 million over allegations that posted online the names, phone numbers and addresses of tens of thousands of customers who had paid for unlisted voice over internet protocol ("VOIP") phone service and another $26 million settlement to resolve allegations that it discarded paper records without first omitting or redacting private customer information.
 Harris also settled with Houzz over allegations the company recorded phone calls without notifying customers or employees.
 Houzz was forced to pay $175,000, destroy the recorded calls, and hire a chief privacy officer, the first time such a provision has been included in a settlement with the California Department of Justice.
