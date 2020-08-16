@@ -228,7 +228,10 @@ The next day Harris delivered a speech in downtown Los Angeles urging the Ninth 
 The stay was lifted two days later.
 In February 2014, Michelle-Lael Norsworthy, a transgender inmate at California's Mule Creek State Prison, filed a federal lawsuit based on the California Department of Corrections and Rehabilitation's failure to provide her with what she argued was medically necessary sex reassignment surgery (SRS).
 In April 2015, a federal judge ordered the state to provide Norsworthy with SRS, finding that prison officials had been "deliberately indifferent to her serious medical need."
-Harris, representing CDCR, appealed the order to the Ninth Circuit Court of Appeals, arguing that psychotherapy, as well as hormone therapy that Norsworthy had been received for her gender dysphoria for the preceding fourteen years, were sufficient medical treatment, and that there was "no evidence that Norsworthy is in serious, immediate physical or emotional danger."
+Harris, representing CDCR, appealed the order to the Ninth Circuit Court of Appeals,
+arguing that psychotherapy,
+as well as hormone therapy that Norsworthy had been received for her gender dysphoria for the preceding fourteen years, were sufficient medical treatment,
+and that there was "no evidence that Norsworthy is in serious, immediate physical or emotional danger."
 While Harris defended the state's position in court, she stated that she ultimately pushed the California Department of Corrections and Rehabilitation to change their policy.
 In August 2015, while the state's appeal was pending, Norsworthy was released on parole, obviating the state's duty to provide her with inmate medical care
 and rendering the case moot.
