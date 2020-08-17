@@ -4,8 +4,7 @@
 {{Use mdy dates|date=August 2020}}
 {{Infobox officeholder
 | name                = Kamala Harris
-| image               = Senator Harris official senate portrait.jpg
-| image_upright       = 0.85
+| image               = Kamala Harris official photo (cropped2).jpg
 | caption             = Harris in 2017
 | alt                 =
 | jr/sr               = United States Senator
