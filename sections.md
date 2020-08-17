@@ -7,8 +7,8 @@
 ### Non-violent crimes
 ### Violent crimes
 ## Reform efforts
-### Recidivism and re-entry initiative
 ### Death penalty
+### Recidivism and re-entry initiative
 ### Truancy initiative
 # Attorney General of California (2011–2017)
 ## Elections
