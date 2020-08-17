@@ -14,9 +14,6 @@
 ## Elections
 ### 2010
 ### 2014
-## Significant cases and policies
-### Anti-truancy efforts
-### Law enforcement accountability
 ## Criminal justice reform
 ### Launch of Division of Recidivism Reduction and Re-Entry
 ### Sentencing and prison inmate retention
@@ -28,6 +25,7 @@
 ### Opposing Prop 8
 ### Michelle-Lael B. Norsworthy v. Jeffrey Beard et. al.
 ## Public safety
+### Anti-truancy efforts
 ### Environmental protection
 ### Law enforcement
 ### Sex crimes
