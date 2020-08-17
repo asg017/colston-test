@@ -14,13 +14,13 @@
 ## Elections
 ### 2010
 ### 2014
+## Consumer protection
+### Fraud, waste, and abuse
+### Privacy rights
 ## Criminal justice reform
 ### Launch of Division of Recidivism Reduction and Re-Entry
 ### Sentencing and prison inmate retention
 ### Death penalty
-## Consumer protection
-### Fraud, waste, and abuse
-### Privacy rights
 ## LGBT rights
 ### Opposing Prop 8
 ### Michelle-Lael B. Norsworthy v. Jeffrey Beard et. al.

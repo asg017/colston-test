@@ -140,23 +140,6 @@ The Sacramento Bee,
 Los Angeles Daily News,
 and Los Angeles Times endorsed her for re-election.
 On November 4, 2014, Harris was re-elected against Republican Ronald Gold, winning 57.5 percent of the vote to 42.5 percent.
-In November 2013, Harris launched the California Department of Justice's Division of Recidivism Reduction and Re-Entry in partnership with district attorney offices in San Diego, Los Angeles, and Alameda County.
-In March 2015, Harris announced the creation of a pilot program in coordination with the Los Angeles County Sheriff's Department called "Back on Track LA".
-Like Back on Track, first time, nonviolent offenders between 18 and 30 individuals participated in the pilot program for 24–30 months.
-Assigned a case manager, participants received education through a partnership with the Los Angeles Community College District and job training services.
-After the 2011 United States Supreme Court in Brown v. Plata declared California's prisons so overcrowded that they inflicted cruel and unusual punishment, Harris fought federal court supervision, explaining "I have a client, and I don't get to choose my client."
-Harris's record on wrongful conviction cases as attorney general has engendered some criticism from academics and activists.
-Law professor Lara Bazelon contends Harris "weaponized technicalities to keep wrongfully convicted people behind bars rather than allow them new trials."
-Harris declined to take any position on criminal sentencing-reform initiatives Proposition 36 (2012) and Proposition 47 (2014), arguing it would be improper because her office prepares the ballot booklets.
-John Van de Kamp, a predecessor as attorney general, publicly disagreed with the rationale.
-In September 2014, attorneys for Harris argued unsuccessfully in a court filing against the early release of prisoners, citing the need for inmate firefighting labor.
-When the memo provoked headlines, Harris spoke out against the memo.
-She said that she was unaware of it, and the attorneys had produced the memo without her knowledge.
-Since the 1940s, qualified California inmates have the option of volunteering to receive comprehensive training from the California Department of Forestry and Fire Protection in exchange for sentence reductions and more comfortable prison accommodations; prison firefighters receive about $2 a day, and another $1 when battling fires.
-In 2014, Judge Cormac J. Carney vacated the death sentence of convicted rapist and murderer Ernest Dewayne Jones, declaring capital punishment in California unconstitutional on the basis of the Eighth Amendment's prohibition on cruel and unusual punishment because "systemic delay and dysfunction" rendered the process arbitrary.
-Harris appealed, contending Carney failed to abide by the highly-circumscribed habeas corpus procedure set forth in the binding Supreme Court precedent of Teague v. Lane prohibiting federal courts from announcing a new rule of constitutional law in habeas cases.
-In an op-ed for The San Francisco Chronicle, legal and political scholar Mugambi Jouet criticized the appeal as a defense of the death penalty.
-The 9th Circuit Court of Appeals sided with Harris when it unanimously overturned Carney's order.
 In 2011, Harris announced the creation of the Mortgage Fraud Strike Force in the wake of the 2010 United States foreclosure crisis.
 That same year, Harris obtained two of the largest recoveries in the history of California's False Claims Act – $241 million from Quest Diagnostics and then $323 million from the SCAN healthcare network – over excess state Medi-Cal and federal Medicare payments.
 In 2012, Harris leveraged California's economic clout to obtain better terms in the National Mortgage Settlement against the nation's five largest mortgage servicers – JPMorgan Chase, Bank of America, Wells Fargo, Citigroup and Ally Bank.
@@ -190,6 +173,23 @@ Later the same year, Harris notified 100 mobile-app developers of their non-comp
 In 2015, Harris secured two settlements with Comcast, one totaling $33 million over allegations that posted online the names, phone numbers and addresses of tens of thousands of customers who had paid for unlisted voice over internet protocol ("VOIP") phone service and another $26 million settlement to resolve allegations that it discarded paper records without first omitting or redacting private customer information.
 Harris also settled with Houzz over allegations the company recorded phone calls without notifying customers or employees.
 Houzz was forced to pay $175,000, destroy the recorded calls, and hire a chief privacy officer, the first time such a provision has been included in a settlement with the California Department of Justice.
+In November 2013, Harris launched the California Department of Justice's Division of Recidivism Reduction and Re-Entry in partnership with district attorney offices in San Diego, Los Angeles, and Alameda County.
+In March 2015, Harris announced the creation of a pilot program in coordination with the Los Angeles County Sheriff's Department called "Back on Track LA".
+Like Back on Track, first time, nonviolent offenders between 18 and 30 individuals participated in the pilot program for 24–30 months.
+Assigned a case manager, participants received education through a partnership with the Los Angeles Community College District and job training services.
+After the 2011 United States Supreme Court in Brown v. Plata declared California's prisons so overcrowded that they inflicted cruel and unusual punishment, Harris fought federal court supervision, explaining "I have a client, and I don't get to choose my client."
+Harris's record on wrongful conviction cases as attorney general has engendered some criticism from academics and activists.
+Law professor Lara Bazelon contends Harris "weaponized technicalities to keep wrongfully convicted people behind bars rather than allow them new trials."
+Harris declined to take any position on criminal sentencing-reform initiatives Proposition 36 (2012) and Proposition 47 (2014), arguing it would be improper because her office prepares the ballot booklets.
+John Van de Kamp, a predecessor as attorney general, publicly disagreed with the rationale.
+In September 2014, attorneys for Harris argued unsuccessfully in a court filing against the early release of prisoners, citing the need for inmate firefighting labor.
+When the memo provoked headlines, Harris spoke out against the memo.
+She said that she was unaware of it, and the attorneys had produced the memo without her knowledge.
+Since the 1940s, qualified California inmates have the option of volunteering to receive comprehensive training from the California Department of Forestry and Fire Protection in exchange for sentence reductions and more comfortable prison accommodations; prison firefighters receive about $2 a day, and another $1 when battling fires.
+In 2014, Judge Cormac J. Carney vacated the death sentence of convicted rapist and murderer Ernest Dewayne Jones, declaring capital punishment in California unconstitutional on the basis of the Eighth Amendment's prohibition on cruel and unusual punishment because "systemic delay and dysfunction" rendered the process arbitrary.
+Harris appealed, contending Carney failed to abide by the highly-circumscribed habeas corpus procedure set forth in the binding Supreme Court precedent of Teague v. Lane prohibiting federal courts from announcing a new rule of constitutional law in habeas cases.
+In an op-ed for The San Francisco Chronicle, legal and political scholar Mugambi Jouet criticized the appeal as a defense of the death penalty.
+The 9th Circuit Court of Appeals sided with Harris when it unanimously overturned Carney's order.
 In 2008, California voters passed Prop 8, a California ballot proposition and state constitutional amendment providing that "only marriage between a man and a woman is valid or recognized in California".
 Legal challenges to Prop 8 were made by opponents soon after its approval, and a pair of same-sex couples filed a lawsuit against the initiative in federal court in the case of Perry v. Schwarzenegger (later Hollingsworth v. Perry).
 In their 2010 campaigns, California attorney general Jerry Brown and Harris both pledged not to defend the proposition against legal challenge.
