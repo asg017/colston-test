@@ -1,7 +1,6 @@
 # 
 # Early life and education
 # Early career (1990–2004)
-## 2003 campaign for District Attorney
 # District Attorney of San Francisco (2004–2011)
 ## Public safety
 ### Felony conviction rate
