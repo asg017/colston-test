@@ -33,11 +33,12 @@
 ### Sex crimes
 ### Transnational criminal organizations
 # U.S. Senate (2017–present)
-## 2016 election
-## 2017
-## 2018
-## 2019
-## 2020
+## Election
+## Tenure
+### 2017
+### 2018
+### 2019
+### 2020
 ## Committee assignments
 ## Caucus memberships
 # 2020 presidential election
