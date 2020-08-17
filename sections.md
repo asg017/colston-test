@@ -12,8 +12,9 @@
 ### Death penalty
 ### Truancy initiative
 # Attorney General of California (2011–2017)
-## 2010 election
-## 2014 election
+## Elections
+### 2010
+### 2014
 ## Significant cases and policies
 ### Anti-truancy efforts
 ### Law enforcement accountability
