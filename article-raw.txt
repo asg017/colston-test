@@ -25,7 +25,7 @@
 | term_end2           = January 3, 2011
 | predecessor2        = [[Terence Hallinan]]
 | successor2          = [[George Gascón]]
-| birth_name          = Kamala Devi Harris
+| birth_name          = Kamala Devi Harris{{efn|At birth it was Kamala Iyer Harris. It was corrected two weeks later.<ref>{{cite web|url= https://www.mercurynews.com/2020/08/18/heres-kamala-harris-birth-certificate-end-of-debate/|title= Here’s Kamala Harris’ birth certificate. Scholars say there’s no VP eligibility debate|work=The Mercury News|publisher=The MediaNews Group Inc.}}</ref>}}
 | birth_date          = {{birth date and age|1964|10|20}}
 | birth_place         = [[Oakland, California]], U.S.
 | death_date          = 
@@ -563,6 +563,7 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 
 == References ==
 {{reflist|25em}}
+{{notelist}}
 
 == External links ==
 {{Sister project links |wikt=no |b=no |d=Q10853588 |n=Category:Kamala_Harris |s=Author:Kamala_Devi_Harris|v=no}}
