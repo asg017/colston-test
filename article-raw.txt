@@ -41,7 +41,7 @@
 {{Kamala Harris series}}
 '''Kamala Devi Harris''' ({{IPAc-en|ˈ|k|ɑː|m|ə|l|ə}} {{respell|KAH|mə|lə}};<ref>{{Cite journal|last=Thomas|first=Ken|date=February 15, 2013|title=You Say 'Ka-MILLA;' I Say 'KUH-ma-la.' Both Are Wrong|journal=[[The Wall Street Journal]]|page=1}}</ref><ref>{{Cite news|date=August 12, 2020|title=Tucker Carlson doesn't pronounce Kamala Harris's name correctly, and doesn't seem to care|work=National Post|url=https://nationalpost.com/news/world/tucker-carlson-doesnt-pronounce-kamala-harriss-name-correctly-and-doesnt-seem-to-care |access-date=August 12, 2020}}</ref>
 born October 20, 1964)<ref name=":0">{{congbio| id=H001075|accessdate=May 20, 2020|inline=YES}}</ref>
-is an American politician and lawyer who has served as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States senator]] from California since 2017. She is the [[2020 Democratic Party vice presidential candidate selection|Democratic vice presidential nominee]] in the [[2020 United States presidential election|2020 election]].
+is an American politician and lawyer who has served as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States senator]] from California since 2017. She is the presumptive [[2020 Democratic Party vice presidential candidate selection|Democratic vice presidential nominee]] in the [[2020 United States presidential election|2020 election]].
 
 Born in [[Oakland, California]], Harris is a graduate of [[Howard University]] and the [[University of California, Hastings College of the Law]]. She began her career in the [[Alameda County]] District Attorney's Office, before being recruited to the [[San Francisco District Attorney's Office]] and later the [[City Attorney of San Francisco]]'s office. In 2003, she was elected [[district attorney]] of San Francisco. She was elected [[California Attorney General election, 2010|attorney general of California in 2010]], and [[California Attorney General election, 2014|re-elected in 2014]].
 
@@ -599,7 +599,7 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 {{s-inc|rows=2|recent}}
 {{s-break}}
 {{s-bef|before=[[Tim Kaine]]}}
-{{s-ttl|title=[[Democratic Party (United States)|Democratic]] [[List of United States Democratic Party presidential tickets|nominee]] for [[Vice President of the United States]]|years=[[2020 United States presidential election|2020]]}}
+{{s-ttl|title=[[Democratic Party (United States)|Democratic]] [[List of United States Democratic Party presidential tickets|nominee]] for [[Vice President of the United States]]<br />Presumptive|years=[[2020 United States presidential election|2020]]}}
 {{s-break}}
 {{s-par|us-sen}}
 {{s-bef|before=[[Barbara Boxer]]}}
