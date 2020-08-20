@@ -43,7 +43,6 @@
 ## Presidential campaign
 ## Vice presidential campaign
 # Political positions
-# Electoral history
 # Awards and honors
 # Personal life
 # Publications
