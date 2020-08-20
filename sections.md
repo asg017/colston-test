@@ -42,7 +42,6 @@
 # 2020 presidential election
 ## Presidential campaign
 ## Vice presidential campaign
-# Political positions
 # Awards and honors
 # Personal life
 # Publications
