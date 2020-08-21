@@ -23,7 +23,7 @@
 ### Death penalty
 ## LGBT rights
 ### Opposing Prop 8
-### Gay and Trans panic defense ban
+### Gay and trans panic defense ban
 ### Michelle-Lael B. Norsworthy v. Jeffrey Beard et. al.
 ## Public safety
 ### Anti-truancy efforts
