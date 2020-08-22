@@ -7,7 +7,7 @@
 | term_start =
 | succeeding =-->
 | birth_date = {{bda|1974|5|27}}
-| birth_place = [[Milledgeville, Georgia]]
+| birth_place = [[Milledgeville, Georgia]], U.S.
 | birth_name = Marjorie Taylor
 | spouse = Perry Greene
 | education = [[University of Georgia]] ([[Bachelor of Business Administration|BBA]])
