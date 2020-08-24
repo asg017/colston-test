@@ -1,4 +1,3 @@
 # 
-# Incident
 # Reactions
 # References
