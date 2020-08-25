@@ -1,6 +1,6 @@
 # 
 # Shooting
-# Investigation
+# Investigation and legal process
 # Protests
 # Reactions
 ## In Wisconsin
