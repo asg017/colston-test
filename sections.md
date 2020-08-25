@@ -1,7 +1,6 @@
 # 
 # Shooting
 # Investigation and legal process
-## Federal investigation
 # Protests
 # Reactions
 ## In Wisconsin
