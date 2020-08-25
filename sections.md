@@ -1,5 +1,6 @@
 # 
 # Shooting
-# Protests and reactions
+# Protests
+# Reactions
 # See also
 # References
