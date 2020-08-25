@@ -1,6 +1,8 @@
 # 
 # Shooting
 # Investigation
+## Criminal case
+## Civil case
 # Protests
 # Reactions
 ## In Wisconsin
