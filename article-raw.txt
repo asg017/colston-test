@@ -2,14 +2,32 @@
 {{pp-protected|reason=Persistent addition of [[WP:INTREF|unsourced or poorly sourced content]]|small=yes}}
 {{Use mdy dates|date=August 2020}}
 {{current|date=August 2020}}
+
+
 {{Infobox event
 | title                    = <!-- Title to display, if other than page name -->
-| image                    = 
-| caption                  = 
-| time                     = {{circa|5:10&nbsp;pm}}
-| date                     = August 23, 2020
-| location                 = [[Kenosha]], [[Wisconsin]]
-| type                     = Shooting
+| image                 = 
+| image_upright      = 
+| image_alt            = 
+| caption                = 
+| time                    = {{circa|5:10&nbsp;pm}}
+| timezone             = [[Central Daylight Time|CDT]]
+| duration               = <!-- {{duration|h=x|m=x|s=x}} or {{time interval|date1|date2|options}} -->
+| date                    = {{start date|2020|08|23}}
+| location                = [[Kenosha]], [[Wisconsin]]
+| coordinates           = <!-- {{coord|LAT|LON|region:XXXX_type:event|display=inline,title}} -->
+| type                     = Police shooting
+| cause                   = 
+| filmed_by              = 
+| participants           = 
+| outcome                = 
+| casualties1           = Jacob Blake
+| reported injuries      = Gunshot wounds
+| inquiries                 = 
+| arrests                   = 
+| accused                 = 
+| charges                  = 
+| litigation                 = 
 }}
 
 On August 23, 2020, '''Jacob Blake''', (born April 30, 1991)<ref name="Government">{{cite web |title=Kenosha County Case Number 2020CF000736 State of Wisconsin vs. Jacob S. Blake |url=https://wcca.wicourts.gov/caseDetail.html?caseNo=2020CF000736&countyNo=30&index=0&mode=details |website=wcca.wicourts.gov |publisher=Wisconsin Circuit Court |accessdate=25 August 2020}}</ref> a 29-year-old black man, was shot from behind seven times by a police officer in [[Kenosha, Wisconsin]].<ref name="thedailybeast">{{cite web |last1=Connor |first1=Tracy |title=Wisconsin Police Shoot Black Man as He’s Getting in Car |url=https://www.thedailybeast.com/kenosha-wisconsin-police-shoot-black-man-as-hes-getting-in-car |publisher=[[The Daily Beast]] |date=August 24, 2020|accessdate=August 24, 2020}}</ref><ref name="thewashingtonpost">{{cite web |last1=Peiser |first1=Jaclyn |title=Video shows Wisconsin police shooting a Black man multiple times as he enters a car |url=https://www.washingtonpost.com/nation/2020/08/23/kenosha-police-shooting-video-wisconsin/ |publisher=[[The Washington Post]] |date=August 24, 2020 |accessdate=August 24, 2020}}</ref> Protests occurred in response, as part of the larger [[Black Lives Matter]] movement which had seen a resurgence in the wake of high-profile police killings in 2020, including those of [[Killing of George Floyd|George Floyd]], [[Killing of Rayshard Brooks|Rayshard Brooks]], and [[Shooting of Breonna Taylor|Breonna Taylor]].
