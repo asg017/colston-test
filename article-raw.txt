@@ -456,10 +456,10 @@ Harris has written two non-fiction books and one children's book.<ref>{{cite web
 
 * {{C-SPAN|kamalaharris}}
 * {{Curlie|Regional/North_America/United_States/California/Government/Federal/US_Senate/Kamala_Harris_%5BD%5D }}
+* {{IMDb name}}
 * [https://www.ontheissues.org/Kamala_Harris.htm Kamala Harris] at [[On the Issues]]
 * [https://www.politifact.com/personalities/kamala-harris/ Kamala Harris] at [[PolitiFact]]
 * {{CongLinks|votesmart = 120012}}
-* {{IMDb name}}
 
 {{Kamala Harris}}
 {{United States presidential election, 2020}}
