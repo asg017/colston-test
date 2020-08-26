@@ -3,7 +3,7 @@
 # Investigation and legal process
 # Protests
 # Reactions
-## In Wisconsin
+## Wisconsin
 ## Elsewhere
 # See also
 # References
