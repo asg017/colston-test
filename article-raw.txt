@@ -19,8 +19,8 @@
 | filmed_by              = 
 | participants           = 
 | outcome                = 
-| casualties1           = Jacob Blake
-| reported injuries      = Gunshot wounds
+| casualties1           = Jacob Blake (non-fatal injuries, 8 gunshot wounds)
+| reported injuries      = 
 | inquiries                 = 
 | arrests                   = 
 | accused                 = 
