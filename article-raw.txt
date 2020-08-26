@@ -3,7 +3,7 @@
 {{Use American English|date=July 2020}}
 {{Use mdy dates|date=August 2020}}
 {{Infobox officeholder
-| name         = Kamala Harris <!--Plural Harrises. Harris's (hers) sounds just like the Harrises' (theirs).-->
+| name         = Kamala Harris
 | image        = Kamala Harris official photo (cropped2).jpg
 | caption      = Harris in 2017
 | alt          = 
