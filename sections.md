@@ -4,7 +4,7 @@
 # Unrest
 ## Protest shooting
 # Reactions
-## Wisconsin
+## Politics
 ## Sports
 # See also
 # References
