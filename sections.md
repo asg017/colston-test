@@ -3,6 +3,7 @@
 # Shooting
 # Investigation and legal process
 # Unrest
+## Second shooting
 # Reactions
 ## Wisconsin
 ## Elsewhere
