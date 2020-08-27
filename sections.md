@@ -5,6 +5,6 @@
 # Reactions
 ## Wisconsin
 ## Elsewhere
-## Sports boycotts
+## Sports
 # See also
 # References
