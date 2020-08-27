@@ -5,7 +5,6 @@
 ## Protest shooting
 # Reactions
 ## Wisconsin
-## Elsewhere
 ## Sports
 # See also
 # References
