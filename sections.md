@@ -2,7 +2,7 @@
 # Background
 # Shooting
 # Investigation and legal process
-# Rioting
+# Unrest
 # Reactions
 ## Wisconsin
 ## Elsewhere
