@@ -1,7 +1,7 @@
 # 
 # Shooting
 # Investigation and legal process
-# Rioting
+# Protests
 # Reactions
 ## Wisconsin
 ## Elsewhere
