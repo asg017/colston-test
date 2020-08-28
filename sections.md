@@ -2,7 +2,9 @@
 # Shooting
 # Investigation and legal process
 # Subsequent protests
-## Fatal protest shooting
+## Kenosha protests
+### Fatal protest shooting
+## Elsewhere
 # Reactions
 ## Politics
 ## Sports
