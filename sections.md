@@ -2,7 +2,7 @@
 # Shooting
 # Investigation and legal process
 # Unrest
-## Protest shooting
+# Fatal protest shooting
 # Reactions
 ## Politics
 ## Sports
