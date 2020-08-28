@@ -1,7 +1,7 @@
 # 
 # Shooting
 # Investigation and legal process
-# Unrest
+# Kenosha protests
 ## Fatal protest shooting
 # Reactions
 ## Politics
