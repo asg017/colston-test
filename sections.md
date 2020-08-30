@@ -44,6 +44,9 @@
 ## Presidential campaign
 ## Vice presidential campaign
 # Awards and honors
+## Scholastic
+## Honorary degrees
+## Memberships and fellowships
 # Personal life
 # Publications
 # See also
