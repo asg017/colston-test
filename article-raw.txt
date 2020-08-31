@@ -444,7 +444,7 @@ the state.<ref name="nomination">{{cite news|title=Kamala Harris wins Dem nomina
 |+Memberships and fellowships
 ! style="width:20%;"| Location
 ! style="width:20%;"| Date
-! style="width:40%;"| Organisation
+! style="width:40%;"| Organization
 ! style="width:20%;"| Position
 |-
 | {{Flagu|California}} || '''June 1990{{spaced ndash}}Present'''  || [[State Bar of California]] || Member <ref name="Cal. bar">{{cite web|title=Attorney Licensee Profile, Kamala Devi Harris #146672|website=The State Bar of California|url=http://members.calbar.ca.gov/fal/Licensee/Detail/146672 | access-date= August 1, 2020}}</ref>
