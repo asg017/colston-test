@@ -416,7 +416,7 @@ the state.<ref name="nomination">{{cite news|title=Kamala Harris wins Dem nomina
 ! style="width:40%;"| School
 ! style="width:20%;"| Degree
 |-
-| {{Flagu|District of Columbia}} || '''1986''' || [[Howard University]] || [[Bachelor of Arts]] (BA) in [[Political Science]] and [[Economics]]
+| {{Flagu|District of Columbia}} || '''1986''' || [[Howard University]] || [[Bachelor of Arts]] (BA) in [[political science]] and [[economics]]
 |-
 | {{Flagu|California}} || '''1989''' || [[University of California, Hastings College of the Law]] || [[Juris Doctor]] (JD)
 |}
