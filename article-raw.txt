@@ -409,9 +409,8 @@ the state.<ref name="nomination">{{cite news|title=Kamala Harris wins Dem nomina
 
 ===Scholastic===
 
-; University Degrees
-
 {| class="wikitable" style="width:100%;"
+|+University Degrees
 ! style="width:20%;"| Location
 ! style="width:20%;"| Date
 ! style="width:40%;"| School
@@ -423,9 +422,9 @@ the state.<ref name="nomination">{{cite news|title=Kamala Harris wins Dem nomina
 |}
 
 ===Honorary degrees===
-;Honorary degrees
 
 {| class="wikitable" style="width:100%;"
+|+Honorary degrees
 ! style="width:20%;"| Location
 ! style="width:20%;"| Date
 ! style="width:40%;"| School
@@ -442,6 +441,7 @@ the state.<ref name="nomination">{{cite news|title=Kamala Harris wins Dem nomina
 
 ===Memberships and fellowships===
 {| class="wikitable" style="width:100%;"
+|+Memberships and fellowships
 ! style="width:20%;"| Location
 ! style="width:20%;"| Date
 ! style="width:40%;"| Organisation
