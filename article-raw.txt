@@ -443,6 +443,8 @@ the state.<ref name="nomination">{{cite news|title=Kamala Harris wins Dem nomina
 |-
 | {{Flagu|California}} || '''June 1990{{spaced ndash}}Present'''  || [[State Bar of California]] || Member <ref name="Cal. bar">{{cite web|title=Attorney Licensee Profile, Kamala Devi Harris #146672|website=The State Bar of California|url=http://members.calbar.ca.gov/fal/Licensee/Detail/146672 | access-date= August 1, 2020}}</ref>
 |-
+| {{Flagu|District of Columbia}} || '''2006{{spaced ndash}}Present'''  || [[Aspen Institute]] || Rodel Fellow
+|-
 |}
 
 {{Expand list|date=August 2020}}
