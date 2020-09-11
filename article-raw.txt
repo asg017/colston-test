@@ -402,12 +402,12 @@ In 2010, California's largest legal newspaper ''[[The Daily Journal Corporation|
 
 === Scholastic ===
 
-{| class="wikitable" style="width:100%;"
+{| class="wikitable"
 |+University degrees
-! style="width:20%;"| Location
-! style="width:20%;"| Date
-! style="width:40%;"| School
-! style="width:20%;"| Degree
+! Location
+! Date
+! School
+! Degree
 |-
 | {{Flagu|District of Columbia}} || '''1986''' || [[Howard University]] || [[Bachelor of Arts]] (BA) in [[political science]] and [[economics]]
 |-
@@ -416,13 +416,13 @@ In 2010, California's largest legal newspaper ''[[The Daily Journal Corporation|
 
 === Honorary degrees ===
 
-{| class="wikitable" style="width:100%;"
+{| class="wikitable" 
 |+Honorary degrees
-! style="width:20%;"| Location
-! style="width:20%;"| Date
-! style="width:40%;"| School
-! style="width:20%;"| Degree
-! style="width:20%;"| Gave Commencement Address
+! Location
+! Date
+! School
+! Degree
+! Gave Commencement Address
 |-
 | {{Flagu|California}} || '''May 15, 2015''' || [[University of Southern California]] || [[Doctor of Laws]] (LL.D) <ref>{{cite web|url=https://commencement.usc.edu/history/2000-to-present/|title=Speakers, Honorary Degree Recipients: 2000 to present &#124; USC}}</ref><ref>{{cite web|url=https://honorarydegrees.usc.edu/past-recipients/|title=Past Recipients · Honorary Degrees|website=honorarydegrees.usc.edu}}</ref><ref>{{cite web|url=https://about.usc.edu/history/commencement/|title=USC's Commencement History &#124; About USC|website=about.usc.edu}}</ref> || No 
 |-
